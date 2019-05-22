@@ -4,6 +4,14 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="FR-FR"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Vous avez une question ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190522T121555Z" creationid="Sarita" creationdate="20190522T121555Z">
+        <seg>¿Tiene alguna pregunta?</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
