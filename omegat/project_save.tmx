@@ -1,15 +1,879 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="FR-FR"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="FR-FR"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>- Contacter le numéro du service qualité de la marque de votre produit.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T133232Z" creationid="Sarita" creationdate="20190508T133232Z">
+        <seg>- Póngase en contacto con el número de servicio de calidad de la marca de su producto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>- Contacter ou vous rendre au point accueil de votre magasin</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T133130Z" creationid="Sarita" creationdate="20190508T133005Z">
+        <seg>- Póngase en contacto o diríjase al punto de recepción de su tienda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>-ne communiquez pas vos données personnelles : numéro de carte bancaire, code carte bancaire, etc ...</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190510T142354Z" creationid="Sarita" creationdate="20190510T142354Z">
+        <seg>-No comunique sus datos personales: número de tarjeta de crédito, código de tarjeta bancaria, etc ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>-ne répondez pas aux sollicitations,</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T113158Z" creationid="Cristina" creationdate="20190515T113158Z">
+        <seg>-no responda a las solicitudes,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>-on vous annonce que vous avez remporté un jeu concours,</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T113004Z" creationid="Cristina" creationdate="20190515T113004Z">
+        <seg>-le anunciamos que ha ganado un concurso,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>-on vous demande de répondre à un sondage d’opinion.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T113033Z" creationid="Cristina" creationdate="20190515T113033Z">
+        <seg>-le pedimos que responda a un cuestionario de opinión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>-on vous demande de souscrire à un abonnement,</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T113018Z" creationid="Cristina" creationdate="20190515T113018Z">
+        <seg>-le pedimos que se suscriba a una cuota,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>-signalez le cas d’escroquerie présumée au service client de E. Leclerc.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190510T142842Z" creationid="Sarita" creationdate="20190510T142842Z">
+        <seg>-denuncie el supuesto E. Leclerc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>-« 25 euros remboursés dans votre supermarché E.Leclerc »</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T111352Z" creationid="Cristina" creationdate="20190515T111352Z">
+        <seg>-"25 euros de reembolso en tu supermercado E.Leclerc"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>-« Offre E Leclerc : 50EUR sur votre ticket de caisse profitez-en »</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T111413Z" creationid="Cristina" creationdate="20190515T111413Z">
+        <seg>-“E Leclerc ofrece: 50EUR en su ticket de compra”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>-« Offre de bienvenue : 25€ remboursés sur vos courses »</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T111317Z" creationid="Cristina" creationdate="20190515T111317Z">
+        <seg>-"Oferta de bienvenida: 25€ de reembolso en tus compras"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>-« Remportez un bon d’achat de 1000 euros »</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T111330Z" creationid="Cristina" creationdate="20190515T111330Z">
+        <seg>-"Gana un cheque de 1000 euros"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>-« [votre adresse mail], votre carte d’achat est toujours en attente »</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T111434Z" creationid="Cristina" creationdate="20190515T111434Z">
+        <seg>-"[su dirección de correo electrónico], su tarjeta de crédito aún está en trámites"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>-« [votre nom], on vous rembourse vos courses chez Leclerc »</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T111420Z" creationid="Cristina" creationdate="20190515T111420Z">
+        <seg>-"[su nombre], le reembolsaremos sus compras en Leclerc"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>1.&lt;s0&gt; &lt;/s0&gt;Comment détecter une tentative de phishing par email?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T111108Z" creationid="Cristina" creationdate="20190515T111108Z">
+        <seg>1.&lt;s0&gt; &lt;/s0&gt;¿Cómo detectar un intento de phishing por correo electrónico?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>2.&lt;s0&gt; &lt;/s0&gt;Que faire si vous êtes confronté à une tentative de phishing?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T113122Z" creationid="Cristina" creationdate="20190515T113122Z">
+        <seg>2.&lt;s0&gt; &lt;/s0&gt;¿Qué hacer si está ante un intento de phishing?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>3.&lt;s0&gt; &lt;/s0&gt;Que faire si vous pensez être victime de phishing ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190510T143212Z" creationid="Sarita" creationdate="20190510T143212Z">
+        <seg>3.&lt;s0&gt; &lt;/s0&gt;¿Qué hacer si cree que es víctima de phishing ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>&lt;a0&gt;Le Manège à Bijoux&lt;/a0&gt;, &lt;a1&gt;Parapharmacie&lt;/a1&gt;, &lt;a2&gt;L’Auto&lt;/a2&gt;, &lt;a3&gt;L’optique&lt;/a3&gt;, &lt;a4&gt;E.Leclerc Voyages&lt;/a4&gt;, &lt;a5&gt;Une heure pour soi&lt;/a5&gt;, &lt;a6&gt;Espace culturel&lt;/a6&gt;, &lt;a7&gt;Jardi E.Leclerc&lt;/a7&gt;, &lt;a8&gt;Brico E.Leclerc&lt;/a8&gt;, &lt;a9&gt;Sports et loisirs&lt;/a9&gt;, &lt;a10&gt;Loué chez&lt;/a10&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="alumno" changedate="20190508T124145Z" creationid="alumno" creationdate="20190508T120429Z">
+        <seg>&lt;a0&gt;El Paseo de Joyas&lt;/a0&gt;, &lt;a1&gt;Parafarmacia&lt;/a1&gt;, &lt;a2&gt;Automóbiles&lt;/a2&gt;, &lt;a3&gt;La óptica&lt;/a3&gt;, &lt;a4&gt;ViajesE .Leclerc&lt;/a4&gt;, &lt;a5&gt;Una hora para ti mismo&lt;/a5&gt;, &lt;a6&gt;Espacio cultural&lt;/a6&gt;, &lt;a7&gt;Jardinería E.Leclerc&lt;/a7&gt;, &lt;a8&gt;Bricomanía E.Leclerc&lt;/a8&gt;, &lt;a9&gt;Deportes y recreación&lt;/a9&gt;, &lt;a10&gt;Alquileres de viviendas&lt;/a10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>&lt;s0&gt;Tous nos métiers et nos offres sont à votre dispositon sur le site : &lt;/s0&gt;&lt;a1&gt;&lt;s2&gt;w&lt;/s2&gt;&lt;s3&gt;ww.recrutement.leclerc&lt;/s3&gt;&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190510T144422Z" creationid="Sarita" creationdate="20190510T144422Z">
+        <seg>&lt;s0&gt;Todos nuestros puestos y ofertas de trabajo están a su disposición en la página web: &lt;/s0&gt;&lt;a1&gt;&lt;s2&gt;w&lt;/s2&gt;&lt;s3&gt;ww.recrutement.leclerc&lt;/s3&gt;&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>&lt;s2&gt;Nous vous invitons donc à prendre contact avec votre magasin le plus proche de chez vous, afin qu'il puisse répondre au mieux à votre demande.&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190510T144722Z" creationid="Sarita" creationdate="20190510T144722Z">
+        <seg>&lt;s2&gt;Por lo tanto, les invitamos a ponerse en contacto con su tienda más cercana para que pueda responder mejor a su solicitud.&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>&lt;s7&gt;&lt;e8&gt;* Dans le centre E.Leclerc de l’achat, sur présentation du ticket de caisse, à condition que le produit soit restitué dans son état et emballage d’origine non ouvert hors produits frais.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190510T141440Z" creationid="Cristina" creationdate="20190510T141244Z">
+        <seg>&lt;s7&gt;&lt;e8&gt;*En el centro E.Leclerc de la compra, en la presentación del recibo, siempre que el producto se devuelva en su estado original sin abrir el envasado, excepto los productos frescos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>A titre d’exemple :</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T112953Z" creationid="Cristina" creationdate="20190515T112953Z">
+        <seg>Como, por ejemplo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>A titre d’exemples :</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T111236Z" creationid="Cristina" creationdate="20190515T111236Z">
+        <seg>Como, por ejemplo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Après avoir sélectionné le magasin de votre choix, vous serez redirigé vers la page du magasin.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T114749Z" creationid="Sarita" creationdate="20190508T114749Z">
+        <seg>Después de seleccionar la tienda de su elección, será redirigido a la página de la tienda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Auto</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="alumno" changedate="20190508T124007Z" creationid="alumno" creationdate="20190508T115645Z">
+        <seg>Automóbiles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Billetterie</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190510T141701Z" creationid="Sarita" creationdate="20190508T123832Z">
+        <seg>Billeterie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Brico</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="alumno" changedate="20190508T115942Z" creationid="alumno" creationdate="20190508T115942Z">
+        <seg>Bricomanía</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Cet engagement ne s’applique pas aux produits soldés, aux sous-vêtements, aux produits frais, à la téléphonie mobile et à la billetterie E.Leclerc (voir conditions particulières en magasin).&lt;/e8&gt;&lt;/s7&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190510T141737Z" creationid="Cristina" creationdate="20190510T141737Z">
+        <seg>Este compromiso no se aplica a productos de venta, ropa interior, productos frescos, teléfonos móviles y emisión de cupones de E.Leclerc (consulte las condiciones especiales en la tienda).&lt;/e8&gt;&lt;/s7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Charte accueil</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190510T142050Z" creationid="Cristina" creationdate="20190510T142050Z">
+        <seg>Carta de acogida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Comment créer et consulter mon Espace Carte ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190510T150152Z" creationid="Sarita" creationdate="20190510T150152Z">
+        <seg>¿Cómo crear y consultar mi espacio de tarjeta?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Comment trouver tous les produits en promotion dans un magasin ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T134057Z" creationid="Sarita" creationdate="20190508T134057Z">
+        <seg>¿Cómo encontrar todos los productos en promoción en una tienda?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Compléter notre formulaire de contact "Envoyez-nous un message", en bas de la page FAQ.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T115858Z" creationid="Sarita" creationdate="20190508T115858Z">
+        <seg>Complete nuestro formulario de contacto "Envíenos un mensaje", en la parte inferior de la página de Preguntas frecuentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Connaître les dates d’ouverture et de fermeture exceptionnelles de mon magasin E-Leclerc.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="alumno" changedate="20190508T122733Z" creationid="alumno" creationdate="20190508T122652Z">
+        <seg>Conozca nuestros días de abertura y cierre de nuestra tienda E-Leclerc..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Connaître les horaires d'ouverture et de fermeture de mon magasin E-Leclerc.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="alumno" changedate="20190508T122659Z" creationid="alumno" creationdate="20190508T120950Z">
+        <seg>Conozca nuestros horarios de abertura y cierre de nuestra tienda E-Leclerc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Contacter mon magasin E.Leclerc ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="alumno" changedate="20190508T123828Z" creationid="alumno" creationdate="20190508T123828Z">
+        <seg>¿Contactar con tu tienda E.Leclerc ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Dans le cas où les livres, CD, cassettes VHS, DVD, CD Rom ou jeux pour consoles auraient été ouverts, un échange titre à titre sera effectué dans les 15 jours.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190510T141557Z" creationid="Cristina" creationdate="20190510T141557Z">
+        <seg>En el caso de que se hayan abierto libros, CD, cintas VHS, DVD, CD-ROM o juegos para consolas, se realizará un intercambio del mismo producto dentro de los 15 días.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Dans tous les cas, vous êtes invité à cliquer sur un lien.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T113059Z" creationid="Cristina" creationdate="20190515T113059Z">
+        <seg>En cualquier caso, estás invitado a hacer clic en un enlace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>De ce fait, les stocks et les promotions sont gérés localement.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T131734Z" creationid="Sarita" creationdate="20190508T131645Z">
+        <seg>Como resultado, las existencias y promociones se gestionan localmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Des appels téléphoniques usurpant l’identité du mouvement E. Leclerc nous ont également été signalés.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T111017Z" creationid="Cristina" creationdate="20190515T111017Z">
+        <seg>Las llamadas telefónicas, usurpando la identidad del movimiento de E. Leclerc también fueron denunciadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>E.LECLERC est un mouvement d'indépendants, de ce fait chaque magasin applique sa propre politique en terme d'acceptation de moyens de paiement.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T120714Z" creationid="Sarita" creationdate="20190508T120714Z">
+        <seg>E.LECLERC es un movimiento independiente, por lo que cada tienda aplica su propia política en términos de aceptación de medios de pago.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>E.LECLERC est un mouvement d'indépendants.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T131354Z" creationid="Sarita" creationdate="20190508T131354Z">
+        <seg>E.LECLERC es un movimiento independiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Espace culturel</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="alumno" changedate="20190508T115859Z" creationid="alumno" creationdate="20190508T115859Z">
+        <seg>Espacio cultural</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Faire part d'un problème constaté en magasin.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T115341Z" creationid="Sarita" creationdate="20190508T115341Z">
+        <seg>Informar de un problema en las tiendas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Il vous est alors demandé de communiquer vos nom et prénom, votre adresse mail et vos coordonnées bancaires (RIB, numéro de carte bancaire, cryptogramme).</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T113111Z" creationid="Cristina" creationdate="20190515T113111Z">
+        <seg>Luego le solicita que proporcione su nombre y apellido, su dirección de correo electrónico y sus datos bancarios (RIB, número de tarjeta de crédito, criptograma).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Il vous promet des offres très avantageuses.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T111228Z" creationid="Cristina" creationdate="20190515T111228Z">
+        <seg>Te promete ofertas muy ventajosas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Il vous suffit de vous rendre sur la page d’accueil du magasin de votre choix  en cliquant sur le logo &lt;s0&gt;"Mon magasin"&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="alumno" changedate="20190508T123735Z" creationid="alumno" creationdate="20190508T123735Z">
+        <seg>Simplemente, vaya a la página de inicio de la tienda elegida clicando en el logotipo &lt;s0&gt;"Mi tienda"&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>J'ai acheté un produit alimentaire qui pose un souci de qualité : que dois-je faire ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T132907Z" creationid="Sarita" creationdate="20190508T132609Z">
+        <seg>He comprado un producto alimenticio que plantea una preocupación de calidad: ¿qué debo hacer?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Jardi</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="alumno" changedate="20190508T115932Z" creationid="alumno" creationdate="20190508T115932Z">
+        <seg>Jardinería</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Je souhaite faire visiter un magasin à mes élèves.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190510T144810Z" creationid="Sarita" creationdate="20190510T144810Z">
+        <seg>Quiero mostrarles una tienda a mis alumnos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Je souhaite proposer ma candidature ou consulter les offres (stage/emploi).</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190510T144225Z" creationid="Sarita" creationdate="20190510T144225Z">
+        <seg>Deseo proponer mis candidaturas o consultar las ofertas (prácticas/empleo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>L'enseigne E.LECLERC est un mouvement d'indépendants, c'est pourquoi chaque magasin met en œuvre sa propre politique.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190510T144940Z" creationid="Sarita" creationdate="20190510T144839Z">
+        <seg>&lt;s0&gt;La marca E.LECLERC es un movimiento independiente, por lo que cada tienda aplica su propia política.&lt;/s0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>La disponibilité des produits et leurs prix sont indiqués en magasin, nous vous invitons donc à vous renseigner au Point Accueil de votre centre E.LECLERC.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T132045Z" creationid="Sarita" creationdate="20190508T132045Z">
+        <seg>La disponibilidad de los productos y sus precios están indicados en la tienda, por lo que le invitamos a que solicite información el punto de recepción de su centro E.LECLERC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Le mail peut comporter différentes informations.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T112943Z" creationid="Cristina" creationdate="20190515T112943Z">
+        <seg>El correo electrónico puede contener información diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Le numéro de téléphone se trouve en général au dos du produit.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T133306Z" creationid="Sarita" creationdate="20190508T133306Z">
+        <seg>El número de teléfono suele estar en la parte posterior del producto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Le site E-leclerc.com est un site non-marchand.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190510T141823Z" creationid="Cristina" creationdate="20190510T141823Z">
+        <seg>El sitio E-leclerc.com es un sitio no comercial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Les coordonées de votre centre E.LECLERC sont disponibles sur la page accueil de votre magasin  en cliquant sur le logo &lt;s0&gt;mon magasin.&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T121753Z" creationid="Sarita" creationdate="20190508T121028Z">
+        <seg>Las coordenadas de su centro E.LECLERC están disponibles en la página de inicio de su tienda haciendo clic en el logotipo &lt;s0&gt;mi tienda.&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Les emails peuvent être très réalistes car ils reproduisent la marque et/ou le logo E. Leclerc à l’identique.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T111119Z" creationid="Cristina" creationdate="20190515T111119Z">
+        <seg>Los correos electrónicos pueden ser muy realistas porque reproducen la marca y / o el logotipo de E. Leclerc con la misma identidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Les rappels de produits.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T133425Z" creationid="Sarita" creationdate="20190508T133425Z">
+        <seg>Las recogidas de productos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Les rappels produits sont affichés au Point Accueil de votre magasin.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T134010Z" creationid="Sarita" creationdate="20190508T134010Z">
+        <seg>Las recogidas de productos se muestran en el punto de recepción de su tienda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Mes produits</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190510T140241Z" creationid="Cristina" creationdate="20190510T140241Z">
+        <seg>Mis productos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Mes promotions</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T134020Z" creationid="Sarita" creationdate="20190508T134020Z">
+        <seg>Mis promociones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Même si la marque E. Leclerc est utilisée, cela ne signifie pas que le mouvement E. Leclerc en est à l’origine.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T111154Z" creationid="Cristina" creationdate="20190515T111154Z">
+        <seg>Incluso si se usa la marca E. Leclerc, esto no significa que el movimiento de E. Leclerc es responsable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>N'hésitez pas à vous rapprocher de l'accueil de votre magasin pour connaître ses horaires d'ouverture et fermeture exceptionnelles.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="alumno" changedate="20190508T121926Z" creationid="alumno" creationdate="20190508T121926Z">
+        <seg>No dude en acercarse a la recepción de su tienda para consultar los horarios excepcionales de apertura y cierre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>N'hésitez pas à vous rapprocher de l'accueil de votre magasin pour connaître ses jours d'ouverture et fermeture exceptionnels.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="alumno" changedate="20190508T123056Z" creationid="alumno" creationdate="20190508T123056Z">
+        <seg>No dude en acercarse a la recepción de su tienda para consultar los días excepcionales de apertura y cierre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Nous constatons plus particulièrement une recrudescence de tentatives de phishing par emails.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T111055Z" creationid="Cristina" creationdate="20190515T111055Z">
+        <seg>En particular, estamos viendo un aumento en los intentos de phishing por correo electrónico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Nous vous demandons la plus grande vigilance lorsque vous faites face à de telles sollicitations car il s’agit de tentatives d’escroquerie, encore appelées tentatives de phishing.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T111043Z" creationid="Cristina" creationdate="20190515T111043Z">
+        <seg>Le pedimos la máxima atención cuando se trata de tales solicitudes porque son intentos de estafa, todavía llamados intentos de phishing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Nous vous invitons donc à prendre contact avec votre magasin le plus proche de chez vous, afin qu'il puisse répondre au mieux à votre demande.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190510T145039Z" creationid="Sarita" creationdate="20190510T145039Z">
+        <seg>&lt;s2&gt;Por lo tanto, les invitamos a ponerse en contacto con su tienda más cercana para que pueda responder mejor a su solicitud.&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Nous vous invitons également à vous rendre auprès des services de police les plus proches de chez vous afin de signaler les faits.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190510T144049Z" creationid="Sarita" creationdate="20190510T144049Z">
+        <seg>También les invitamos a visitar los servicios de policía más cercanos para denunciar los hechos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Optique</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="alumno" changedate="20190508T115710Z" creationid="alumno" creationdate="20190508T115710Z">
+        <seg>Óptica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Pendant les jours fériés ou en période de fêtes de fin d’année, les horaires d’ouverture de certains magasins peuvent changer.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="alumno" changedate="20190508T123306Z" creationid="alumno" creationdate="20190508T122058Z">
+        <seg>Durante los días festivos o en periodos festivos, los horarios de apertura y cierre de algunas tiendas puede cambiar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Pendant les jours fériés ou en période de fêtes de fin d’année, les jours d’ouverture de certains magasins peuvent évoluer.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="alumno" changedate="20190508T123144Z" creationid="alumno" creationdate="20190508T123144Z">
+        <seg>Durante los días festivos o en periodos de fiesta, los días de apertura y cierre de algunas tiendas puede cambiar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Peut-on échanger un produit dans un centre E.LECLERC ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190510T140315Z" creationid="Cristina" creationdate="20190510T140315Z">
+        <seg>¿Podemos cambiar un producto en un centro de E.LECLERC?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Pour commander des produits dans l'univers E.LECLERC, vous pouvez vous rendre sur nos sites marchands et partenaires :</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T123248Z" creationid="Sarita" creationdate="20190508T123248Z">
+        <seg>Para ordenar productos en el universo E.LECLERC, puede visitar nuestros sitios comerciales y de socios:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Pour connaitre les moyens de paiement acceptés dans votre centre E.LECLERC, vous pouvez contacter le Point Accueil de votre magasin.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T120856Z" creationid="Sarita" creationdate="20190508T120856Z">
+        <seg>Para conocer los medios de pago de su tienda E.LECLERC, puede comunicarse con el punto de recepción de su tienda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Pour contacter un magasin E-Leclerc, nous vous invitons à cliquer sur &lt;s0&gt;"Mon magasin"&lt;/s0&gt; en haut à droite de la page, renseigner votre code postal.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T114639Z" creationid="Sarita" creationdate="20190508T114639Z">
+        <seg>Para contactar con una tienda E-Leclerc, les invitamos a hacer clic en &lt;s0&gt;"Mi tienda"&lt;/s0&gt; en la parte superior derecha de la página, rellene su código postal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Pour contacter un magasin E-Leclerc, nous vous invitons à cliquer sur &lt;s2&gt;"Mon magasin"&lt;/s2&gt; en haut à droite de la page, renseigner votre code postal.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T122126Z" creationid="Sarita" creationdate="20190508T120502Z">
+        <seg>Para contactar con una tienda E-Leclerc, les invitamos a hacer clic en &lt;s2&gt;"Mi tienda"&lt;/s2&gt; en la parte superior derecha de la página, rellene su código postal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Pour en savoir plus, cliquez ici</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190522T122142Z" creationid="Cristina" creationdate="20190522T122142Z">
+        <seg>Para saber más, haga clic aquí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Pour faire part d'une remarque sur un magasin, nous vous invitons à prendre contact avec l'accueil de votre magasin ou contacter le Service Client ALLO E.LECLERC au 09 69 32 42 52.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T115719Z" creationid="Sarita" creationdate="20190508T115719Z">
+        <seg>Para hacer un comentario de una tienda, lo invitamos a ponerse en contacto con la recepción de su tienda o contactar con el Servicio de atención al cliente de Hola E.LECLERC al 09 69 32 42 52.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Pour pouvoir être informé des nouveautés et des promotions, nous vous invitons à créer votre espace personnalisé ou à vous connecter sur le site de votre magasin en cliquant sur le logo mon magasin et à vous inscrire à nos newsletters .</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T132355Z" creationid="Sarita" creationdate="20190508T132355Z">
+        <seg>Para estar informado de las novedades y promociones, le invitamos a crear su espacio personalizado o a conectarse al sitio web de su tienda haciendo clic en el logotipo de mi tienda y a inscribirse en nuestras newslettres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Pour retrouver les dates d'ouvertures et de fermetures exceptionnelles de votre centre E.LECLERC.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="alumno" changedate="20190508T123538Z" creationid="alumno" creationdate="20190508T123437Z">
+        <seg>Para consultar las fechas excepcionales de apertura y cierre de su centro E.LECLERC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Pour trouver le magasin spécialisé le plus proche de chez vous, nous vous invitons à cliquer sur :</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="alumno" changedate="20190508T123906Z" creationid="alumno" creationdate="20190508T115029Z">
+        <seg>Para localizar tu tienda especializada más cercana, haga click en:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Pour trouver les jours d'ouverture de votre magasin E-Leclerc, nous vous invitons à cliquer sur &lt;s0&gt;"Mon magasin"&lt;/s0&gt; en haut à droite de la page, sélectionner le magasin de votre choix.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="alumno" changedate="20190508T123009Z" creationid="alumno" creationdate="20190508T123009Z">
+        <seg>Para localizar los días de apertura de su tienda E-Leclerc, le invitamos a clicar en &lt;s0&gt;"Mi tienda"&lt;/s0&gt; en la parte superior derecha de la página, seleccione la tienda que quiera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Quelle est la disponibilité d’un produit dans un centre E.LECLERC ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T124757Z" creationid="Sarita" creationdate="20190508T124757Z">
+        <seg>¿Cuál es la disponibilidad de un producto en un centro E.LECLERC ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Quels produits puis je trouver sur e-leclerc.com ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190510T141759Z" creationid="Cristina" creationdate="20190510T141759Z">
+        <seg>¿Qué productos puedo encontrar en e-leclerc.com?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Retrouver un objet perdu en magasin ou sur le parking du magasin.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T120232Z" creationid="Sarita" creationdate="20190508T120117Z">
+        <seg>Encuentre un objecto perdido en la tienda o en el aparcamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Selon les points de vente, certains articles peuvent être non-référencés.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T131841Z" creationid="Sarita" creationdate="20190508T131841Z">
+        <seg>Dependiendo del punto de venta, algunos artículos pueden no estar referenciados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Si vous avez communiqué vos coordonnées bancaires, faites opposition auprès de votre banque.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190510T143913Z" creationid="Sarita" creationdate="20190510T143630Z">
+        <seg>Si ha proporcionado sus datos bancarios, haga oposición a su banco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Si vous recevez un email douteux :</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T113145Z" creationid="Cristina" creationdate="20190515T113145Z">
+        <seg>Si recibe un correo electrónico sospechoso:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Si vous rencontrez un souci de qualité sur l'un de vos produits plusieurs solutions s'offrent à vous.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T132847Z" creationid="Sarita" creationdate="20190508T132847Z">
+        <seg>Si le preocupa la calidad de uno de sus productos, hay varias soluciones disponibles para usted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Sport</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="alumno" changedate="20190508T120037Z" creationid="alumno" creationdate="20190508T120037Z">
+        <seg>Deporte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Travailler chez / avec E.Leclerc</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190510T144109Z" creationid="Sarita" creationdate="20190510T144109Z">
+        <seg>Trabajar en/con E.Leclerc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Trouver le magasin spécialisé le plus proche de chez moi (La jardinerie, la Parapharmacie, L’Auto…).</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="alumno" changedate="20190508T124043Z" creationid="alumno" creationdate="20190508T114937Z">
+        <seg>Localiza tu tienda especializada más cercana (Centro de jardinería, Parafarmacia, Automóbiles...).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Trouver les moyens de paiement acceptés en magasin.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T120557Z" creationid="Sarita" creationdate="20190508T120557Z">
+        <seg>Encuentre los medios de pago aceptados en la tienda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Une heure pour soi</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="alumno" changedate="20190508T115843Z" creationid="alumno" creationdate="20190508T115843Z">
+        <seg>Una hora para ti mismo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Vous avez la possibilité de nous contacter par email.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T115801Z" creationid="Sarita" creationdate="20190508T115801Z">
+        <seg>Puede contactar con nosotros por correo electrónico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Vous avez répondu à une sollicitation et vous réalisez par exemple, que les bons d’achats promis ne sont pas acceptés dans les magasins E. Leclerc, que l’abonnement auquel vous avez souscrit ne vous donne droit à aucun des avantages annoncés, etc.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190510T143534Z" creationid="Sarita" creationdate="20190510T143534Z">
+        <seg>Ha respondido a una solicitud y se da cuenta de que los vales prometidos no se aceptan en las tiendas de E.ç Leclerc, de que la suscripción a la que se ha suscrito no le da derecho a ninguno de los beneficios anunciados, etc.</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv lang="FR-FR">
         <seg>Vous avez une question ?</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190522T121555Z" creationid="Sarita" creationdate="20190522T121555Z">
         <seg>¿Tiene alguna pregunta?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Vous pouvez :</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T132926Z" creationid="Sarita" creationdate="20190508T132916Z">
+        <seg>Podéis puede:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Vous pouvez cependant y retrouver les différentes promotions en cours en magasin ainsi que nos produits MDD.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190510T142000Z" creationid="Cristina" creationdate="20190510T142000Z">
+        <seg>Sin embargo, puede encontrar las diversas promociones en la tienda y nuestros productos de marca blanca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Vous pouvez également signaler le mail sur le site Signal-spam : http://www.signal-spam.fr</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190510T143102Z" creationid="Sarita" creationdate="20190510T143102Z">
+        <seg>También puede informar en el correo electrónico en la página web Signal-spam : http://www.signal-spam.fr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Vous trouverez  le numéro de téléphone de l'accueil de votre magasin.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T114944Z" creationid="Sarita" creationdate="20190508T114944Z">
+        <seg>Encontrará el número de teléfono de la recepción de su tienda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>loué</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="alumno" changedate="20190508T120204Z" creationid="alumno" creationdate="20190508T120204Z">
+        <seg>Alquiler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>manège à bijoux</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="alumno" changedate="20190508T120324Z" creationid="alumno" creationdate="20190508T115614Z">
+        <seg>paseo de joya</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>parapharmacie</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="alumno" changedate="20190508T115623Z" creationid="alumno" creationdate="20190508T115623Z">
+        <seg>parafarmacia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>suqencity</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T124558Z" creationid="Sarita" creationdate="20190508T124558Z">
+        <seg>Sequencity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>voyage</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="alumno" changedate="20190508T115716Z" creationid="alumno" creationdate="20190508T115716Z">
+        <seg>Viajes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>•&lt;s0&gt; &lt;/s0&gt;&lt;s1&gt;Soyez attentifs au contenu du mail &lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T111500Z" creationid="Cristina" creationdate="20190515T111500Z">
+        <seg>•&lt;s0&gt; &lt;/s0&gt;&lt;s1&gt;Preste atención al contenido del correo&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>•&lt;s0&gt; &lt;/s0&gt;&lt;s1&gt;Soyez attentifs à l’expéditeur des mails &lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T111136Z" creationid="Cristina" creationdate="20190515T111136Z">
+        <seg>•&lt;s0&gt; &lt;/s0&gt;&lt;s1&gt;Preste atención al remitente de los correos &lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>•&lt;s0&gt; &lt;/s0&gt;&lt;s1&gt;Soyez attentifs à l’objet du mail &lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T111223Z" creationid="Cristina" creationdate="20190515T111223Z">
+        <seg>•&lt;s0&gt; &lt;/s0&gt;&lt;s1&gt;Preste atención al asunto del correo &lt;/s1&gt;</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
