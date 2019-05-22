@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="FR-FR"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="FR-FR"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -834,6 +834,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="alumno" changedate="20190508T115623Z" creationid="alumno" creationdate="20190508T115623Z">
         <seg>parafarmacia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>pour en savoir plus, cliquez ici</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190522T122619Z" creationid="Sarita" creationdate="20190522T122619Z">
+        <seg>Para saber más, cliq aquí</seg>
       </tuv>
     </tu>
     <tu>
