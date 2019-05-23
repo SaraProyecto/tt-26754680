@@ -622,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>E.LECLERC est un mouvement d'indépendants, de ce fait il est possible qu'en plus des promotions indiquées dans cette section votre magasin vous fasse beneficier de promotions locales supplémentaires.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T111837Z" creationid="Cristina" creationdate="20190523T111837Z">
+        <seg>E.LECLERC es un movimiento independiente, por lo que es posible que además de las promociones indicadas en esta sección su tienda le haga ganar promociones locales adicionales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>E.LECLERC est un mouvement d'indépendants.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T131354Z" creationid="Sarita" creationdate="20190508T131354Z">
@@ -1402,6 +1410,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190510T142000Z" creationid="Cristina" creationdate="20190510T142000Z">
         <seg>Sin embargo, puede encontrar las diversas promociones en la tienda y nuestros productos de marca blanca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Vous pouvez retrouver les produits en promotion dans votre magasin en  cliquant sur le logo &lt;s0&gt;mon magasin&lt;/s0&gt;, puis en cliquant sur l'onglet  &lt;s1&gt;"Promo"&lt;/s1&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T111755Z" creationid="Cristina" creationdate="20190523T111755Z">
+        <seg>Puede encontrar productos en promoción en su tienda haciendo clic en el logotipo &lt;s0&gt;mi tienda&lt;/s0&gt;, y luego haciendo clic en la pestaña  &lt;s1&gt;"Promo"&lt;/s1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
