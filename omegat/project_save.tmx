@@ -558,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Parce que toujours plus d'avantages, c'est un plus grand pouvoir d'achat !</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T090223Z" creationid="Cristina" creationdate="20190523T090223Z">
+        <seg>Porque cada vez más, ¡tiene un mayor poder adquisitivo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Pendant les jours fériés ou en période de fêtes de fin d’année, les horaires d’ouverture de certains magasins peuvent changer.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="alumno" changedate="20190508T123306Z" creationid="alumno" creationdate="20190508T122058Z">
@@ -802,6 +810,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190510T143102Z" creationid="Sarita" creationdate="20190510T143102Z">
         <seg>También puede informar en el correo electrónico en la página web Signal-spam : http://www.signal-spam.fr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Vous profitez grâce à votre Carte E.Leclerc, de nombreuses possibilités pour économiser de l'argent.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T090012Z" creationid="Cristina" creationdate="20190523T090012Z">
+        <seg>Usted puede disfrutar, gracias a su tarjeta E.Leclerc, de numerosas oportunidades para ahorrar dinero.</seg>
       </tuv>
     </tu>
     <tu>
