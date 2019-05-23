@@ -926,6 +926,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Le service après-vente désigne l’ensemble des services fournis aux clients après la vente.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T134921Z" creationid="Cristina" creationdate="20190523T134921Z">
+        <seg>El servicio post-venta se refiere a todos los servicios proporcionados a los clientes tras la venta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Le site E-leclerc.com est un site non-marchand.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190510T141823Z" creationid="Cristina" creationdate="20190510T141823Z">
@@ -1374,6 +1382,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Qu’est que le service après-vente ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T134718Z" creationid="Cristina" creationdate="20190523T134718Z">
+        <seg>¿Qué es el servicio post-venta?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Reglo mobile</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T110921Z" creationid="Cristina" creationdate="20190523T110921Z">
@@ -1402,6 +1418,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T131841Z" creationid="Sarita" creationdate="20190508T131841Z">
         <seg>Dependiendo del punto de venta, algunos artículos pueden no estar referenciados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Service après vente</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T134706Z" creationid="Cristina" creationdate="20190523T134706Z">
+        <seg>Servicio post-venta</seg>
       </tuv>
     </tu>
     <tu>
