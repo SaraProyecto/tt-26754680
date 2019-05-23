@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Les dépenses prisent en compte sont tous les achats que vous avez effectués en présentant votre Carte E.Leclerc, dans les magasins ou les sites de l’enseigne E.Leclerc.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T094850Z" creationid="Cristina" creationdate="20190523T094850Z">
+        <seg>Los gastos que cuentan son todas las compras realizadas con su Tarjeta E.Leclerc, en las tiendas o lugares de E.Leclerc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Les emails peuvent être très réalistes car ils reproduisent la marque et/ou le logo E. Leclerc à l’identique.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T111119Z" creationid="Cristina" creationdate="20190515T111119Z">
@@ -778,6 +786,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T124757Z" creationid="Sarita" creationdate="20190508T124757Z">
         <seg>¿Cuál es la disponibilidad de un producto en un centro E.LECLERC ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Quelles sont les dépenses prises en compte ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T094729Z" creationid="Cristina" creationdate="20190523T094729Z">
+        <seg>¿Cuáles son los gastos que cuentan?</seg>
       </tuv>
     </tu>
     <tu>
