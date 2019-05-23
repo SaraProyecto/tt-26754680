@@ -766,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>En cas de coûts de livraison et/ou de coûts de mise en service, le magasin doit vous en informer par écrit au moment de l’achat du coût des prestations.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T141239Z" creationid="Cristina" creationdate="20190523T141239Z">
+        <seg>En caso de gasts de envío y/o gastos de puesta en marcha, la tienda debe informarle por escrito al momento de la compra del costo de los servicios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>En fonction du produit, de la panne constatée, du montant de la réparation, de la disponibilité des pièces détachées auprès du fabricant et des conditions propres à chaque marque, le produit sera soit réparé, soit remboursé soit échangé.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T135740Z" creationid="Cristina" creationdate="20190523T135740Z">
@@ -1506,6 +1514,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190510T141759Z" creationid="Cristina" creationdate="20190510T141759Z">
         <seg>¿Qué productos puedo encontrar en e-leclerc.com?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Quels sont les coûts possible de livraison ou de mise en service ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T141056Z" creationid="Cristina" creationdate="20190523T141050Z">
+        <seg>¿Cuáles son los posibles costos de entrega o puesta en marcha?</seg>
       </tuv>
     </tu>
     <tu>
