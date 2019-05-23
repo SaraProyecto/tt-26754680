@@ -438,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Après-vente</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T134650Z" creationid="Cristina" creationdate="20190523T134650Z">
+        <seg>Post-venta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Auto</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="alumno" changedate="20190508T124007Z" creationid="alumno" creationdate="20190508T115645Z">
