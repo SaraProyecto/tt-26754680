@@ -582,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Comment puis-je me faire rembourser un produit acheté alors que la date de péremption est dépassée ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T141354Z" creationid="Cristina" creationdate="20190523T141354Z">
+        <seg>¿Cómo puedo recibir un reembolso por un producto comprado cuando haya pasado la fecha de caducidad?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Comment recevoir ou arrêter l'envoi d'un catalogue ?</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T112137Z" creationid="Cristina" creationdate="20190523T112137Z">
@@ -594,6 +602,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T095343Z" creationid="Cristina" creationdate="20190523T095302Z">
         <seg>¿Cómo están repartidas?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Comment suis-je informé de la récupération de mon produit après réparation ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T141252Z" creationid="Cristina" creationdate="20190523T141252Z">
+        <seg>¿Cómo estoy informado de la recuperación de mi producto después de la reparación?</seg>
       </tuv>
     </tu>
     <tu>
@@ -974,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Le magasin E.Leclerc d'intervention se charge de vous informer soit par mail ou sms en fonction de votre choix dès lors que le produit est remis à disposition au point SAV du magasin.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T141327Z" creationid="Cristina" creationdate="20190523T141327Z">
+        <seg>La tienda de intervención E.Leclerc es responsable de informarle por correo electrónico o sms dependiendo de su elección tan pronto como el producto sea devuelto al Servicio Post-venta de la tienda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Le mail peut comporter différentes informations.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T112943Z" creationid="Cristina" creationdate="20190515T112943Z">
@@ -1066,6 +1090,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T111119Z" creationid="Cristina" creationdate="20190515T111119Z">
         <seg>Los correos electrónicos pueden ser muy realistas porque reproducen la marca y / o el logotipo de E. Leclerc con la misma identidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Les garanties</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T141457Z" creationid="Cristina" creationdate="20190523T141447Z">
+        <seg>Las garantías</seg>
       </tuv>
     </tu>
     <tu>
@@ -1502,6 +1534,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Quelles sont les différentes garanties à ma disposition ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T141519Z" creationid="Cristina" creationdate="20190523T141519Z">
+        <seg>¿Qué diferentes garantías tengo mi disposición?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Quelles sont les dépenses prises en compte ?</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T094729Z" creationid="Cristina" creationdate="20190523T094729Z">
@@ -1562,6 +1602,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T111918Z" creationid="Cristina" creationdate="20190523T111918Z">
         <seg>Vaya a la tienda para descubrirlos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Retourner à l'accueil du magasin avec le produit et le ticket de caisse.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T141426Z" creationid="Cristina" creationdate="20190523T141426Z">
+        <seg>Regresar a la recepción de la tienda con el producto y el ticket.</seg>
       </tuv>
     </tu>
     <tu>
