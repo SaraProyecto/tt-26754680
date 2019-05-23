@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>C'est pourquoi, pour avoir un résumé précis de vos dépenses, il est important de bien présenter votre Carte à chaque passage en caisse.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T095038Z" creationid="Cristina" creationdate="20190523T095038Z">
+        <seg>Es por eso que, para tener un resumen específico de sus compras, es importante presertar su Tarjeta al pasa por caja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Ce solde est automatiquement alimenté à chacun de vos passages en caisse, lorsque vous bénéficiez de Tickets E.Leclerc.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T090826Z" creationid="Cristina" creationdate="20190523T090826Z">
@@ -290,6 +298,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190510T150152Z" creationid="Sarita" creationdate="20190510T150152Z">
         <seg>¿Cómo crear y consultar mi espacio de tarjeta?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Comment sont-elles réparties ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T095302Z" creationid="Cristina" creationdate="20190523T095302Z">
+        <seg>¿Cómo están repartias?</seg>
       </tuv>
     </tu>
     <tu>
