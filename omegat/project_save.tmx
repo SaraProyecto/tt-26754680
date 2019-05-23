@@ -478,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Durant cette période, le message qui s’affiche est : « Vous ne vous êtes pas encore servi de votre Carte E.Leclerc ? ».</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T103321Z" creationid="Cristina" creationdate="20190523T103321Z">
+        <seg>Durante este período, el mensaje que aparece es: "¿Aún no ha utilizado su Tarjeta E.Leclerc?".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>E.LECLERC est un mouvement d'indépendants, de ce fait chaque magasin applique sa propre politique en terme d'acceptation de moyens de paiement.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T120714Z" creationid="Sarita" creationdate="20190508T120714Z">
