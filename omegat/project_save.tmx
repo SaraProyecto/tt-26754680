@@ -734,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Enfin, pour une commande effectuée sur un de nos sites internet, vous pouvez trouver les modes de contact possible sur ces sites.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T135606Z" creationid="Cristina" creationdate="20190523T135606Z">
+        <seg>Finalmente, para un pedido realizado en uno de nuestros sitios web, puede encontrar posibles formas de contacto en estos sitios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Espace culturel</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="alumno" changedate="20190508T115859Z" creationid="alumno" creationdate="20190508T115859Z">
@@ -898,6 +906,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T095835Z" creationid="Cristina" creationdate="20190523T095835Z">
         <seg>La suma de todos los porcentajes pueden ser diferentes al 100&amp; (99% o 101%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Le délai vous sera communiqué en magasin en fonction du produit et de la panne constatée</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T135659Z" creationid="Cristina" creationdate="20190523T135659Z">
+        <seg>El retraso se le comunicará en la tienda de acuerdo con el producto y se indicará la interrupción</seg>
       </tuv>
     </tu>
     <tu>
@@ -1362,6 +1378,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T100907Z" creationid="Cristina" creationdate="20190523T100907Z">
         <seg>¿Qué significa el mensaje "Esta función no está actualmente disponible, inténtelo más tarde, por favor"?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Quel est le délai de traitement d'un produit en réparation ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T135618Z" creationid="Cristina" creationdate="20190523T135618Z">
+        <seg>¿Cuál es el tiempo de procesamiento de un producto en reparación?</seg>
       </tuv>
     </tu>
     <tu>
