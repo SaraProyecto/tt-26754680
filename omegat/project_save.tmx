@@ -22,10 +22,18 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>- Les réductions immédiates sont les réductions déduites lors de vos passages en caisse.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T092131Z" creationid="Cristina" creationdate="20190523T092131Z">
+        <seg>- Las reducciones inmediatas son las reducciones descontadas en el momento de su paso por caja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>- Les « Tickets E.Leclerc cumulés » sont les bons d’achat que vous avez cumulés sur votre Carte depuis le début de l’année.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T090452Z" creationid="Cristina" creationdate="20190523T090452Z">
-        <seg>- Los « Tickets E.Leclerc acumulados » son los bonos de compra que puedes acumular en su Tarjeta desde principios de año.</seg>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T091918Z" creationid="Cristina" creationdate="20190523T090452Z">
+        <seg>- Los "Tickets E.Leclerc acumulados" son los bonos de compra que puedes acumular en su Tarjeta desde principios de año.</seg>
       </tuv>
     </tu>
     <tu>
@@ -474,6 +482,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190510T141823Z" creationid="Cristina" creationdate="20190510T141823Z">
         <seg>El sitio E-leclerc.com es un sitio no comercial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Les conditions d’utilisation sont précisées sur les bons.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T091944Z" creationid="Cristina" creationdate="20190523T091944Z">
+        <seg>Las condiciones de uso están detallados en los bonos.</seg>
       </tuv>
     </tu>
     <tu>
