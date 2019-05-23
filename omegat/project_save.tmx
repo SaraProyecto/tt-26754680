@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Après avoir selectionné votre magasin en cliquant sur le logo &lt;s0&gt;mon magasin&lt;/s0&gt;  puis cliqué sur l'onglet&lt;s1&gt; "Promo", &lt;/s1&gt;vous pouvez selectionner les rayons qui vous intéressent et afficher ainsi uniquement les promotions de ce rayon.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T112116Z" creationid="Cristina" creationdate="20190523T112116Z">
+        <seg>Después de haber seleccionado su tienda, haga clic en el logotipo &lt;s0&gt;mi tienda&lt;/s0&gt;  luego clique en la pestaña&lt;s1&gt; "Promo", &lt;/s1&gt;y puede seleccionar los departamentos que le interesan y mostrar solo las promociones de este departamento..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Après avoir sélectionné le magasin de votre choix, vous serez redirigé vers la page du magasin.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T114749Z" creationid="Sarita" creationdate="20190508T114749Z">
@@ -498,6 +506,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T134057Z" creationid="Sarita" creationdate="20190508T134057Z">
         <seg>¿Cómo encontrar todos los productos en promoción en una tienda?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Comment trouver tous les produits en promotion dans un rayon ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T112122Z" creationid="Cristina" creationdate="20190523T111957Z">
+        <seg>¿Cómo encontrar todos los productos promocionales dentro de un departamento?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1258,6 +1274,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T110921Z" creationid="Cristina" creationdate="20190523T110921Z">
         <seg>Móviles libres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Rendez-vous en magasin pour les découvrir.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T111918Z" creationid="Cristina" creationdate="20190523T111918Z">
+        <seg>Vaya a la tienda para descubrirlos.</seg>
       </tuv>
     </tu>
     <tu>
