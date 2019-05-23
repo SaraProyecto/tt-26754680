@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>- &lt;a0&gt;Les magasins les proposant&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T140814Z" creationid="Cristina" creationdate="20190523T140814Z">
+        <seg>- &lt;a0&gt;Las tiendas que las proponen&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>- Ce tableau vous permet de consulter les paiements que vous avez effectués en Tickets E.Leclerc sur les 4 dernières semaines.&lt;br0&gt;</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T094357Z" creationid="Cristina" creationdate="20190523T094357Z">
@@ -542,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Comment faire lors d'une panne au déballage ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T140844Z" creationid="Cristina" creationdate="20190523T140844Z">
+        <seg>¿Cómo hacerlo durante una avería en el desembalaje?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Comment fonctionnent les filtres ?</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T095851Z" creationid="Cristina" creationdate="20190523T095851Z">
@@ -736,8 +752,8 @@
       <tuv lang="FR-FR">
         <seg>E.Leclerc me propose t il des garanties complémentaires payantes ?</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T140351Z" creationid="Cristina" creationdate="20190523T140351Z">
-        <seg>¿ E. Leclerc me ofrecegarantías adicionales?</seg>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T140606Z" creationid="Cristina" creationdate="20190523T140351Z">
+        <seg>¿ E. Leclerc me ofrece garantías adicionales?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1286,6 +1302,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Par ailleurs, les magasins peuvent proposer d'autres extensions de garantie payantes (renseignements en magasin).</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T140836Z" creationid="Cristina" creationdate="20190523T140836Z">
+        <seg>Además, las tiendas pueden ofrecer extensiones de garantíaadicionales pagadas  (información en la tienda)..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Parapharmacie</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T110357Z" creationid="Cristina" creationdate="20190523T110357Z">
@@ -1538,6 +1562,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T134959Z" creationid="Cristina" creationdate="20190523T134959Z">
         <seg>Servicio Post-venta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Se rapprocher du magasin qui prendra en charge votre appareil suivant les conditions de retour du fournisseur.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T140901Z" creationid="Cristina" creationdate="20190523T140901Z">
+        <seg>Acérquese a la tienda que admitirá su dispositivo de acuerdo con las condiciones de devolución del proveedor.</seg>
       </tuv>
     </tu>
     <tu>
