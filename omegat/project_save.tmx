@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>- Vous pouvez filtrer selon un type de produits et sur une période donnée, en revanche vous ne pouvez pas appliquer les deux filtres Bio et Marque Repère en même temps.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T100641Z" creationid="Cristina" creationdate="20190523T100641Z">
+        <seg>- Puede filtrar según el tipo de productos y durante un perioso determinado, sin embargo, no puede aplicar los filtros Bio y Marca Mark al mismo tiempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>- Vous pouvez également filtrer selon la période : mois précédent, mois en cours ou depuis le début de l’année (cette dernière période est celle affichée à l'ouverture de la page, lorsqu'aucun filtre n'est utilisé).&lt;br2&gt;</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T100445Z" creationid="Cristina" creationdate="20190523T100445Z">
@@ -330,6 +338,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T095851Z" creationid="Cristina" creationdate="20190523T095851Z">
         <seg>¿Cómo funcionan los filtros?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Comment lire le graphique par mois ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T100716Z" creationid="Cristina" creationdate="20190523T100716Z">
+        <seg>¿Cómo leer la tabla por mes?</seg>
       </tuv>
     </tu>
     <tu>
