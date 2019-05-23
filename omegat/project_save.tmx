@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Ils sont disponibles dès le lendemain sur simple présentation de votre Carte, uniquement dans le magasin qui vous les a offerts.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T091907Z" creationid="Cristina" creationdate="20190523T091907Z">
+        <seg>Están disponibles desde el día siguiente con sólo enseñar su Tarjeta, únicamente en las tiendas disponibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>J'ai acheté un produit alimentaire qui pose un souci de qualité : que dois-je faire ?</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T132907Z" creationid="Sarita" creationdate="20190508T132609Z">
