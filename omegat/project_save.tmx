@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="FR-FR"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="FR-FR"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -858,6 +858,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="alumno" changedate="20190508T115716Z" creationid="alumno" creationdate="20190508T115716Z">
         <seg>Viajes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>À quoi correspondent les économies réalisées depuis le début de l’année ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T085710Z" creationid="Cristina" creationdate="20190523T085710Z">
+        <seg>¿Cuáles son los fondos ahorrados desde principios de año?</seg>
       </tuv>
     </tu>
     <tu>
