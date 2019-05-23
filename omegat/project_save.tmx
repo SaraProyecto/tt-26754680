@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>En les cumulant, vous vous constituez une cagnotte que vous pouvez utiliser en magasin, quand vous en avez envie, pour régler vos courses : ce sont les décagnottages.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T093733Z" creationid="Cristina" creationdate="20190523T093733Z">
+        <seg>En los acumulados, usted forma un fondo económico que puede utilizar en tiendas, cuando quiera, para pagar sus compras: estos son los botes de premio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Espace culturel</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="alumno" changedate="20190508T115859Z" creationid="alumno" creationdate="20190508T115859Z">
@@ -482,6 +490,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190510T141823Z" creationid="Cristina" creationdate="20190510T141823Z">
         <seg>El sitio E-leclerc.com es un sitio no comercial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Les Tickets E.Leclerc sont des bons d’achats qui vous permettent d’économiser de l’argent.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T092905Z" creationid="Cristina" creationdate="20190523T092905Z">
+        <seg>Los Tickets E.Leclerc son los bonos de compra que le permitirá ahorrar.</seg>
       </tuv>
     </tu>
     <tu>
