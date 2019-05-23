@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>- Les « bons d’achat utilisés » sont les bons d’achat que l’on vous a donnés lors de votre passage en caisse selon les produits présents sur votre ticket.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T091530Z" creationid="Cristina" creationdate="20190523T091530Z">
+        <seg>- Los « bonos de compra utilizados » son los bonos de compra que recibió durante su paso por caja según los productos de su ticket.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>-ne communiquez pas vos données personnelles : numéro de carte bancaire, code carte bancaire, etc ...</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190510T142354Z" creationid="Sarita" creationdate="20190510T142354Z">
