@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>- Les « Tickets E.Leclerc cumulés » sont les bons d’achat que vous avez cumulés sur votre Carte depuis le début de l’année.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T090452Z" creationid="Cristina" creationdate="20190523T090452Z">
+        <seg>- Los « Tickets E.Leclerc acumulados » son los bonos de compra que puedes acumular en su Tarjeta desde principios de año.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>-ne communiquez pas vos données personnelles : numéro de carte bancaire, code carte bancaire, etc ...</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190510T142354Z" creationid="Sarita" creationdate="20190510T142354Z">
