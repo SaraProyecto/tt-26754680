@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Comment télécharger des bons de réduction sur ma Carte E.Leclerc ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T103416Z" creationid="Cristina" creationdate="20190523T103416Z">
+        <seg>¿Cómo descargar cupones en mi Tarjeta E.Leclerc?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Compléter notre formulaire de contact "Envoyez-nous un message", en bas de la page FAQ.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T115858Z" creationid="Sarita" creationdate="20190508T115858Z">
@@ -742,6 +750,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Les téléchargements s’effectuent directement sur votre Espace Carte depuis votre Espace carte ou depuis votre application "Mon E.Leclerc".</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T103449Z" creationid="Cristina" creationdate="20190523T103449Z">
+        <seg>Las descargas se realizan directamente en su Espacio Tarjeta desde su Espacio Tarjeta o desde su aplicación "Mi E.Leclerc".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Mes produits</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190510T140241Z" creationid="Cristina" creationdate="20190510T140241Z">
@@ -762,6 +778,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T092242Z" creationid="Cristina" creationdate="20190523T092242Z">
         <seg>Mi Espacio Tarjeta - ¿Cómo controlar mi presupuesto?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Mon Espace Carte – Comment piloter mon budget - Télécharger mes bons de réduction</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T103357Z" creationid="Cristina" creationdate="20190523T103357Z">
+        <seg>Mi Espacio Tarjeta – Cómo controlar mi presupuesto - Descargar mis cupones</seg>
       </tuv>
     </tu>
     <tu>
