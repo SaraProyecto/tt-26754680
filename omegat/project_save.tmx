@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>&lt;s0&gt;&lt;s1&gt;Attention, &lt;/s1&gt;&lt;/s0&gt;des sites Internet, des emails, ainsi que des SMS reproduisant ou utilisant la marque et parfois le logo E. Leclerc circulent actuellement.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T112848Z" creationid="Cristina" creationdate="20190523T112848Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;Advertencia, &lt;/s1&gt;&lt;/s0&gt; de los sitios web, correos electrónicos, así como SMS que reproducen o usan la marca y, a veces, el logotipo de E. Leclerc está circulando actualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>&lt;s0&gt;E.LECLERC s’engage à vous échanger ou rembourser tout produit acheté dans votre centre E.LECLERC dans les 15 jours après l’achat*.&lt;/s0&gt;&lt;br1&gt;</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T110213Z" creationid="Cristina" creationdate="20190523T110213Z">
@@ -346,6 +354,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T112450Z" creationid="Cristina" creationdate="20190523T112450Z">
         <seg>&lt;s0&gt;La marca E.LECLERC es un movimiento independiente, por lo que cada tienda implementa su propia política comercial en términos de productos y servicios para satisfacer mejor las necesidades de sus clientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>&lt;s0&gt;L'enseigne E.LECLERC est un mouvement d'indépendants, c'est pourquoi chaque magasin met en œuvre sa propre politique commerciale et marketing.&lt;/s0&gt;&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T113017Z" creationid="Cristina" creationdate="20190523T113017Z">
+        <seg>&lt;s0&gt; La marca E.LECLERC es un movimiento independiente, por lo que cada tienda implementa su propia política de ventas y marketing.&lt;/s0&gt;&lt;br1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -830,10 +846,26 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Je souhaiterais faire une demande de don, de partenariat, ou de sponsoring.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T112957Z" creationid="Cristina" creationdate="20190523T112957Z">
+        <seg>Me gustaría solicitar una donación, colaboración o sponsoring..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>L'enseigne E.LECLERC est un mouvement d'indépendants, c'est pourquoi chaque magasin met en œuvre sa propre politique.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190510T144940Z" creationid="Sarita" creationdate="20190510T144839Z">
         <seg>&lt;s0&gt;La marca E.LECLERC es un movimiento independiente, por lo que cada tienda aplica su propia política.&lt;/s0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>LE MOUVEMENT E. LECLERC VOUS ALERTE</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T112804Z" creationid="Cristina" creationdate="20190523T112804Z">
+        <seg>EL MOVIMIENTO E. LECLERC LE ALERTA</seg>
       </tuv>
     </tu>
     <tu>
@@ -866,6 +898,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T094630Z" creationid="Cristina" creationdate="20190523T094630Z">
         <seg>El mesaje "Sin bote premiado esta semana" se muestra si no ha realizado ningún pago con la Tarjeta E.Leclerc en esa semana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Le mouvement E.Leclerc vous alerte sur les communications frauduleuses</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T112753Z" creationid="Cristina" creationdate="20190523T112753Z">
+        <seg>El movimiento E.Leclerc lo alerta de comunicaciones fraudulentas</seg>
       </tuv>
     </tu>
     <tu>
@@ -1642,6 +1682,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190522T122821Z" creationid="Sarita" creationdate="20190522T122821Z">
         <seg>Para saber más, haga clic aquí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>recrutement</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T112925Z" creationid="Cristina" creationdate="20190523T112925Z">
+        <seg>empleo</seg>
       </tuv>
     </tu>
     <tu>
