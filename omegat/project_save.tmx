@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>&lt;s0&gt;L'enseigne E.LECLERC est un mouvement d'indépendants, c'est pourquoi chaque magasin met en œuvre sa propre politique commerciale en terme de produits et de services pour mieux répondre aux besoins de sa clientèle.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T112450Z" creationid="Cristina" creationdate="20190523T112450Z">
+        <seg>&lt;s0&gt;La marca E.LECLERC es un movimiento independiente, por lo que cada tienda implementa su propia política comercial en términos de productos y servicios para satisfacer mejor las necesidades de sus clientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>&lt;s0&gt;Tous nos métiers et nos offres sont à votre dispositon sur le site : &lt;/s0&gt;&lt;a1&gt;&lt;s2&gt;w&lt;/s2&gt;&lt;s3&gt;ww.recrutement.leclerc&lt;/s3&gt;&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190510T144422Z" creationid="Sarita" creationdate="20190510T144422Z">
@@ -362,6 +370,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T110230Z" creationid="Cristina" creationdate="20190523T110230Z">
         <seg>&lt;s2&gt;Para ver todos los compromisos de nuestra marca, haga clic en&lt;/s2&gt;&lt;a3&gt;aquí&lt;/a3&gt;&lt;s4&gt; .&lt;/s4&gt;&lt;br5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>&lt;s3&gt;Nous vous invitons, par ailleurs à prendre contact avec le Point Accueil de votre centre E.LECLERC, si toutefois ces informations n'avaient pas été mises à jour ou ne répondaient pas à vos questions.&lt;/s3&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T112738Z" creationid="Cristina" creationdate="20190523T112738Z">
+        <seg>&lt;s3&gt;También lo invitamos a ponerse en contacto con la Recepción del Centro E.LECLERC, si esta información no se ha actualizado o no responde a sus preguntas.&lt;/s3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -754,6 +770,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="alumno" changedate="20190508T123735Z" creationid="alumno" creationdate="20190508T123735Z">
         <seg>Simplemente, vaya a la página de inicio de la tienda elegida clicando en el logotipo &lt;s0&gt;"Mi tienda"&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Il vous suffit pour cela de sélectionner le magasin le plus proche de chez vous et de consulter la rubrique Infos pratiques / Services.&lt;/s0&gt;&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T112629Z" creationid="Cristina" creationdate="20190523T112629Z">
+        <seg>Simplemente seleccione su tienda más cercana y consulte la sección de Información Práctica / Servicios.&lt;/s0&gt;&lt;br1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1482,6 +1506,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190510T142000Z" creationid="Cristina" creationdate="20190510T142000Z">
         <seg>Sin embargo, puede encontrar las diversas promociones en la tienda y nuestros productos de marca blanca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Vous pouvez découvrir l'ensemble des services que propose votre magasin, en visitant son site.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T112526Z" creationid="Cristina" creationdate="20190523T112526Z">
+        <seg>Puede descubrir todos los servicios que propone su tienda, visitando su página web.</seg>
       </tuv>
     </tu>
     <tu>
