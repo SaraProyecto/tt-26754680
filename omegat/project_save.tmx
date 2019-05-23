@@ -70,6 +70,22 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>- Pour supprimer un filtre, il vous suffit de recliquer dessus.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T100247Z" creationid="Cristina" creationdate="20190523T100247Z">
+        <seg>- Para eliminar el filtro, simplemente haga clic en él de nuevo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>- Vous pouvez également filtrer selon la période : mois précédent, mois en cours ou depuis le début de l’année (cette dernière période est celle affichée à l'ouverture de la page, lorsqu'aucun filtre n'est utilisé).&lt;br2&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T100445Z" creationid="Cristina" creationdate="20190523T100445Z">
+        <seg>- También puede filtrar según el periódo: el mes anterior, el mes actual o desde comienzo de año (este último periódo es el que se muestra al abrir la página, sin utilizar ningún filtro).&lt;br2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>-ne communiquez pas vos données personnelles : numéro de carte bancaire, code carte bancaire, etc ...</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190510T142354Z" creationid="Sarita" creationdate="20190510T142354Z">
@@ -442,6 +458,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T115341Z" creationid="Sarita" creationdate="20190508T115341Z">
         <seg>Informar de un problema en las tiendas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Il sera automatiquement désactivé.&lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T100304Z" creationid="Cristina" creationdate="20190523T100304Z">
+        <seg>Será desactivado automáticamente.&lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
