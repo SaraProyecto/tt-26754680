@@ -886,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Les primes energie</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T111027Z" creationid="Cristina" creationdate="20190523T111027Z">
+        <seg>Las primas energéticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Les rappels de produits.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T133425Z" creationid="Sarita" creationdate="20190508T133425Z">
@@ -1238,6 +1246,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Reglo mobile</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T110921Z" creationid="Cristina" creationdate="20190523T110921Z">
+        <seg>Móviles libres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Retrouver un objet perdu en magasin ou sur le parking du magasin.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T120232Z" creationid="Sarita" creationdate="20190508T120117Z">
@@ -1430,10 +1446,34 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Voyage</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T110831Z" creationid="Cristina" creationdate="20190523T110831Z">
+        <seg>Viajes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>bijoux</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T110841Z" creationid="Cristina" creationdate="20190523T110841Z">
+        <seg>joyería</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>e-carte cadeau</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T110440Z" creationid="Cristina" creationdate="20190523T110440Z">
         <seg>Tarjetas Regalo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>e-librairie</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T111052Z" creationid="Cristina" creationdate="20190523T111052Z">
+        <seg>Correo electrónico</seg>
       </tuv>
     </tu>
     <tu>
@@ -1458,6 +1498,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="alumno" changedate="20190508T120324Z" creationid="alumno" creationdate="20190508T115614Z">
         <seg>paseo de joya</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>musique</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T111034Z" creationid="Cristina" creationdate="20190523T111034Z">
+        <seg>música</seg>
       </tuv>
     </tu>
     <tu>
