@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>- Le graphique affiche vos dépenses depuis le début de l’année en cours.&lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T100747Z" creationid="Cristina" creationdate="20190523T100747Z">
+        <seg>- La gráfca muestra sus gastos desde el comienzo del año actual.&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>- Les filtres vous permettent de vous rendre compte de la part de certaines catégories dans votre consommation globale.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T095927Z" creationid="Cristina" creationdate="20190523T095927Z">
@@ -82,6 +90,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T100641Z" creationid="Cristina" creationdate="20190523T100641Z">
         <seg>- Puede filtrar según el tipo de productos y durante un perioso determinado, sin embargo, no puede aplicar los filtros Bio y Marca Mark al mismo tiempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>- Vous pouvez visualiser les pourcentages par univers de produits, sur la période souhaitée.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T100819Z" creationid="Cristina" creationdate="20190523T100819Z">
+        <seg>- Puedes visualizar los porcentajes por productos globales, en el periódo deseado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -894,6 +910,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Que signifie le message « Cette fonctionnalité n’est pas disponible actuellement, veuillez réessayer ultérieurement !</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T100907Z" creationid="Cristina" creationdate="20190523T100907Z">
+        <seg>¿Qué significa el mensaje "Esta función no está actualmente disponible, inténtelo más tarde, por favor"?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Quelle est la disponibilité d’un produit dans un centre E.LECLERC ?</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T124757Z" creationid="Sarita" creationdate="20190508T124757Z">
@@ -986,6 +1010,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T120557Z" creationid="Sarita" creationdate="20190508T120557Z">
         <seg>Encuentre los medios de pago aceptados en la tienda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Un problème technique empêche momentanément l’affichage de vos données.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T100951Z" creationid="Cristina" creationdate="20190523T100951Z">
+        <seg>Un problema técnico impide la visulización de sus datos temporalmente.</seg>
       </tuv>
     </tu>
     <tu>
