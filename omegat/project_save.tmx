@@ -822,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Vous pouvez utiliser vos Tickets E.Leclerc dès le lendemain de leur acquisition.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T091257Z" creationid="Cristina" creationdate="20190523T091257Z">
+        <seg>Puede utilizar sus Tickets E.Leclerc desde el siguiente día del que los adquiere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Vous pouvez également signaler le mail sur le site Signal-spam : http://www.signal-spam.fr</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190510T143102Z" creationid="Sarita" creationdate="20190510T143102Z">
