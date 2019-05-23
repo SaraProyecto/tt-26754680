@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>La somme de tous les pourcentages peut ainsi être différente de 100% (99% ou 101%).</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T095835Z" creationid="Cristina" creationdate="20190523T095835Z">
+        <seg>La suma de todos los porcentajes pueden ser diferentes al 100&amp; (99% o 101%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Le mail peut comporter différentes informations.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T112943Z" creationid="Cristina" creationdate="20190515T112943Z">
@@ -570,6 +578,22 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T111119Z" creationid="Cristina" creationdate="20190515T111119Z">
         <seg>Los correos electrónicos pueden ser muy realistas porque reproducen la marca y / o el logotipo de E. Leclerc con la misma identidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Les montants avec des virgules peuvent être arrondis selon des règles d'arrondis.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T095738Z" creationid="Cristina" creationdate="20190523T095738Z">
+        <seg>Las cantidades con decimales pueden redondearse según las reglas de redondeo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Les pourcentages vous permettent de visualiser le poids de chaque type de produits dans votre budget global.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T095615Z" creationid="Cristina" creationdate="20190523T095615Z">
+        <seg>Los porcentages le permiten ver el valor de cada producto en su presupuesto total.</seg>
       </tuv>
     </tu>
     <tu>
@@ -786,6 +810,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="alumno" changedate="20190508T123009Z" creationid="alumno" creationdate="20190508T123009Z">
         <seg>Para localizar los días de apertura de su tienda E-Leclerc, le invitamos a clicar en &lt;s0&gt;"Mi tienda"&lt;/s0&gt; en la parte superior derecha de la página, seleccione la tienda que quiera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Pourquoi le total ne fait-il pas toujours 100% ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T095639Z" creationid="Cristina" creationdate="20190523T095639Z">
+        <seg>¿Por qué el total no hace siempre el 100%?</seg>
       </tuv>
     </tu>
     <tu>
