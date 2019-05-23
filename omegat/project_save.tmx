@@ -86,6 +86,22 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>- Un délai de 2 jours minimum peut être nécessaire pour que vos dépenses apparaissent.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T101430Z" creationid="Cristina" creationdate="20190523T101430Z">
+        <seg>- Una demora de 2 días, como mínimo, puede ser necesaria para que aparezcan sus gastos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>- Vous n’avez pas présenté votre Carte E.Leclerc lors de votre passage en caisse.&lt;br2&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T101352Z" creationid="Cristina" creationdate="20190523T101352Z">
+        <seg>- No presentó su Tarjeta E.Leclerc al pasar por caja.&lt;br2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>- Vous pouvez filtrer selon un type de produits et sur une période donnée, en revanche vous ne pouvez pas appliquer les deux filtres Bio et Marque Repère en même temps.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T100641Z" creationid="Cristina" creationdate="20190523T100641Z">
@@ -218,6 +234,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T113122Z" creationid="Cristina" creationdate="20190515T113122Z">
         <seg>2.&lt;s0&gt; &lt;/s0&gt;¿Qué hacer si está ante un intento de phishing?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>3 raisons peuvent expliquer cette absence :&lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T101319Z" creationid="Cristina" creationdate="20190523T101319Z">
+        <seg>3 razones que pueden explicar esta ausencia:&lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -410,6 +434,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="alumno" changedate="20190508T123828Z" creationid="alumno" creationdate="20190508T123828Z">
         <seg>¿Contactar con tu tienda E.Leclerc ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Dans ce cas, vos achats peuvent être affichés dans un délai d'une dizaine de jours au plus tard, le temps d'enregistrer et d'activer votre compte.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T101609Z" creationid="Cristina" creationdate="20190523T101609Z">
+        <seg>En este caso, sus compras pueden mostrarse dentro de los próximos diez días, ese será el momento para registrarse y activar su cuenta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1130,6 +1162,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T114944Z" creationid="Sarita" creationdate="20190508T114944Z">
         <seg>Encontrará el número de teléfono de la recepción de su tienda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Vous venez d’adhérer à la Carte E.Leclerc.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T101443Z" creationid="Cristina" creationdate="20190523T101443Z">
+        <seg>Acaba de unirse a la Tarjeta E.Leclerc.</seg>
       </tuv>
     </tu>
     <tu>
