@@ -190,6 +190,22 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>- la garantie légale de conformité  : valable 2 ans à partir de la date d'achat du produit, en cas de non conformité du bien vendu,&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T141750Z" creationid="Cristina" creationdate="20190523T141750Z">
+        <seg>- la garantía legal de conformidad: válida por 2 años a partir de la fecha de compra del producto, en caso de no conformidad del bien vendido,&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>- la garantie légale de vices cachés : valable 2 ans à partir de la découverte du vice caché</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T141808Z" creationid="Cristina" creationdate="20190523T141808Z">
+        <seg>- la garantía legal de defectos ocultos: válida durante 2 años a partir del descubrimiento del defecto oculto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>- «&lt;s0&gt; Vous avez téléchargé tous les bons.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T105802Z" creationid="Cristina" creationdate="20190523T105802Z">
@@ -846,6 +862,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Il existe plusieurs garanties :</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T141620Z" creationid="Cristina" creationdate="20190523T141620Z">
+        <seg>Hay varias garantías:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Il sera automatiquement désactivé.&lt;br0&gt;</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T100304Z" creationid="Cristina" creationdate="20190523T100304Z">
@@ -974,6 +998,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>La garantie constructeur ou commerciale : elle est valable à partir de la date d'achat du produit a une durée variable en fonction du fabricant.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T141715Z" creationid="Cristina" creationdate="20190523T141715Z">
+        <seg>La garantía del fabricante o del comercial: es válida desde la fecha de compra del producto y tiene una duración variable en función del fabricante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>La somme de tous les pourcentages peut ainsi être différente de 100% (99% ou 101%).</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T095835Z" creationid="Cristina" creationdate="20190523T095835Z">
@@ -1098,6 +1130,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T141457Z" creationid="Cristina" creationdate="20190523T141447Z">
         <seg>Las garantías</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Les garanties légales :&lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T141729Z" creationid="Cristina" creationdate="20190523T141729Z">
+        <seg>Garantías legales:&lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
