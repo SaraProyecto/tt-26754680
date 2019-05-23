@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Ce solde est automatiquement alimenté à chacun de vos passages en caisse, lorsque vous bénéficiez de Tickets E.Leclerc.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T090826Z" creationid="Cristina" creationdate="20190523T090826Z">
+        <seg>Este  saldo se financia de forma automática cada vez que pase por caja, mientras se beneficia de Tickets E.Leclerc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Cet engagement ne s’applique pas aux produits soldés, aux sous-vêtements, aux produits frais, à la téléphonie mobile et à la billetterie E.Leclerc (voir conditions particulières en magasin).&lt;/e8&gt;&lt;/s7&gt;</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190510T141737Z" creationid="Cristina" creationdate="20190510T141737Z">
