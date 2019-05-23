@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>- S’il n’y a plus de bons à télécharger, l’affichage montre les bons de réduction déjà enregistrés sur votre Carte E.Leclerc.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T104129Z" creationid="Cristina" creationdate="20190523T104129Z">
+        <seg>- Si no hay más bonos para descargar, la pantalla muestra los bonos ya registrados en su Tarjeta E.Leclerc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>- Un délai de 2 jours minimum peut être nécessaire pour que vos dépenses apparaissent.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T101430Z" creationid="Cristina" creationdate="20190523T101430Z">
