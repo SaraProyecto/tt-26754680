@@ -1238,6 +1238,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Oui pour un produit sous garantie dans un rayon de 50 km du lieu d'achat pour les TV &gt;  à 37 pouces et le gros électroménager, voir conditions en magasin ou  contacter par téléphone le magasin de votre choix ou le Pôle SAV de rattachement (numéro sur facture d'achat).</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T140331Z" creationid="Cristina" creationdate="20190523T140331Z">
+        <seg>Sí, para un producto en garantía dentro de los 50 km del lugar de compra para televisores de más de 37 pulgadas y los grandes electrodomésticos, consulte las condiciones en tienda o contáctese por teléfono con la tienda de su elección o con el Centro de Servicio Post-venta (número en la factura de compra).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Oui, tout magasin pourra prendre en charge votre produit.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T135916Z" creationid="Cristina" creationdate="20190523T135916Z">
@@ -1634,6 +1642,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T100951Z" creationid="Cristina" creationdate="20190523T100951Z">
         <seg>Un problema técnico impide la visulización de sus datos temporalmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Un technicien peut-il intervenir chez moi en cas de panne ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T140137Z" creationid="Cristina" creationdate="20190523T140137Z">
+        <seg>¿Puede un técnico trabajar en mi casa en caso de avería?</seg>
       </tuv>
     </tu>
     <tu>
