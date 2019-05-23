@@ -726,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>En fonction du produit, de la panne constatée, du montant de la réparation, de la disponibilité des pièces détachées auprès du fabricant et des conditions propres à chaque marque, le produit sera soit réparé, soit remboursé soit échangé.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T135740Z" creationid="Cristina" creationdate="20190523T135740Z">
+        <seg>En función del producto, el fallo , el monto de la reparación, la disponibilidad de piezas de repuesto del fabricante y las condiciones específicas de cada marca, el producto será reparado, reembolsado o cambiado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>En les cumulant, vous vous constituez une cagnotte que vous pouvez utiliser en magasin, quand vous en avez envie, pour régler vos courses : ce sont les décagnottages.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T093758Z" creationid="Cristina" creationdate="20190523T093733Z">
@@ -912,8 +920,8 @@
       <tuv lang="FR-FR">
         <seg>Le délai vous sera communiqué en magasin en fonction du produit et de la panne constatée</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T135659Z" creationid="Cristina" creationdate="20190523T135659Z">
-        <seg>El retraso se le comunicará en la tienda de acuerdo con el producto y se indicará la interrupción</seg>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T135747Z" creationid="Cristina" creationdate="20190523T135659Z">
+        <seg>El retraso se le comunicará en la tienda de acuerdo con el producto y se indicará el fallo</seg>
       </tuv>
     </tu>
     <tu>
@@ -1134,6 +1142,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Mon produit peut-il être réparé, échangé ou remboursé ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T135717Z" creationid="Cristina" creationdate="20190523T135717Z">
+        <seg>¿Mi producto se puede reparar, cambiar o reembolsar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Même si la marque E. Leclerc est utilisée, cela ne signifie pas que le mouvement E. Leclerc en est à l’origine.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T111154Z" creationid="Cristina" creationdate="20190515T111154Z">
@@ -1210,6 +1226,22 @@
       </tuv>
       <tuv lang="ES-ES" changeid="alumno" changedate="20190508T115710Z" creationid="alumno" creationdate="20190508T115710Z">
         <seg>Óptica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Oui le produit sera pris en charge suivant les conditions du fournisseur au point SAV du magasin.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T140106Z" creationid="Cristina" creationdate="20190523T140106Z">
+        <seg>Sí, el producto será a cargo según con las condiciones del proveedor en el punto de Servicio Post-vente de la tienda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Oui, tout magasin pourra prendre en charge votre produit.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T135916Z" creationid="Cristina" creationdate="20190523T135916Z">
+        <seg>Sí, cualquier tienda se encargará de su producto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1542,6 +1574,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Suis-je censé ramener mon produit en magasin ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T135940Z" creationid="Cristina" creationdate="20190523T135940Z">
+        <seg>¿Se supone que debo devolver mi producto a la tienda?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Sur l'application mobile "Mon E.Leclerc", vous pouvez également télécharger les bons de réductions émis par votre magasin rattachement (magasin dans lequel vous avez l'habitude d'effectuer vos courses).</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T103642Z" creationid="Cristina" creationdate="20190523T103642Z">
@@ -1578,6 +1618,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T120557Z" creationid="Sarita" creationdate="20190508T120557Z">
         <seg>Encuentre los medios de pago aceptados en la tienda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Un magasin E.Leclerc prend-il en charge mon appareil sous garantie peu importe le magasin d'achat ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T135824Z" creationid="Cristina" creationdate="20190523T135824Z">
+        <seg>¿Una tienda E.Leclerc es compatible con mi dispositivo en garantía independientemente de la tienda?</seg>
       </tuv>
     </tu>
     <tu>
