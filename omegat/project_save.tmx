@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>- «&lt;s0&gt; Vous avez téléchargé tous les bons.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T105802Z" creationid="Cristina" creationdate="20190523T105802Z">
+        <seg>- "&lt;s0&gt; Has descargado todos los bonos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>- « &lt;s0&gt;Il n’y a aucun bon à télécharger pour le moment&lt;/s0&gt; » : cela veut dire qu’il n’y a pas, pour l'instant, de bon proposé au téléchargement.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T105706Z" creationid="Cristina" creationdate="20190523T105706Z">
@@ -482,6 +490,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="alumno" changedate="20190508T122659Z" creationid="alumno" creationdate="20190508T120950Z">
         <seg>Conozca nuestros horarios de abertura y cierre de nuestra tienda E-Leclerc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Consultez les bons de réduction disponibles sur votre Carte&lt;/s0&gt; » : ce message indique que vous avez téléchargé sur votre Carte E.Leclerc tous les bons de réduction  disponibles au téléchargement sur le mois en cours.&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T105903Z" creationid="Cristina" creationdate="20190523T105903Z">
+        <seg>Consulte los bonos de descuento disponibles en su Tarjeta&lt;/s0&gt;": este mensaje indica que ha descargado todos los bonos disponibles para descargar del mes actual en su Tarjeta E.Leclerc.&lt;br1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -826,6 +842,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T103449Z" creationid="Cristina" creationdate="20190523T103449Z">
         <seg>Las descargas se realizan directamente en su Espacio Tarjeta desde su Espacio Tarjeta o desde su aplicación "Mi E.Leclerc".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Mais revenez vite car de nouveaux bons de réduction sont proposés régulièrement.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T105741Z" creationid="Cristina" creationdate="20190523T105741Z">
+        <seg>Pero vuelve pronto porque regularmente los nuevos cupones se ofrecen.</seg>
       </tuv>
     </tu>
     <tu>
