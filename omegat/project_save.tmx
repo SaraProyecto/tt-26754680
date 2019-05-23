@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>- Les bons de réduction que vous avez téléchargés directement sur le site &lt;a0&gt;www.e.leclerc&lt;/a0&gt; sont valables dans tous les magasins E.Leclerc.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T105302Z" creationid="Cristina" creationdate="20190523T105302Z">
+        <seg>- Los bonos de descuento que he descargado directamente desde el sitio web &lt;a0&gt;www.e.leclerc&lt;/a0&gt; son válidos en todas las tiendas E.Leclerc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>- Les filtres vous permettent de vous rendre compte de la part de certaines catégories dans votre consommation globale.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T095927Z" creationid="Cristina" creationdate="20190523T095927Z">
@@ -1002,6 +1010,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="alumno" changedate="20190508T123009Z" creationid="alumno" creationdate="20190508T123009Z">
         <seg>Para localizar los días de apertura de su tienda E-Leclerc, le invitamos a clicar en &lt;s0&gt;"Mi tienda"&lt;/s0&gt; en la parte superior derecha de la página, seleccione la tienda que quiera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Pourquoi certains bons ont-ils un magasin associé ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T105153Z" creationid="Cristina" creationdate="20190523T105153Z">
+        <seg>¿Por qué algunos bonos tienen una tienda asociada?</seg>
       </tuv>
     </tu>
     <tu>
