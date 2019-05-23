@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="FR-FR">
+        <seg>- &lt;a0&gt;Détail de ces garanties&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T140452Z" creationid="Cristina" creationdate="20190523T140452Z">
+        <seg>- &lt;a0&gt;Detalles de estas garantías&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>- Ce tableau vous permet de consulter les paiements que vous avez effectués en Tickets E.Leclerc sur les 4 dernières semaines.&lt;br0&gt;</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T094357Z" creationid="Cristina" creationdate="20190523T094357Z">
@@ -518,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Cliquez pour consulter le détail de ces garanties ainsi que les magasins les proposant :</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T140430Z" creationid="Cristina" creationdate="20190523T140430Z">
+        <seg>Haga clic para consultar los detalles de estas garantías, así como las tiendas que las proponen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Comment créer et consulter mon Espace Carte ?</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190510T150152Z" creationid="Sarita" creationdate="20190510T150152Z">
@@ -714,6 +730,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T131354Z" creationid="Sarita" creationdate="20190508T131354Z">
         <seg>E.LECLERC es un movimiento independiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>E.Leclerc me propose t il des garanties complémentaires payantes ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T140351Z" creationid="Cristina" creationdate="20190523T140351Z">
+        <seg>¿ E. Leclerc me ofrecegarantías adicionales?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1018,6 +1042,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T111119Z" creationid="Cristina" creationdate="20190515T111119Z">
         <seg>Los correos electrónicos pueden ser muy realistas porque reproducen la marca y / o el logotipo de E. Leclerc con la misma identidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Les magasins peuvent proposer une garantie remboursement intégrale.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T140411Z" creationid="Cristina" creationdate="20190523T140411Z">
+        <seg>Las tiendas pueden ofrecer una garantía total de la devolución del dinero.</seg>
       </tuv>
     </tu>
     <tu>
