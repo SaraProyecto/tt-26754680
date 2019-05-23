@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>- Les filtres vous permettent de vous rendre compte de la part de certaines catégories dans votre consommation globale.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T095927Z" creationid="Cristina" creationdate="20190523T095927Z">
+        <seg>- Lo filtros le permiten conocer ciertas categorías en su consumo global.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>- Les réductions immédiates sont les réductions déduites lors de vos passages en caisse.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T092131Z" creationid="Cristina" creationdate="20190523T092131Z">
@@ -302,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Comment fonctionnent les filtres ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T095851Z" creationid="Cristina" creationdate="20190523T095851Z">
+        <seg>¿Cómo funcionan los filtros?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Comment sont-elles réparties ?</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T095343Z" creationid="Cristina" creationdate="20190523T095302Z">
@@ -394,6 +410,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T131354Z" creationid="Sarita" creationdate="20190508T131354Z">
         <seg>E.LECLERC es un movimiento independiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>En appliquant un filtre (Bio ou produits Marque Repère par exemple), vous limitez l'affichage à ces seuls produits.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T100156Z" creationid="Cristina" creationdate="20190523T100156Z">
+        <seg>Aplicando el filtro (Bio o productos Marca Localizada, por ejemplo), limita la visulización de solo estos productos.</seg>
       </tuv>
     </tu>
     <tu>
