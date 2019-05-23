@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="FR-FR">
+        <seg>- Ce tableau vous permet de consulter les paiements que vous avez effectués en Tickets E.Leclerc sur les 4 dernières semaines.&lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T094357Z" creationid="Cristina" creationdate="20190523T094357Z">
+        <seg>- Esta tabla le permite consultar los pagos que ha realizado con Tickets E.Leclerc durante las últimas 4 semanas.&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>- Contacter le numéro du service qualité de la marque de votre produit.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T133232Z" creationid="Sarita" creationdate="20190508T133232Z">
@@ -368,8 +376,8 @@
       <tuv lang="FR-FR">
         <seg>En les cumulant, vous vous constituez une cagnotte que vous pouvez utiliser en magasin, quand vous en avez envie, pour régler vos courses : ce sont les décagnottages.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T093733Z" creationid="Cristina" creationdate="20190523T093733Z">
-        <seg>En los acumulados, usted forma un fondo económico que puede utilizar en tiendas, cuando quiera, para pagar sus compras: estos son los botes de premio.</seg>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T093758Z" creationid="Cristina" creationdate="20190523T093733Z">
+        <seg>En los acumulados, usted forma un fondo económico que puede utilizar en tiendas, cuando quiera, para pagar sus compras: estos son los botes premiados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -744,8 +752,8 @@
       <tuv lang="FR-FR">
         <seg>Que contient l’historique des décagnottages ?</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T092827Z" creationid="Cristina" creationdate="20190523T092827Z">
-        <seg>¿Qué contiente el historial de décagnottages ?</seg>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T093750Z" creationid="Cristina" creationdate="20190523T092827Z">
+        <seg>¿Qué contiente el historial de botes premiados?</seg>
       </tuv>
     </tu>
     <tu>
