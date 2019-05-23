@@ -494,6 +494,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Il est possible que certaines dépenses n'apparaissent pas sur votre Espace Carte.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T101301Z" creationid="Cristina" creationdate="20190523T101301Z">
+        <seg>Es posible que algunos gastos no aparezcan en su Espacio Tarjeta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Il sera automatiquement désactivé.&lt;br0&gt;</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T100304Z" creationid="Cristina" creationdate="20190523T100304Z">
@@ -774,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Nous vous remercions de votre compréhension et vous invitons à vous reconnecter un peu plus tard.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T101210Z" creationid="Cristina" creationdate="20190523T101210Z">
+        <seg>Le agradecemos su comprensión y le invitamos a volver a conectarse un poco más tarde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Optique</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="alumno" changedate="20190508T115710Z" creationid="alumno" creationdate="20190508T115710Z">
@@ -898,6 +914,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T095639Z" creationid="Cristina" creationdate="20190523T095639Z">
         <seg>¿Por qué el total no hace siempre el 100%?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Pourquoi mes achats n’ont-ils pas été pris en compte ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T101230Z" creationid="Cristina" creationdate="20190523T101230Z">
+        <seg>¿Por qué mis compras no se han tomado en cuenta?</seg>
       </tuv>
     </tu>
     <tu>
