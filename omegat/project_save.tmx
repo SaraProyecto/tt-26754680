@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>- Dans le bloc servant à télécharger les bons de réduction :</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T105541Z" creationid="Cristina" creationdate="20190523T105541Z">
+        <seg>- En el bloque utilizado para descragar los bonos de descuento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>- En cas de question ou de contestation, présentez-vous à l’accueil du magasin avec votre Carte E.Leclerc.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T094456Z" creationid="Cristina" creationdate="20190523T094456Z">
@@ -50,6 +58,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T105302Z" creationid="Cristina" creationdate="20190523T105302Z">
         <seg>- Los bonos de descuento que he descargado directamente desde el sitio web &lt;a0&gt;www.e.leclerc&lt;/a0&gt; son válidos en todas las tiendas E.Leclerc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>- Les bons de réduction émis par le magasin ou qui vous sont proposés dans votre application « Mon E.Leclerc » sont valables uniquement dans votre magasin de rattachement, c’est-à-dire le magasin dans lequel vous faites vos courses le plus souvent.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T105456Z" creationid="Cristina" creationdate="20190523T105456Z">
+        <seg>- Los bonos de descuento dictados por la tienda oque han sido proporcionado en su aplicación "Mi E.Leclerc" solo son válidos en la tienda vinculada, es decir, la tienda donde realiza sus compras con mayor frecuencia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -146,6 +162,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T100445Z" creationid="Cristina" creationdate="20190523T100445Z">
         <seg>- También puede filtrar según el periódo: el mes anterior, el mes actual o desde comienzo de año (este último periódo es el que se muestra al abrir la página, sin utilizar ningún filtro).&lt;br2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>- « &lt;s0&gt;Il n’y a aucun bon à télécharger pour le moment&lt;/s0&gt; » : cela veut dire qu’il n’y a pas, pour l'instant, de bon proposé au téléchargement.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T105706Z" creationid="Cristina" creationdate="20190523T105706Z">
+        <seg>- "&lt;s0&gt;No hay bonos para descargar en este momento&lt;/s0&gt;": esto significa que no hay una oferta para descargar en este momento..</seg>
       </tuv>
     </tu>
     <tu>
@@ -738,6 +762,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T121753Z" creationid="Sarita" creationdate="20190508T121028Z">
         <seg>Las coordenadas de su centro E.LECLERC están disponibles en la página de inicio de su tienda haciendo clic en el logotipo &lt;s0&gt;mi tienda.&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Les différents messages d’erreur</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T105514Z" creationid="Cristina" creationdate="20190523T105514Z">
+        <seg>Los diferentes mensajes de error</seg>
       </tuv>
     </tu>
     <tu>
