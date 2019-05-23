@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Autres</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T112414Z" creationid="Cristina" creationdate="20190523T112342Z">
+        <seg>Otros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Billetterie</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T110714Z" creationid="Sarita" creationdate="20190508T123832Z">
@@ -490,6 +498,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T100716Z" creationid="Cristina" creationdate="20190523T100716Z">
         <seg>¿Cómo leer la tabla por mes?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Comment recevoir ou arrêter l'envoi d'un catalogue ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T112137Z" creationid="Cristina" creationdate="20190523T112137Z">
+        <seg>¿Cómo recibir o dejar de enviar un catálogo?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1038,6 +1054,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Nos catalogues sont également consultables en ligne  sur la page de votre magasin.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T112246Z" creationid="Cristina" creationdate="20190523T112246Z">
+        <seg>Nuestros catálogos también están disponibles online en la página de su tienda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Nous constatons plus particulièrement une recrudescence de tentatives de phishing par emails.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T111055Z" creationid="Cristina" creationdate="20190515T111055Z">
@@ -1270,6 +1294,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Quels sont les prix et offres du service traiteur ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T112424Z" creationid="Cristina" creationdate="20190523T112424Z">
+        <seg>¿Cuáles son los precios y ofertas del servicio de catering?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Reglo mobile</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T110921Z" creationid="Cristina" creationdate="20190523T110921Z">
@@ -1306,6 +1338,22 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190510T143913Z" creationid="Sarita" creationdate="20190510T143630Z">
         <seg>Si ha proporcionado sus datos bancarios, haga oposición a su banco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Si vous ne recevez pas nos catalogues, vous pouvez vous rapprocher du point accueil de votre magasin.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T112208Z" creationid="Cristina" creationdate="20190523T112208Z">
+        <seg>Si no recibe nuestros catálogos, puede acercarse al centro de su tienda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Si vous ne souhaitez plus recevoir de catalogues dans votre boite aux lettres, nous vous suggérons d'y apposer un autocollant &lt;s0&gt;"Stop Pub"&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T112325Z" creationid="Cristina" creationdate="20190523T112325Z">
+        <seg>Si ya no desea recibir catálogos en su buzón, le sugerimos que ponga una etiqueta &lt;s0&gt;"Stop Pub"&lt;/s0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
