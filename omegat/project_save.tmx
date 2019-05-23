@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Comment puis-je contacter le SAV ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T135126Z" creationid="Cristina" creationdate="20190523T135126Z">
+        <seg>¿Cómo puedo contactar con el Servicio Post-venta?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Comment recevoir ou arrêter l'envoi d'un catalogue ?</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T112137Z" creationid="Cristina" creationdate="20190523T112137Z">
@@ -1494,6 +1502,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Sinon vous pouvez contacter directement votre magasin (RDV au comptoir SAV ou à l'accueil magasin).</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T135540Z" creationid="Cristina" creationdate="20190523T135540Z">
+        <seg>De lo contrario, puede contactar directamente con su tienda (yendo al mostrador de servicio o a la recepción de la tienda).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Sport</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="alumno" changedate="20190508T120037Z" creationid="alumno" creationdate="20190508T120037Z">
@@ -1586,6 +1602,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190522T121555Z" creationid="Sarita" creationdate="20190522T121555Z">
         <seg>¿Tiene alguna pregunta?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Vous disposez sur votre facture du n° d'appel du centre d'appels régional.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T135203Z" creationid="Cristina" creationdate="20190523T135203Z">
+        <seg>Dispone, en su factura, del número de llamada del centro de llamadas regional.</seg>
       </tuv>
     </tu>
     <tu>
