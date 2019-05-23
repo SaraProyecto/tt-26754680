@@ -408,8 +408,8 @@
       <tuv lang="FR-FR">
         <seg>Billetterie</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Sarita" changedate="20190510T141701Z" creationid="Sarita" creationdate="20190508T123832Z">
-        <seg>Billeterie</seg>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T110714Z" creationid="Sarita" creationdate="20190508T123832Z">
+        <seg>Tickets</seg>
       </tuv>
     </tu>
     <tu>
@@ -910,6 +910,22 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Les ventes privées</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T110602Z" creationid="Cristina" creationdate="20190523T110602Z">
+        <seg>Ventas privadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Location</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T110632Z" creationid="Cristina" creationdate="20190523T110632Z">
+        <seg>Alquiler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Ma cave</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T110525Z" creationid="Cristina" creationdate="20190523T110525Z">
@@ -1274,6 +1290,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T103642Z" creationid="Cristina" creationdate="20190523T103642Z">
         <seg>En la aplicación móvil "Mi E.Leclerc", también puede descargar los bonos de descuento emitidos por su tienda vinculada (tienda donde normalmente hace sus compras)..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Traiteur</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T110733Z" creationid="Cristina" creationdate="20190523T110733Z">
+        <seg>Catering</seg>
       </tuv>
     </tu>
     <tu>
