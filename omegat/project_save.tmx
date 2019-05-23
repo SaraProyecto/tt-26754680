@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>- En cas de question ou de contestation, présentez-vous à l’accueil du magasin avec votre Carte E.Leclerc.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T094456Z" creationid="Cristina" creationdate="20190523T094456Z">
+        <seg>- En caso de duda  o disputa, preséntese en la recepción de la tienda con su Tarjeta E.Leclerc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>- Les réductions immédiates sont les réductions déduites lors de vos passages en caisse.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T092131Z" creationid="Cristina" creationdate="20190523T092131Z">
@@ -482,6 +490,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T112943Z" creationid="Cristina" creationdate="20190515T112943Z">
         <seg>El correo electrónico puede contener información diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Le message « Aucun décagnottage cette semaine » s’affiche si vous n’avez effectué aucun paiement en Tickets E.Leclerc sur la semaine en cours.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T094630Z" creationid="Cristina" creationdate="20190523T094630Z">
+        <seg>El mesaje "Sin bote premiado esta semana" se muestra si no ha realizado ningún pago con la Tarjeta E.Leclerc en esa semana</seg>
       </tuv>
     </tu>
     <tu>
