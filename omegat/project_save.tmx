@@ -590,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Il vous suffit de la présenter lors de vos passages en caisse pour profiter de vos réductions.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T105132Z" creationid="Cristina" creationdate="20190523T105132Z">
+        <seg>Solo tiene que presentarlo durante su compra para disfrutar de sus descuentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Il vous suffit de vous rendre sur la page d’accueil du magasin de votre choix  en cliquant sur le logo &lt;s0&gt;"Mon magasin"&lt;/s0&gt;.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="alumno" changedate="20190508T123735Z" creationid="alumno" creationdate="20190508T123735Z">
