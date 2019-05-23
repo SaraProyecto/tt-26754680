@@ -304,8 +304,8 @@
       <tuv lang="FR-FR">
         <seg>Comment sont-elles réparties ?</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T095302Z" creationid="Cristina" creationdate="20190523T095302Z">
-        <seg>¿Cómo están repartias?</seg>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T095343Z" creationid="Cristina" creationdate="20190523T095302Z">
+        <seg>¿Cómo están repartidas?</seg>
       </tuv>
     </tu>
     <tu>
@@ -898,6 +898,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="alumno" changedate="20190508T115843Z" creationid="alumno" creationdate="20190508T115843Z">
         <seg>Una hora para ti mismo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Vos dépenses sont réparties, sous forme de pourcentages, en fonction des différents rayons du magasin et/ou univers de produits (alimentation, loisirs…).</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T095508Z" creationid="Cristina" creationdate="20190523T095337Z">
+        <seg>Sus gastos se reparten, en forma de porcentajes, en función de los diferentes departamentos de la tienda y/o los diferentes productos (alimentación, ocio...).</seg>
       </tuv>
     </tu>
     <tu>
