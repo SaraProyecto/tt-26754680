@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>- Si vous n'avez pas encore téléchargé tous les bons de réduction qui vous ont été proposés, le bouton "VOIR TOUS LES BONS" vous permet de visualiser ceux qui restent disponibles en téléchargement sur votre Carte E.Leclerc.&lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T103830Z" creationid="Cristina" creationdate="20190523T103830Z">
+        <seg>- Si aún no ha descargado todos los bonos que se le han ofrecido, el botón "VER TODOS LOS BONOS" le permite ver cuáles están todavía disponibles para descargar en su Tarjeta E.Leclerc.&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>- Un délai de 2 jours minimum peut être nécessaire pour que vos dépenses apparaissent.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T101430Z" creationid="Cristina" creationdate="20190523T101430Z">
@@ -590,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Ils sont utilisables dès votre prochain passage en caisse et restent valables pendant 30 jours à compter de la date du téléchargement.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T103523Z" creationid="Cristina" creationdate="20190523T103523Z">
+        <seg>Se pueden utilizar a partir de su próxima compra y permanecerán válidos durante 30 días a partir de la fecha de descarga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>J'ai acheté un produit alimentaire qui pose un souci de qualité : que dois-je faire ?</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T132907Z" creationid="Sarita" creationdate="20190508T132609Z">
@@ -1078,6 +1094,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Sur l'application mobile "Mon E.Leclerc", vous pouvez également télécharger les bons de réductions émis par votre magasin rattachement (magasin dans lequel vous avez l'habitude d'effectuer vos courses).</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T103642Z" creationid="Cristina" creationdate="20190523T103642Z">
+        <seg>En la aplicación móvil "Mi E.Leclerc", también puede descargar los bonos de descuento emitidos por su tienda vinculada (tienda donde normalmente hace sus compras)..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Travailler chez / avec E.Leclerc</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190510T144109Z" creationid="Sarita" creationdate="20190510T144109Z">
@@ -1258,6 +1282,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T085710Z" creationid="Cristina" creationdate="20190523T085710Z">
         <seg>¿Cuáles son los fondos ahorrados desde principios de año?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>À quoi sert le bouton "VOIR TOUS LES BONS" ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T103724Z" creationid="Cristina" creationdate="20190523T103724Z">
+        <seg>¿Qué es el botón "VER TODOS LOS BONOS"?</seg>
       </tuv>
     </tu>
     <tu>
