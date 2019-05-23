@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>&lt;s2&gt;Pour connaître l’ensemble des engagements de notre enseigne, cliquez &lt;/s2&gt;&lt;a3&gt;ici&lt;/a3&gt;&lt;s4&gt; .&lt;/s4&gt;&lt;br5&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T110230Z" creationid="Cristina" creationdate="20190523T110230Z">
+        <seg>&lt;s2&gt;Para ver todos los compromisos de nuestra marca, haga clic en&lt;/s2&gt;&lt;a3&gt;aquí&lt;/a3&gt;&lt;s4&gt; .&lt;/s4&gt;&lt;br5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>&lt;s7&gt;&lt;e8&gt;* Dans le centre E.Leclerc de l’achat, sur présentation du ticket de caisse, à condition que le produit soit restitué dans son état et emballage d’origine non ouvert hors produits frais.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190510T141440Z" creationid="Cristina" creationdate="20190510T141244Z">
@@ -542,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Culture</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T110431Z" creationid="Cristina" creationdate="20190523T110431Z">
+        <seg>Cultura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Dans ce cas, vos achats peuvent être affichés dans un délai d'une dizaine de jours au plus tard, le temps d'enregistrer et d'activer votre compte.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T101609Z" creationid="Cristina" creationdate="20190523T101609Z">
@@ -578,6 +594,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T111017Z" creationid="Cristina" creationdate="20190515T111017Z">
         <seg>Las llamadas telefónicas, usurpando la identidad del movimiento de E. Leclerc también fueron denunciadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Drive</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T110330Z" creationid="Cristina" creationdate="20190523T110330Z">
+        <seg>Unidad</seg>
       </tuv>
     </tu>
     <tu>
@@ -634,6 +658,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T115341Z" creationid="Sarita" creationdate="20190508T115341Z">
         <seg>Informar de un problema en las tiendas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>High-Tech</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T110427Z" creationid="Cristina" creationdate="20190523T110427Z">
+        <seg>Alta tecnología</seg>
       </tuv>
     </tu>
     <tu>
@@ -878,10 +910,26 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Ma cave</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T110525Z" creationid="Cristina" creationdate="20190523T110525Z">
+        <seg>Favoritos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Mais revenez vite car de nouveaux bons de réduction sont proposés régulièrement.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T105741Z" creationid="Cristina" creationdate="20190523T105741Z">
         <seg>Pero vuelve pronto porque regularmente los nuevos cupones se ofrecen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Maison et loisirs</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T110445Z" creationid="Cristina" creationdate="20190523T110445Z">
+        <seg>Fruta y verdura</seg>
       </tuv>
     </tu>
     <tu>
@@ -986,6 +1034,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="alumno" changedate="20190508T115710Z" creationid="alumno" creationdate="20190508T115710Z">
         <seg>Óptica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Parapharmacie</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T110357Z" creationid="Cristina" creationdate="20190523T110357Z">
+        <seg>Parafarmacia</seg>
       </tuv>
     </tu>
     <tu>
@@ -1346,6 +1402,22 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T101443Z" creationid="Cristina" creationdate="20190523T101443Z">
         <seg>Acaba de unirse a la Tarjeta E.Leclerc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>e-carte cadeau</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T110440Z" creationid="Cristina" creationdate="20190523T110440Z">
+        <seg>Tarjetas Regalo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>livraison</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T110342Z" creationid="Cristina" creationdate="20190523T110342Z">
+        <seg>Entrega</seg>
       </tuv>
     </tu>
     <tu>
