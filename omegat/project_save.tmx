@@ -232,8 +232,8 @@
       <tuv lang="FR-FR">
         <seg>-ne communiquez pas vos données personnelles : numéro de carte bancaire, code carte bancaire, etc ...</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Sarita" changedate="20190510T142354Z" creationid="Sarita" creationdate="20190510T142354Z">
-        <seg>-No comunique sus datos personales: número de tarjeta de crédito, código de tarjeta bancaria, etc ...</seg>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190524T134351Z" creationid="Sarita" creationdate="20190510T142354Z">
+        <seg>-no comunique sus datos personales: número de tarjeta de crédito, código de tarjeta bancaria, etc ...</seg>
       </tuv>
     </tu>
     <tu>
