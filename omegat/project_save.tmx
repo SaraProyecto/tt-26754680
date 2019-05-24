@@ -808,8 +808,8 @@
       <tuv lang="FR-FR">
         <seg>En fonction du produit, de la panne constatée, du montant de la réparation, de la disponibilité des pièces détachées auprès du fabricant et des conditions propres à chaque marque, le produit sera soit réparé, soit remboursé soit échangé.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T135740Z" creationid="Cristina" creationdate="20190523T135740Z">
-        <seg>En función del producto, el fallo , el monto de la reparación, la disponibilidad de piezas de repuesto del fabricante y las condiciones específicas de cada marca, el producto será reparado, reembolsado o cambiado.</seg>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190524T134811Z" creationid="Cristina" creationdate="20190523T135740Z">
+        <seg>En función del producto, el fallo , el importe de la reparación, la disponibilidad de piezas de repuesto del fabricante y las condiciones específicas de cada marca, el producto será reparado, reembolsado o cambiado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -968,8 +968,8 @@
       <tuv lang="FR-FR">
         <seg>Je souhaiterais faire une demande de don, de partenariat, ou de sponsoring.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T112957Z" creationid="Cristina" creationdate="20190523T112957Z">
-        <seg>Me gustaría solicitar una donación, colaboración o sponsoring..</seg>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190524T134647Z" creationid="Cristina" creationdate="20190523T112957Z">
+        <seg>Me gustaría solicitar una donación, colaboración o sponsoring.</seg>
       </tuv>
     </tu>
     <tu>
