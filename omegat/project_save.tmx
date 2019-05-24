@@ -360,8 +360,8 @@
       <tuv lang="FR-FR">
         <seg>&lt;a0&gt;Le Manège à Bijoux&lt;/a0&gt;, &lt;a1&gt;Parapharmacie&lt;/a1&gt;, &lt;a2&gt;L’Auto&lt;/a2&gt;, &lt;a3&gt;L’optique&lt;/a3&gt;, &lt;a4&gt;E.Leclerc Voyages&lt;/a4&gt;, &lt;a5&gt;Une heure pour soi&lt;/a5&gt;, &lt;a6&gt;Espace culturel&lt;/a6&gt;, &lt;a7&gt;Jardi E.Leclerc&lt;/a7&gt;, &lt;a8&gt;Brico E.Leclerc&lt;/a8&gt;, &lt;a9&gt;Sports et loisirs&lt;/a9&gt;, &lt;a10&gt;Loué chez&lt;/a10&gt;</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="alumno" changedate="20190508T124145Z" creationid="alumno" creationdate="20190508T120429Z">
-        <seg>&lt;a0&gt;El Paseo de Joyas&lt;/a0&gt;, &lt;a1&gt;Parafarmacia&lt;/a1&gt;, &lt;a2&gt;Automóbiles&lt;/a2&gt;, &lt;a3&gt;La óptica&lt;/a3&gt;, &lt;a4&gt;ViajesE .Leclerc&lt;/a4&gt;, &lt;a5&gt;Una hora para ti mismo&lt;/a5&gt;, &lt;a6&gt;Espacio cultural&lt;/a6&gt;, &lt;a7&gt;Jardinería E.Leclerc&lt;/a7&gt;, &lt;a8&gt;Bricomanía E.Leclerc&lt;/a8&gt;, &lt;a9&gt;Deportes y recreación&lt;/a9&gt;, &lt;a10&gt;Alquileres de viviendas&lt;/a10&gt;</seg>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190524T135016Z" creationid="alumno" creationdate="20190508T120429Z">
+        <seg>&lt;a0&gt;El Paseo de Joyas&lt;/a0&gt;, &lt;a1&gt;Parafarmacia&lt;/a1&gt;, &lt;a2&gt;Automóbiles&lt;/a2&gt;, &lt;a3&gt;La óptica&lt;/a3&gt;, &lt;a4&gt;Viajes E .Leclerc&lt;/a4&gt;, &lt;a5&gt;Una hora para ti mismo&lt;/a5&gt;, &lt;a6&gt;Espacio cultural&lt;/a6&gt;, &lt;a7&gt;Jardinería E.Leclerc&lt;/a7&gt;, &lt;a8&gt;Bricomanía E.Leclerc&lt;/a8&gt;, &lt;a9&gt;Deportes y recreación&lt;/a9&gt;, &lt;a10&gt;Alquileres de viviendas&lt;/a10&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -664,8 +664,8 @@
       <tuv lang="FR-FR">
         <seg>Connaître les dates d’ouverture et de fermeture exceptionnelles de mon magasin E-Leclerc.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="alumno" changedate="20190508T122733Z" creationid="alumno" creationdate="20190508T122652Z">
-        <seg>Conozca nuestros días de abertura y cierre de nuestra tienda E-Leclerc..</seg>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190524T135037Z" creationid="alumno" creationdate="20190508T122652Z">
+        <seg>Conozca nuestros días de abertura y cierre de nuestra tienda E-Leclerc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1408,8 +1408,8 @@
       <tuv lang="FR-FR">
         <seg>Par ailleurs, les magasins peuvent proposer d'autres extensions de garantie payantes (renseignements en magasin).</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T140836Z" creationid="Cristina" creationdate="20190523T140836Z">
-        <seg>Además, las tiendas pueden ofrecer extensiones de garantíaadicionales pagadas  (información en la tienda)..</seg>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190524T134858Z" creationid="Cristina" creationdate="20190523T140836Z">
+        <seg>Además, las tiendas pueden ofrecer extensiones de garantía adicional pagadas (información en la tienda).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1504,8 +1504,8 @@
       <tuv lang="FR-FR">
         <seg>Pour faire part d'une remarque sur un magasin, nous vous invitons à prendre contact avec l'accueil de votre magasin ou contacter le Service Client ALLO E.LECLERC au 09 69 32 42 52.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T115719Z" creationid="Sarita" creationdate="20190508T115719Z">
-        <seg>Para hacer un comentario de una tienda, lo invitamos a ponerse en contacto con la recepción de su tienda o contactar con el Servicio de atención al cliente de Hola E.LECLERC al 09 69 32 42 52.</seg>
+      <tuv lang="ES-ES" changeid="Cristina" changedate="20190524T135119Z" creationid="Sarita" creationdate="20190508T115719Z">
+        <seg>Para hacer un comentario de una tienda, le invitamos a ponerse en contacto con la recepción de su tienda o contactar con el Servicio de atención al cliente de Hola E.LECLERC al 09 69 32 42 52.</seg>
       </tuv>
     </tu>
     <tu>
