@@ -2110,6 +2110,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Votre satisfaction est notre priorité, en cas de désaccord et après avoir sollicité les services internes, l’enseigne E.Leclerc vous propose, de consulter le Médiateur du Commerce Coopératif et Associé.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T215809Z" creationid="Sarita" creationdate="20190602T215809Z">
+        <seg>Su satisfacción es nuestra prioridad, en caso de desacuerdo y de haber solicitado los servicios internos, E.Leclerc le ofrece consultar al Mediador de la Cooperativa de Comercio y Asociados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Vous avez la possibilité de nous contacter par email.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T115801Z" creationid="Sarita" creationdate="20190508T115801Z">
@@ -2218,6 +2226,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T101443Z" creationid="Cristina" creationdate="20190523T101443Z">
         <seg>Acaba de unirse a la Tarjeta E.Leclerc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Vous êtes insatisfait des réponses que nos services vous ont apportées ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T184734Z" creationid="Sarita" creationdate="20190602T184734Z">
+        <seg>¿Está insatisfecho con las respuestas que nuestros servicios le han dado?</seg>
       </tuv>
     </tu>
     <tu>
