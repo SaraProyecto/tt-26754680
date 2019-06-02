@@ -798,6 +798,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Elle sera effectuée après acceptation d'un devis, en fonction de la disponibilité des pièces détachées.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T165825Z" creationid="Sarita" creationdate="20190602T165825Z">
+        <seg>Se realizará después de la aceptación de un presupuesto, dependiendo de la disponibilidad de piezas de repuesto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>En appliquant un filtre (Bio ou produits Marque Repère par exemple), vous limitez l'affichage à ces seuls produits.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T100156Z" creationid="Cristina" creationdate="20190523T100156Z">
