@@ -1926,6 +1926,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Un devis est émis si l’intervention est supérieure à 150 euros TTC conformément à la loi.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T165349Z" creationid="Sarita" creationdate="20190602T165349Z">
+        <seg>Se emite un presupuesto si la intervención es superior a 150 euros (impuestos incluidos) de acuerdo con la ley.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Un magasin E.Leclerc prend-il en charge mon appareil sous garantie peu importe le magasin d'achat ?</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T135824Z" creationid="Cristina" creationdate="20190523T135824Z">
