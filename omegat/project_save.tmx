@@ -702,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Consultez les questions les plus fréquemment posées ci-dessus, peut-être y trouverez-vous la réponse à votre question.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T170822Z" creationid="Sarita" creationdate="20190602T170822Z">
+        <seg>Consulte las preguntas más frecuentes que se han formulado, quizás encuentre la respuesta a su pregunta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Contacter mon magasin E.Leclerc ?</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190524T135819Z" creationid="alumno" creationdate="20190508T123828Z">
