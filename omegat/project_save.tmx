@@ -854,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Hors Garantie</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T164837Z" creationid="Sarita" creationdate="20190602T164837Z">
+        <seg>Fuera de garantía</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Il est possible que certaines dépenses n'apparaissent pas sur votre Espace Carte.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T101301Z" creationid="Cristina" creationdate="20190523T101301Z">
