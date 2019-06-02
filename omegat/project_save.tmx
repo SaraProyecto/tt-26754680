@@ -678,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Conformément à la loi « informatique et libertés », vous disposez d’un droit d’accès et de rectification aux données vous concernant qui seront conservées pendant 6 mois.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T172252Z" creationid="Sarita" creationdate="20190602T172252Z">
+        <seg>De acuerdo con la Ley «Informática y Libertades», usted tiene derecho a acceder y a rectificar los datos que le conciernen, que se conservarán durante 6 meses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Connaître les dates d’ouverture et de fermeture exceptionnelles de mon magasin E-Leclerc.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190524T135037Z" creationid="alumno" creationdate="20190508T122652Z">
@@ -1594,6 +1602,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190522T122142Z" creationid="Cristina" creationdate="20190522T122142Z">
         <seg>Para saber más, haga clic aquí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Pour exercer ce droit, adressez-vous au Service Consommateurs Allô E.LECLERC accessible au numéro suivant : 09 69 32 42 52 (Numéro Cristal : appel non surtaxé – du lundi au samedi, de 8h30 à 19h et jusqu'à 18h les veilles de jour férié), ou par courrier à l'adresse suivante : Service Consommateurs Allô E.LECLERC, GALEC, BP 30004, 94859 Ivry-sur-Seine.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T172549Z" creationid="Sarita" creationdate="20190602T172549Z">
+        <seg>Para ejercer este derecho, póngase en contacto con el Servicio al Consumidor Hola E.LECLERC accesible en el siguiente número: 09 69 32 42 52 (Número de Cristal: llamada sin recargo, de lunes a sábado, de 8:30 a 19h y hasta las 18h los días de vacaciones), o por correo a la siguiente dirección: Servicio al consumidor Hola E. LECLERC, GALEC, BP 30004, 94859 Ivry-sur-Seine.</seg>
       </tuv>
     </tu>
     <tu>
