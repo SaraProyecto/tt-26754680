@@ -680,8 +680,8 @@
       <tuv lang="FR-FR">
         <seg>Conformément à la loi « informatique et libertés », vous disposez d’un droit d’accès et de rectification aux données vous concernant qui seront conservées pendant 6 mois.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T172252Z" creationid="Sarita" creationdate="20190602T172252Z">
-        <seg>De acuerdo con la Ley «Informática y Libertades», usted tiene derecho a acceder y a rectificar los datos que le conciernen, que se conservarán durante 6 meses.</seg>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T172803Z" creationid="Sarita" creationdate="20190602T172252Z">
+        <seg>De acuerdo con la Ley de Protección de Datos, usted tiene derecho a acceder y a rectificar los datos que le conciernen, que se conservarán durante 6 meses.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2170,6 +2170,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T091257Z" creationid="Cristina" creationdate="20190523T091257Z">
         <seg>Puede utilizar sus Tickets E.Leclerc desde el siguiente día del que los adquiere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Vous pouvez également définir des directives relatives à la conservation, à l'effacement et à la communication de vos données à caractère personnel après votre décès dans les conditions prévues par l'article 40-1 de la loi "Informatique et libertés" modifiée.&lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T172741Z" creationid="Sarita" creationdate="20190602T172741Z">
+        <seg>También puede establecer pautas para la conservación, el borrado y la comunicación de sus datos personales tras su fallecimiento en las condiciones establecidas en el Artículo 40-1 de la "Ley de Protección de Datos y Libertad de Información" modificada..&lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
