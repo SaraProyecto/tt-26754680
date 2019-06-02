@@ -1470,6 +1470,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Passé la période de garantie du produit, toute intervention est à la charge du client.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T165052Z" creationid="Sarita" creationdate="20190602T165052Z">
+        <seg>Después del período de garantía del producto, cualquier intervención es responsabilidad del cliente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Pendant les jours fériés ou en période de fêtes de fin d’année, les horaires d’ouverture de certains magasins peuvent changer.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="alumno" changedate="20190508T123306Z" creationid="alumno" creationdate="20190508T122058Z">
@@ -1610,6 +1618,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T101230Z" creationid="Cristina" creationdate="20190523T101230Z">
         <seg>¿Por qué mis compras no se han tomado en cuenta?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Qu'est ce que le Hors Garantie ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T164917Z" creationid="Sarita" creationdate="20190602T164917Z">
+        <seg>¿Qué es fuera de garantía?</seg>
       </tuv>
     </tu>
     <tu>
