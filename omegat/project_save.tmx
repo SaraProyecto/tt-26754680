@@ -526,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Certains magasins proposent à la répartion hors garantie.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T165749Z" creationid="Sarita" creationdate="20190602T165749Z">
+        <seg>Algunas tiendas ofrecen reparaciones fuera de garantía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Cet engagement ne s’applique pas aux produits soldés, aux sous-vêtements, aux produits frais, à la téléphonie mobile et à la billetterie E.Leclerc (voir conditions particulières en magasin).&lt;/e8&gt;&lt;/s7&gt;</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190510T141737Z" creationid="Cristina" creationdate="20190510T141737Z">
@@ -1930,6 +1938,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T165349Z" creationid="Sarita" creationdate="20190602T165349Z">
         <seg>Se emite un presupuesto si la intervención es superior a 150 euros (impuestos incluidos) de acuerdo con la ley.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Un magasin E.Leclerc prend t il en charge un appareil en Hors Garantie, peu importe le lieu d'achat ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T165421Z" creationid="Sarita" creationdate="20190602T165421Z">
+        <seg>¿Una tienda E.Leclerc se hace cargo de un dispositivo fuera de garantía, independientemente del lugar de compra?</seg>
       </tuv>
     </tu>
     <tu>
