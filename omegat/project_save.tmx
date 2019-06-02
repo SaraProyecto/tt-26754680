@@ -1014,6 +1014,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>L'enregistrement des appels par le Service Consommateurs Allô E.LECLERC est destiné à améliorer la qualité de service rendu aux clients.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T172045Z" creationid="Sarita" creationdate="20190602T172045Z">
+        <seg>La grabación de las llamadas por el Servicio de Consumidores Hola E.LECLERC tiene como objetivo mejorar la calidad del servicio brindado a los clientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>L'enseigne E.LECLERC est un mouvement d'indépendants, c'est pourquoi chaque magasin met en œuvre sa propre politique.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190510T144940Z" creationid="Sarita" creationdate="20190510T144839Z">
@@ -1866,6 +1874,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T112208Z" creationid="Cristina" creationdate="20190523T112208Z">
         <seg>Si no recibe nuestros catálogos, puede acercarse al centro de su tienda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Si vous ne souhaitez pas que votre appel soit enregistré, indiquez-le à votre opérateur en début de communication.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T172135Z" creationid="Sarita" creationdate="20190602T172135Z">
+        <seg>Si no desea que su llamada sea grabada, indíquelo a su operador al principio de la llamada.</seg>
       </tuv>
     </tu>
     <tu>
