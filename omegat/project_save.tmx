@@ -1902,6 +1902,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Sinon avez-vous une question ou une remarque concernant :</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T170942Z" creationid="Sarita" creationdate="20190602T170942Z">
+        <seg>-Si no tienes una pregunta o comentario sobre:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Sinon vous pouvez contacter directement votre magasin (RDV au comptoir SAV ou à l'accueil magasin).</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T135540Z" creationid="Cristina" creationdate="20190523T135540Z">
@@ -1930,6 +1938,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T103642Z" creationid="Cristina" creationdate="20190523T103642Z">
         <seg>En la aplicación móvil "Mi E.Leclerc", también puede descargar los bonos de descuento emitidos por su tienda vinculada (tienda donde normalmente hace sus compras)..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Sélectionnez l'objet de votre demande</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T171039Z" creationid="Sarita" creationdate="20190602T171039Z">
+        <seg>Seleccione el objeto de su solicitud</seg>
       </tuv>
     </tu>
     <tu>
