@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Ce service concerne tous les produits, même ceux non achetés chez E.Leclerc.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T165914Z" creationid="Sarita" creationdate="20190602T165914Z">
+        <seg>Este servicio se aplica a todos los productos, incluso aquellos que no se hayan comprado en E.Leclerc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Ce solde est automatiquement alimenté à chacun de vos passages en caisse, lorsque vous bénéficiez de Tickets E.Leclerc.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T090826Z" creationid="Cristina" creationdate="20190523T090826Z">
@@ -1430,6 +1438,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Nous échangeons ou remboursons en "Ticket E.Leclerc" ou en espèces de tout produit (hors produits frais) acheté dans votre centre E.Leclerc dans les 15 jours après l’achat et dans le centre E.Leclerc de l’achat, sur présentation du ticket de caisse, à condition que le produit soit restitué dans son état et emballage d’origine non ouvert.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T170708Z" creationid="Sarita" creationdate="20190602T170708Z">
+        <seg>Cambiamos o reembolsamos en "Ticket E.Leclerc" o en efectivo de cualquier producto (excluidos los productos frescos) comprado en su centro E.Leclerc dentro de los 15 días siguientes a la compra y en el centro E.Leclerc de la compra, previa presentación del recibo de la compra, siempre que el producto se devuelva en su estado y embalaje original sin abrir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Optique</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="alumno" changedate="20190508T115710Z" creationid="alumno" creationdate="20190508T115710Z">
@@ -1994,6 +2010,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="alumno" changedate="20190508T115843Z" creationid="alumno" creationdate="20190508T115843Z">
         <seg>Una hora para ti mismo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Voir conditions en magasin.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T170011Z" creationid="Sarita" creationdate="20190602T170011Z">
+        <seg>ver condiciones en la tienda.</seg>
       </tuv>
     </tu>
     <tu>
