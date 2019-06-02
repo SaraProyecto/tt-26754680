@@ -1006,6 +1006,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>La garantie constructeur ou commerciale est proposée par le constructeur ou fabricant, le contenu ainsi que sa durée sont fixés par le fabricant.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T155049Z" creationid="Sarita" creationdate="20190602T155049Z">
+        <seg>La garantía del fabricante o comercial será propuesta por el fabricante, el contenido y su duración serán fijados por el fabricante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>La garantie légale de conformité est une garantie légale de 2 ans après la date d'achat.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T141952Z" creationid="Cristina" creationdate="20190523T141952Z">
@@ -1022,10 +1030,18 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Le bien acheté est impropre à l’usage habituellement attendu d’un bien semblable, ce défaut doit exister lors de l'achat du bien en question.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T155759Z" creationid="Sarita" creationdate="20190602T155759Z">
+        <seg>El bien comprado no es adecuado para el uso habitual que se espera de un producto similar, este defecto debe existir en el momento de la compra del bien en cuestión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Le client peut faire valoir cette garantie pour défaut de conformité et pourra demander la réparation ou le remplacement du produit.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T154933Z" creationid="Sarita" creationdate="20190602T154933Z">
-        <seg>El cliente puede reclamar esta garantía por falta de conformidad y puede solicitar la reparación o la sustitución del producto.</seg>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T154948Z" creationid="Sarita" creationdate="20190602T154933Z">
+        <seg>El cliente puede reclamar esta garantía por falta de conformidad y puede solicitar la reparación o sustitución del producto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1578,6 +1594,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T101230Z" creationid="Cristina" creationdate="20190523T101230Z">
         <seg>¿Por qué mis compras no se han tomado en cuenta?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Qu'est qu'un défaut de conformité ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T155158Z" creationid="Sarita" creationdate="20190602T155158Z">
+        <seg>¿Qué es una falta de conformidad?</seg>
       </tuv>
     </tu>
     <tu>
