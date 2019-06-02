@@ -550,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Cet espace Sourdline est spécialement dédié aux personnes sourdes ou malentendantes.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T184718Z" creationid="Sarita" creationdate="20190602T184718Z">
+        <seg>Este espacio Sourdline está especialmente dedicado a personas sordas o con problemas de audición.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Charte accueil</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190510T142050Z" creationid="Cristina" creationdate="20190510T142050Z">
@@ -2210,6 +2218,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T101443Z" creationid="Cristina" creationdate="20190523T101443Z">
         <seg>Acaba de unirse a la Tarjeta E.Leclerc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Vous êtes sourd ou malentendant ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T184704Z" creationid="Sarita" creationdate="20190602T184704Z">
+        <seg>¿Es sordo o tiene problemas de audición?</seg>
       </tuv>
     </tu>
     <tu>
