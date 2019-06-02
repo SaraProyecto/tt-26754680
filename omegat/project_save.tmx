@@ -1014,6 +1014,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>La garantie constructeur ou commerciale ne joue pas en cas de mauvais montage, d’utilisation d’un voltage autre que prévu ou d’accessoires inadaptés, d’usage anormal, de choc, de modifications apportées sur l’appareil, etc.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T164550Z" creationid="Sarita" creationdate="20190602T164550Z">
+        <seg>La garantía del fabricante o comercial no se aplicará en caso de mal montaje, de utilización de un voltaje distinto del previsto o de accesorios inadecuados, de uso anormal, de golpes, de modificaciones introducidas en el aparato, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>La garantie légale de conformité est une garantie légale de 2 ans après la date d'achat.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T141952Z" creationid="Cristina" creationdate="20190523T141952Z">
@@ -1678,6 +1686,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Quels sont les cas usuels d’exclusion de la garantie constructeur ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T164236Z" creationid="Sarita" creationdate="20190602T164236Z">
+        <seg>¿Cuáles son los casos habituales de exclusión de la garantía del fabricante?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Quels sont les coûts possible de livraison ou de mise en service ?</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T141056Z" creationid="Cristina" creationdate="20190523T141050Z">
@@ -1810,6 +1826,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T132847Z" creationid="Sarita" creationdate="20190508T132847Z">
         <seg>Si le preocupa la calidad de uno de sus productos, hay varias soluciones disponibles para usted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Si vous êtes concerné, vous disposez de 2 ans à compter de la découverte du vice caché et devez en apporter la preuve.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T164133Z" creationid="Sarita" creationdate="20190602T164133Z">
+        <seg>Si está preocupado, tiene 2 años desde el descubrimiento del defecto oculto y deberá presentar la prueba correspondiente.</seg>
       </tuv>
     </tu>
     <tu>
