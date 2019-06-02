@@ -1902,6 +1902,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Un vice caché est un vice non apparent au moment de la vente rendant la chose impropre à son usage normal ou diminuant tellement son usage que le client ne l’aurait pas achetée.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T164015Z" creationid="Sarita" creationdate="20190602T164015Z">
+        <seg>Un defecto oculto es un defecto que no es evidente en el momento de la venta, lo que hace que el artículo no sea adecuado para el uso normal o reduce su uso tanto que el cliente no lo habría comprado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Une heure pour soi</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="alumno" changedate="20190508T115843Z" creationid="alumno" creationdate="20190508T115843Z">
