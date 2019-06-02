@@ -2014,6 +2014,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Un produit d'une autre marque</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T171713Z" creationid="Sarita" creationdate="20190602T171713Z">
+        <seg>Un producto de otra marca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Un technicien peut-il intervenir chez moi en cas de panne ?</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T140137Z" creationid="Cristina" creationdate="20190523T140137Z">
@@ -2034,6 +2042,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="alumno" changedate="20190508T115843Z" creationid="alumno" creationdate="20190508T115843Z">
         <seg>Una hora para ti mismo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Veuillez sélectionner l'objet de votre demande dans la liste déroulante surlignée en rouge.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T171946Z" creationid="Sarita" creationdate="20190602T171946Z">
+        <seg>Seleccione el asunto de su solicitud en la lista desplegable resaltada en rojo.</seg>
       </tuv>
     </tu>
     <tu>
