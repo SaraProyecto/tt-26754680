@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>&lt;s0&gt;Version Portail :: 05.07.25.03&lt;/s0&gt;  Copyright 2016 E.Leclerc</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T143626Z" creationid="Sarita" creationdate="20190603T143626Z">
+        <seg>&lt;s0&gt;Versión del Portal :: 05.07.25.03&lt;/s0&gt;  Copyright 2016 E.Leclerc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>&lt;s2&gt;Nous vous invitons donc à prendre contact avec votre magasin le plus proche de chez vous, afin qu'il puisse répondre au mieux à votre demande.&lt;/s2&gt;</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190510T144722Z" creationid="Sarita" creationdate="20190510T144722Z">
@@ -1906,6 +1914,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T111918Z" creationid="Cristina" creationdate="20190523T111918Z">
         <seg>Vaya a la tienda para descubrirlos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Retour en haut</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T143655Z" creationid="Sarita" creationdate="20190603T143655Z">
+        <seg>Volver al principio</seg>
       </tuv>
     </tu>
     <tu>
