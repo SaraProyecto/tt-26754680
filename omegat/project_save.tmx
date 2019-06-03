@@ -838,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Chercher un magasin</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T224838Z" creationid="Sarita" creationdate="20190603T224838Z">
+        <seg>Buscar una tienda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Choisissez vite vos bons préférés.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T110128Z" creationid="Cristina" creationdate="20190523T110128Z">
@@ -1058,6 +1066,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190524T135819Z" creationid="alumno" creationdate="20190508T123828Z">
         <seg>¿Contactar con tu tienda E.Leclerc?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Contactez-nous</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T224800Z" creationid="Sarita" creationdate="20190603T224800Z">
+        <seg>Contáctenos</seg>
       </tuv>
     </tu>
     <tu>
@@ -1450,6 +1466,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T103523Z" creationid="Cristina" creationdate="20190523T103523Z">
         <seg>Se pueden utilizar a partir de su próxima compra y permanecerán válidos durante 30 días a partir de la fecha de descarga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Informations légales</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T225026Z" creationid="Sarita" creationdate="20190603T225026Z">
+        <seg>Información legal</seg>
       </tuv>
     </tu>
     <tu>
@@ -1954,6 +1978,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T135717Z" creationid="Cristina" creationdate="20190523T135717Z">
         <seg>¿Mi producto se puede reparar, cambiar o reembolsar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Médiateur de la consommation</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T224920Z" creationid="Sarita" creationdate="20190603T224920Z">
+        <seg>Defensor del consumidor</seg>
       </tuv>
     </tu>
     <tu>
@@ -2538,6 +2570,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T223909Z" creationid="Sarita" creationdate="20190603T223909Z">
         <seg>RÉGLO finanzas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Règlements des jeux</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T224747Z" creationid="Sarita" creationdate="20190603T224747Z">
+        <seg>Reglamento de los juegos</seg>
       </tuv>
     </tu>
     <tu>
