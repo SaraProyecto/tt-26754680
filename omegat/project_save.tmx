@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>- on vous annonce que vous avez remporté un bon d'achat et que pour valider ce bon vous devez appeler un numéro de téléphone en précisant un code qu'on vous aura préalablement indiqués.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T221553Z" creationid="Sarita" creationdate="20190603T221553Z">
+        <seg>- se le anuncia que ha ganado un vale de compra y que para validarlo debe llamar a un número de teléfono precisando un código que se le haya indicado previamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>- on vous annonce que vous avez remporté un jeu concours,</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T221136Z" creationid="Sarita" creationdate="20190603T210142Z">
@@ -322,6 +330,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T113158Z" creationid="Cristina" creationdate="20190515T113158Z">
         <seg>-no responda a las solicitudes,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>-on vous annonce que vous avez gagné une carte cadeau et que vous devez communiquer votre RIB pour l'obtenir,</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T221507Z" creationid="Sarita" creationdate="20190603T221507Z">
+        <seg>- se le anuncia que ha ganado una tarjeta de regalo y que debe comunicar su documento de identificación bancaria para obtenerla,</seg>
       </tuv>
     </tu>
     <tu>
