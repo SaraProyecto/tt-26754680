@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>- on vous annonce que vous avez remporté un jeu concours,</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T210142Z" creationid="Sarita" creationdate="20190603T210142Z">
+        <seg>- le dicen que ha ganado un concurso,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>- « [votre adresse mail], votre carte d’achat est toujours en attente»</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T210034Z" creationid="Sarita" creationdate="20190603T210034Z">
@@ -2818,6 +2826,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T111223Z" creationid="Cristina" creationdate="20190515T111223Z">
         <seg>•&lt;s0&gt; &lt;/s0&gt;&lt;s1&gt;Preste atención al asunto del correo &lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>• &lt;u0&gt;Soyez attentifs au contenu du mail &lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T210058Z" creationid="Sarita" creationdate="20190603T210058Z">
+        <seg>• &lt;u0&gt;Preste atención al contenido del correo &lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
