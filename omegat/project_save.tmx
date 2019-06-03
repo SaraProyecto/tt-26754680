@@ -1990,6 +1990,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Que faire si vous constatez que vos données personnelles ont été modifiées ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T192604Z" creationid="Sarita" creationdate="20190603T192604Z">
+        <seg>¿Qué hacer si descubre que sus datos personales han sido modificados?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Que signifie le message « Cette fonctionnalité n’est pas disponible actuellement, veuillez réessayer ultérieurement !</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T100907Z" creationid="Cristina" creationdate="20190523T100907Z">
@@ -2118,6 +2126,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Rendez-vous à l’accueil de votre magasin, sur votre Drive habituel ou sur votre espace Carte.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T192551Z" creationid="Sarita" creationdate="20190603T192551Z">
+        <seg>Acuda a la recepción de su tienda, en su Drive habitual o en su espacio Tarjeta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Retour en haut</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T143655Z" creationid="Sarita" creationdate="20190603T143655Z">
@@ -2226,6 +2242,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T164133Z" creationid="Sarita" creationdate="20190602T164133Z">
         <seg>Si está preocupado, tiene 2 años desde el descubrimiento del defecto oculto y deberá presentar la prueba correspondiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Signalez-le à l'accueil de votre centre Leclerc principal.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T192702Z" creationid="Sarita" creationdate="20190603T192702Z">
+        <seg>Infórmelo en la recepción de su tienda Lecrec principal.</seg>
       </tuv>
     </tu>
     <tu>
