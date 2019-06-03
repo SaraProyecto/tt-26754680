@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>- on vous demande de répondre à un sondage d’opinion.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T211046Z" creationid="Sarita" creationdate="20190603T211046Z">
+        <seg>- le pedimos que responda a una encuesta de opinión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>- on vous demande de souscrire à un abonnement,</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T210428Z" creationid="Sarita" creationdate="20190603T210428Z">
