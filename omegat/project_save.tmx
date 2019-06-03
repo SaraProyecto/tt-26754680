@@ -878,6 +878,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>En savoir + sur le SAV E.Leclerc</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T142228Z" creationid="Sarita" creationdate="20190603T142228Z">
+        <seg>Para saber + del servicio postventa de E.Leclerc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Enfin, pour une commande effectuée sur un de nos sites internet, vous pouvez trouver les modes de contact possible sur ces sites.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T135606Z" creationid="Cristina" creationdate="20190523T135606Z">
