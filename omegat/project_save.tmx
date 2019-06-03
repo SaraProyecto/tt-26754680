@@ -1126,6 +1126,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Echanges</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T222702Z" creationid="Sarita" creationdate="20190603T222702Z">
+        <seg>Intercambios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Elle sera effectuée après acceptation d'un devis, en fonction de la disponibilité des pièces détachées.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T165825Z" creationid="Sarita" creationdate="20190602T165825Z">
@@ -1202,6 +1210,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T221829Z" creationid="Sarita" creationdate="20190603T221829Z">
         <seg>A continuación, le pedimos que visite el portal &lt;a0&gt;www.e-leclerc.com&lt;/a0&gt; y seleccione los artículos que le interesen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Envoyez-nous un message</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T222734Z" creationid="Sarita" creationdate="20190603T222724Z">
+        <seg>Envíenos un mensaje</seg>
       </tuv>
     </tu>
     <tu>
@@ -1786,6 +1802,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T185919Z" creationid="Sarita" creationdate="20190603T185919Z">
         <seg>Marca : &lt;s2&gt;&lt;/s2&gt; &lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Mes données personnelles</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T222802Z" creationid="Sarita" creationdate="20190603T222802Z">
+        <seg>Mis datos personales</seg>
       </tuv>
     </tu>
     <tu>
@@ -2594,6 +2618,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T100951Z" creationid="Cristina" creationdate="20190523T100951Z">
         <seg>Un problema técnico impide la visulización de sus datos temporalmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Un produit Marque Distributeur (Marque Repère, Nos Régions ont du Talent, Eco+, ...)</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T222945Z" creationid="Sarita" creationdate="20190603T222945Z">
+        <seg>Un producto de marca de Distribuidor (Marca de fábrica, Nuestras regiones tienen talento, Eco+, ...)</seg>
       </tuv>
     </tu>
     <tu>
