@@ -2294,6 +2294,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Promotions E.Leclerc</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T224340Z" creationid="Sarita" creationdate="20190603T224340Z">
+        <seg>Promociones E.Leclerc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Qu'est ce que le Hors Garantie ?</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T164917Z" creationid="Sarita" creationdate="20190602T164917Z">
@@ -3090,6 +3098,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="alumno" changedate="20190508T115716Z" creationid="alumno" creationdate="20190508T115716Z">
         <seg>Viajes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>À la une</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T224333Z" creationid="Sarita" creationdate="20190603T224333Z">
+        <seg>En la portada</seg>
       </tuv>
     </tu>
     <tu>
