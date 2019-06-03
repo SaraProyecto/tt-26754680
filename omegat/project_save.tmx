@@ -702,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Comment détecter une tentative de phishing par email?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T193251Z" creationid="Sarita" creationdate="20190603T193251Z">
+        <seg>¿Cómo detectar un intento de phishing por correo electrónico?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Comment faire lors d'une panne au déballage ?</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T140844Z" creationid="Cristina" creationdate="20190523T140844Z">
@@ -1480,8 +1488,8 @@
       <tuv lang="FR-FR">
         <seg>Les emails peuvent être très réalistes car ils reproduisent la marque et/ou le logo E. Leclerc à l’identique.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T111119Z" creationid="Cristina" creationdate="20190515T111119Z">
-        <seg>Los correos electrónicos pueden ser muy realistas porque reproducen la marca y / o el logotipo de E. Leclerc con la misma identidad.</seg>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T193322Z" creationid="Cristina" creationdate="20190515T111119Z">
+        <seg>Los correos electrónicos pueden ser muy realistas porque reproducen la marca y/o el logotipo de E. Leclerc con la misma identidad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2754,6 +2762,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T111223Z" creationid="Cristina" creationdate="20190515T111223Z">
         <seg>•&lt;s0&gt; &lt;/s0&gt;&lt;s1&gt;Preste atención al asunto del correo &lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>• &lt;u0&gt;Soyez attentifs à l’expéditeur des mails &lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T193735Z" creationid="Sarita" creationdate="20190603T193735Z">
+        <seg>• &lt;u0&gt;Presten atención al remitente de los correos &lt;/u0&gt;</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
