@@ -1510,6 +1510,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Le numéro de téléphone indiqué est en réalité surtaxé,</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T220635Z" creationid="Sarita" creationdate="20190603T220635Z">
+        <seg>El número de teléfono indicado tiene realmente una tarifa excesiva,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Le numéro de téléphone se trouve en général au dos du produit.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T133306Z" creationid="Sarita" creationdate="20190508T133306Z">
