@@ -206,9 +206,17 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>- on vous annonce qu'à la suite de votre dernier passage en caisse dans l'un des magasins E.Leclerc, vous avez remporté une somme d'argent et que pour la retirer vous devez vous présenter à l'accueil du magasin muni de votre carte d'identité,</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T221425Z" creationid="Sarita" creationdate="20190603T221026Z">
+        <seg>- se le anuncia que después de su último paso por caja en una de las tiendas de E.Leclerc, ha ganado una suma de dinero y que para retirarla debe presentarse en la recepción de la tienda equipada con su carné de identidad,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>- on vous annonce que vous avez remporté un jeu concours,</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T210155Z" creationid="Sarita" creationdate="20190603T210142Z">
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T221136Z" creationid="Sarita" creationdate="20190603T210142Z">
         <seg>- le anuncian que ha ganado un concurso,</seg>
       </tuv>
     </tu>
@@ -328,7 +336,7 @@
       <tuv lang="FR-FR">
         <seg>-on vous annonce que à la suite d'un tirage au sort vous avez remporté un bon d'achat et que pour valider ce bon vous devez appeler un numéro de téléphone en précisant un code qu'on vous aura préalablement indiqués.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T220009Z" creationid="Sarita" creationdate="20190603T220009Z">
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T221128Z" creationid="Sarita" creationdate="20190603T220009Z">
         <seg>- se le anuncia que tras un sorteo ha ganado un vale de compra y que para validar este bono debe llamar a un número de teléfono precisando un código que se le haya indicado previamente.</seg>
       </tuv>
     </tu>
@@ -352,7 +360,7 @@
       <tuv lang="FR-FR">
         <seg>-on vous vous annonce que vous avez gagné un an de courses et que vous devez communiquer votre RIB pour pouvoir en bénéficier,</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T220935Z" creationid="Sarita" creationdate="20190603T220806Z">
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T221117Z" creationid="Sarita" creationdate="20190603T220806Z">
         <seg>- se le anuncia que ha ganado un año de compras y que debe comunicar su documento de identificación bancaria para poder beneficiarse de ellas,</seg>
       </tuv>
     </tu>
