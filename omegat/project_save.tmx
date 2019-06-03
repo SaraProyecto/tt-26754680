@@ -982,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Estampillé : &lt;s14&gt;&lt;/s14&gt; &lt;br15/&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T190608Z" creationid="Sarita" creationdate="20190603T190608Z">
+        <seg>Sellado: &lt;s14&gt;&lt;/s14&gt; &lt;br15/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Faire part d'un problème constaté en magasin.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T115341Z" creationid="Sarita" creationdate="20190508T115341Z">
@@ -994,6 +1002,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T185954Z" creationid="Sarita" creationdate="20190603T185954Z">
         <seg>Proveedor: &lt;s4&gt;&lt;/s4&gt; &lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Gencod : &lt;s6&gt;&lt;/s6&gt; &lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T190351Z" creationid="Sarita" creationdate="20190603T190351Z">
+        <seg>Gencod: &lt;s6&gt;&lt;/s6&gt; &lt;br7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1458,6 +1474,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T110632Z" creationid="Cristina" creationdate="20190523T110632Z">
         <seg>Alquiler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Lot : &lt;s12&gt;&lt;/s12&gt; &lt;br13/&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T190346Z" creationid="Sarita" creationdate="20190603T190346Z">
+        <seg>Lote: &lt;s12&gt;&lt;/s12&gt; &lt;br13/&gt;</seg>
       </tuv>
     </tu>
     <tu>
