@@ -510,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Accueil Engagements</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T191302Z" creationid="Sarita" creationdate="20190603T191302Z">
+        <seg>Compromisos en el hogar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Après avoir selectionné votre magasin en cliquant sur le logo &lt;s0&gt;mon magasin&lt;/s0&gt;  puis cliqué sur l'onglet&lt;s1&gt; "Promo", &lt;/s1&gt;vous pouvez selectionner les rayons qui vous intéressent et afficher ainsi uniquement les promotions de ce rayon.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190524T134205Z" creationid="Cristina" creationdate="20190523T112116Z">
@@ -2234,6 +2242,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T171039Z" creationid="Sarita" creationdate="20190602T171039Z">
         <seg>Seleccione el objeto de su solicitud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Toute l'offre</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T191413Z" creationid="Sarita" creationdate="20190603T191413Z">
+        <seg>Toda la oferta</seg>
       </tuv>
     </tu>
     <tu>
