@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>- «Offre E Leclerc : 50EUR sur votre ticket de caisse profitez-en»</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T204527Z" creationid="Sarita" creationdate="20190603T204527Z">
+        <seg>- "Oferta E Leclerc: 50€  en su tique de compra"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>- «Offre de bienvenue : 25€ remboursés sur vos courses»</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T194043Z" creationid="Sarita" creationdate="20190603T194043Z">
