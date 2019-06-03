@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>-on vous annonce que à la suite d'un tirage au sort vous avez remporté un bon d'achat et que pour valider ce bon vous devez appeler un numéro de téléphone en précisant un code qu'on vous aura préalablement indiqués.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T220009Z" creationid="Sarita" creationdate="20190603T220009Z">
+        <seg>- se le anuncia que tras un sorteo ha ganado un vale de compra y que para validar este bono debe llamar a un número de teléfono precisando un código que se le haya indicado previamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>-on vous demande de répondre à un sondage d’opinion.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T113033Z" creationid="Cristina" creationdate="20190515T113033Z">
