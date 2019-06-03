@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>-on vous vous annonce que vous avez gagné un an de courses et que vous devez communiquer votre RIB pour pouvoir en bénéficier,</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T220935Z" creationid="Sarita" creationdate="20190603T220806Z">
+        <seg>- se le anuncia que ha ganado un año de compras y que debe comunicar su documento de identificación bancaria para poder beneficiarse de ellas,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>-signalez le cas d’escroquerie présumée au service client de E. Leclerc.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190510T142842Z" creationid="Sarita" creationdate="20190510T142842Z">
