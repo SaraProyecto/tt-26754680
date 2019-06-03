@@ -1766,6 +1766,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Même si l'interlocuteur prétend travailler pour l'enseigne, cela ne signifie pas que le mouvement E.Leclerc soit lié à cette personne.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T213954Z" creationid="Sarita" creationdate="20190603T213954Z">
+        <seg>Incluso si el interlocutor pretende trabajar para la firma, esto no significa que el movimiento E.Leclerc esté vinculado a esta persona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Même si la marque E. Leclerc est utilisée, cela ne signifie pas que le mouvement E. Leclerc en est à l’origine.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T193855Z" creationid="Cristina" creationdate="20190515T111154Z">
