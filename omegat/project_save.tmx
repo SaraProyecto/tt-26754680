@@ -1222,6 +1222,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Erreur</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T223000Z" creationid="Sarita" creationdate="20190603T223000Z">
+        <seg>Error</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Espace culturel</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="alumno" changedate="20190508T115859Z" creationid="alumno" creationdate="20190508T115859Z">
@@ -1250,6 +1258,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T115341Z" creationid="Sarita" creationdate="20190508T115341Z">
         <seg>Informar de un problema en las tiendas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Fermer</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T222956Z" creationid="Sarita" creationdate="20190603T222956Z">
+        <seg>Cerrar</seg>
       </tuv>
     </tu>
     <tu>
@@ -1594,6 +1610,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190510T141823Z" creationid="Cristina" creationdate="20190510T141823Z">
         <seg>El sitio E-leclerc.com es un sitio no comercial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Le ticket de caisse électronique</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T223229Z" creationid="Sarita" creationdate="20190603T223229Z">
+        <seg>El tique de compra electrónico</seg>
       </tuv>
     </tu>
     <tu>
