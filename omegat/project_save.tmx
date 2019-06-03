@@ -2862,6 +2862,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>•Soyez attentifs à l’interlocuteur au téléphone</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T213518Z" creationid="Sarita" creationdate="20190603T213518Z">
+        <seg>•Preste atención al interlocutor por teléfono</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>• &lt;u0&gt;Soyez attentifs au contenu du mail &lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T210058Z" creationid="Sarita" creationdate="20190603T210058Z">
