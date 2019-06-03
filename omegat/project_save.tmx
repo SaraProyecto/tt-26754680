@@ -654,6 +654,22 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Aide</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T224556Z" creationid="Sarita" creationdate="20190603T224556Z">
+        <seg>Ayuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Alerte</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T224419Z" creationid="Sarita" creationdate="20190603T224419Z">
+        <seg>Alerta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Applications mobiles E.Leclerc</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T223320Z" creationid="Sarita" creationdate="20190603T223320Z">
@@ -746,6 +762,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T223531Z" creationid="Sarita" creationdate="20190603T223531Z">
         <seg>Tarjeta E.Leclerc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Carte E.Leclerc en ligne !</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T224512Z" creationid="Sarita" creationdate="20190603T224512Z">
+        <seg>¡Tarjeta E.Leclerc online!</seg>
       </tuv>
     </tu>
     <tu>
