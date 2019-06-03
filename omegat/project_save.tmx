@@ -566,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Attention, des sites Internet, des emails, ainsi que des SMS reproduisant ou utilisant la marque et parfois le logo E. Leclerc circulent actuellement.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T193025Z" creationid="Sarita" creationdate="20190603T193025Z">
+        <seg>Advertencia, actualmente circulan sitios web, correos electrónicos, así como mensajes de texto que reproducen o utilizan la marca y, a veces, el logotipo de E. Leclerc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Auto</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="alumno" changedate="20190508T124007Z" creationid="alumno" creationdate="20190508T115645Z">
@@ -1278,6 +1286,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>LE MOUVEMENT E.LECLERC VOUS alerte sur les communications frauduleuses</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T192825Z" creationid="Sarita" creationdate="20190603T192825Z">
+        <seg>EL MOVIMIENTO DE E.LECLERC le alerta sobre comunicaciones fraudulentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>La disponibilité des produits et leurs prix sont indiqués en magasin, nous vous invitons donc à vous renseigner au Point Accueil de votre centre E.LECLERC.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T132045Z" creationid="Sarita" creationdate="20190508T132045Z">
@@ -1698,6 +1714,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T111055Z" creationid="Cristina" creationdate="20190515T111055Z">
         <seg>En particular, estamos viendo un aumento en los intentos de phishing por correo electrónico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Nous sommes également à votre écoute pour toute question sur votre Carte de fidélité E. Leclerc au Service Client Allo E. Leclerc au 09 69 32 42 52 (appel non surtaxé).</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T192747Z" creationid="Sarita" creationdate="20190603T192747Z">
+        <seg>También estamos a su disposición para cualquier pregunta sobre su Tarjeta de fidelidad de E. Leclerc en el Servicio de atención al cliente Hola E. Leclerc al 09 69 32 42 52 (llamada no recargada).</seg>
       </tuv>
     </tu>
     <tu>
