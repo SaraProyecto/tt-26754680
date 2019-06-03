@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Accueil</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T191221Z" creationid="Sarita" creationdate="20190603T191221Z">
+        <seg>Inicio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Après avoir selectionné votre magasin en cliquant sur le logo &lt;s0&gt;mon magasin&lt;/s0&gt;  puis cliqué sur l'onglet&lt;s1&gt; "Promo", &lt;/s1&gt;vous pouvez selectionner les rayons qui vous intéressent et afficher ainsi uniquement les promotions de ce rayon.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190524T134205Z" creationid="Cristina" creationdate="20190523T112116Z">
@@ -982,10 +990,26 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>En poursuivant votre navigation sans modifier les paramètres de votre navigateur, vous acceptez que vos cookies soient consultés.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T190925Z" creationid="Sarita" creationdate="20190603T190925Z">
+        <seg>Al continuar su navegación sin cambiar la configuración de su navegador, acepta que sus cookies sean consultadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>En savoir + sur le SAV E.Leclerc</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T143117Z" creationid="Sarita" creationdate="20190603T142228Z">
         <seg>Para + información del servicio postventa de E.Leclerc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>En savoir plus</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T190938Z" creationid="Sarita" creationdate="20190603T190938Z">
+        <seg>Más información</seg>
       </tuv>
     </tu>
     <tu>
