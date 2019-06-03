@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>&lt;s0&gt;Evitez d'utiliser des&lt;s1&gt; informations personnelles, des suites de chiffres logiques ou un code à 0000.&lt;/s1&gt; &lt;/s0&gt;Ce code doit être connu par vous seul(e).</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T192309Z" creationid="Sarita" creationdate="20190603T192309Z">
+        <seg>&lt;s0&gt;Evite utilizar&lt;s1&gt; información personal, secuencias numéricas lógicas o un código en 0000.&lt;/s1&gt; &lt;/s0&gt;Este código debe ser conocido solo por usted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>&lt;s0&gt;L'enseigne E.LECLERC est un mouvement d'indépendants, c'est pourquoi chaque magasin met en œuvre sa propre politique commerciale en terme de produits et de services pour mieux répondre aux besoins de sa clientèle.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T112450Z" creationid="Cristina" creationdate="20190523T112450Z">
@@ -432,8 +440,8 @@
       <tuv lang="FR-FR">
         <seg>&lt;s0&gt;La sécurité de vos données est notre priorité. &lt;/s0&gt; &lt;s1&gt;Votre Carte contient des données personnelles et peut constituer un moyen de paiement grâce aux Tickets E. Leclerc que vous cumulez régulièrement.&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T191717Z" creationid="Sarita" creationdate="20190603T191717Z">
-        <seg>&lt;s0&gt;La seguridad de sus datos es nuestra prioridad. &lt;/s0&gt; &lt;s1&gt;Su Tarjeta contiene datos personales y puede usarse como medio de pago a través de los tickets de E. Leclerc que acumula regularmente..&lt;/s1&gt;</seg>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T191751Z" creationid="Sarita" creationdate="20190603T191717Z">
+        <seg>&lt;s0&gt;La seguridad de sus datos es nuestra prioridad. &lt;/s0&gt; &lt;s1&gt;Su Tarjeta contiene datos personales y puede usarse como medio de pago a través de los tickets de E. Leclerc que acumula regularmente.&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -442,6 +450,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T143303Z" creationid="Sarita" creationdate="20190603T143303Z">
         <seg>&lt;s0&gt;Otros sitios de E.Leclerc:&lt;/s0&gt; &lt;a1&gt; E.Leclerc Drive &lt;/a1&gt; &lt;a2&gt; Espace Culturel &lt;/a2&gt; &lt;a3&gt; E-librairie &lt;/a3&gt; &lt;a4&gt; E.Leclerc High Tech &lt;/a4&gt; &lt;a5&gt; E.Leclerc Voyages &lt;/a5&gt; &lt;a6&gt; Ma Cave &lt;/a6&gt; &lt;a7&gt; Location Leclerc &lt;/a7&gt; &lt;a8&gt; MAISON &amp; LOISIRS &lt;/a8&gt; &lt;a9&gt; E.Leclerc Optique &lt;/a9&gt; &lt;a10&gt; Une heure pour soi &lt;/a10&gt; &lt;a11&gt; Réglo Mobile &lt;/a11&gt; &lt;a12&gt; Le Manège à Bijoux &lt;/a12&gt; &lt;a13&gt; Parapharmacie &lt;/a13&gt; &lt;a14&gt; Les ventes privées E.Leclerc &lt;/a14&gt; &lt;a15&gt; Sport &lt;/a15&gt; &lt;a16&gt; La Carte Traiteur &lt;/a16&gt; &lt;a17&gt; photomoinscher &lt;/a17&gt; &lt;a18&gt; La Billetterie E.Leclerc &lt;/a18&gt; &lt;a19&gt; Musique &lt;/a19&gt; &lt;a20&gt; BD Numérique &lt;/a20&gt; &lt;a21&gt; E CARTE CADEAU &lt;/a21&gt; &lt;a22&gt; Primes Energie &lt;/a22&gt; &lt;a23&gt; CARTE CARBURANT PRO &lt;/a23&gt; &lt;a24&gt; Le Mouvement E.Leclerc &lt;/a24&gt; &lt;a25&gt; Qui est le moins cher ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>&lt;s0&gt;Modifiez régulièrement&lt;/s0&gt; le code confidentiel de votre carte de fidélité constitué de 4 chiffres.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T192003Z" creationid="Sarita" creationdate="20190603T192003Z">
+        <seg>&lt;s0&gt;Modifique periódicamente&lt;/s0&gt; el código PIN de su tarjeta de fidelidad de 4 dígitos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -568,8 +584,8 @@
       <tuv lang="FR-FR">
         <seg>Billetterie</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T110714Z" creationid="Sarita" creationdate="20190508T123832Z">
-        <seg>Tickets</seg>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T191729Z" creationid="Sarita" creationdate="20190508T123832Z">
+        <seg>Billeterie</seg>
       </tuv>
     </tu>
     <tu>
@@ -722,6 +738,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T112137Z" creationid="Cristina" creationdate="20190523T112137Z">
         <seg>¿Cómo recibir o dejar de enviar un catálogo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Comment renforcer la protection de vos données personnelles ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T191910Z" creationid="Sarita" creationdate="20190603T191910Z">
+        <seg>¿Cómo reforzar la protección de sus datos personales?</seg>
       </tuv>
     </tu>
     <tu>
