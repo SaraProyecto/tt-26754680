@@ -838,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Charte de protection des données personnelles</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T225047Z" creationid="Sarita" creationdate="20190603T225047Z">
+        <seg>Carta de protección de datos personales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Chercher un magasin</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T224838Z" creationid="Sarita" creationdate="20190603T224838Z">
@@ -1074,14 +1082,6 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T224800Z" creationid="Sarita" creationdate="20190603T224800Z">
         <seg>Contáctenos</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="FR-FR">
-        <seg>Culture</seg>
-      </tuv>
-      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T110431Z" creationid="Cristina" creationdate="20190523T110431Z">
-        <seg>Cultura</seg>
       </tuv>
     </tu>
     <tu>
@@ -2078,6 +2078,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Nous suivre</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T225143Z" creationid="Sarita" creationdate="20190603T225143Z">
+        <seg>Síganos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Nous vous demandons la plus grande vigilance lorsque vous faites face à de telles sollicitations car il s’agit de tentatives d’escroquerie, encore appelées tentatives de phishing.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T111043Z" creationid="Cristina" creationdate="20190515T111043Z">
@@ -2114,6 +2122,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T205102Z" creationid="Sarita" creationdate="20190602T170708Z">
         <seg>Cambiamos o reembolsamos en "Tique E.Leclerc" o en efectivo de cualquier producto (excluidos los productos frescos) comprado en su centro E.Leclerc dentro de los 15 días siguientes a la compra y en el centro E.Leclerc de la compra, previa presentación del recibo de la compra, siempre que el producto se devuelva en su estado y embalaje original sin abrir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Obtenez immédiatement votre&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T225106Z" creationid="Sarita" creationdate="20190603T225106Z">
+        <seg>Obtenga inmediatamente su&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
