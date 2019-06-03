@@ -1974,6 +1974,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Nos engagements</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T224225Z" creationid="Sarita" creationdate="20190603T224225Z">
+        <seg>Nuestros compromisos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Nos marques</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T142252Z" creationid="Sarita" creationdate="20190603T142252Z">
@@ -1994,6 +2002,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T111055Z" creationid="Cristina" creationdate="20190515T111055Z">
         <seg>En particular, estamos viendo un aumento en los intentos de phishing por correo electrónico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Nous rejoindre</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T224158Z" creationid="Sarita" creationdate="20190603T224158Z">
+        <seg>Unirse a nosotros</seg>
       </tuv>
     </tu>
     <tu>
