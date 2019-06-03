@@ -214,6 +214,22 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>- «Offre de bienvenue : 25€ remboursés sur vos courses»</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T194043Z" creationid="Sarita" creationdate="20190603T194043Z">
+        <seg>- "Oferta de bienvenida: 25€ reembolsados en sus compras"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>- «Remportez un bon d’achat de 1000 euros»</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T194220Z" creationid="Sarita" creationdate="20190603T194220Z">
+        <seg>- "Obtenga un vale de compra de 1000"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>- « &lt;s0&gt;Il n’y a aucun bon à télécharger pour le moment&lt;/s0&gt; » : cela veut dire qu’il n’y a pas, pour l'instant, de bon proposé au téléchargement.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T105706Z" creationid="Cristina" creationdate="20190523T105706Z">
@@ -1176,8 +1192,8 @@
       <tuv lang="FR-FR">
         <seg>Il vous promet des offres très avantageuses.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T111228Z" creationid="Cristina" creationdate="20190515T111228Z">
-        <seg>Te promete ofertas muy ventajosas.</seg>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T194010Z" creationid="Cristina" creationdate="20190515T111228Z">
+        <seg>Le promete ofertas muy ventajosas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2770,6 +2786,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T193735Z" creationid="Sarita" creationdate="20190603T193735Z">
         <seg>• &lt;u0&gt;Presten atención al remitente de los correos &lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>• &lt;u0&gt;Soyez attentifs à l’objet du mail &lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T193946Z" creationid="Sarita" creationdate="20190603T193946Z">
+        <seg>• &lt;u0&gt;Preste atención al asunto del correo &lt;/u0&gt;</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
