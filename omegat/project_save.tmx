@@ -24,8 +24,8 @@
       <tuv lang="FR-FR">
         <seg>- Ce tableau vous permet de consulter les paiements que vous avez effectués en Tickets E.Leclerc sur les 4 dernières semaines.&lt;br0&gt;</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T094357Z" creationid="Cristina" creationdate="20190523T094357Z">
-        <seg>- Esta tabla le permite consultar los pagos que ha realizado con Tickets E.Leclerc durante las últimas 4 semanas.&lt;br0&gt;</seg>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T205124Z" creationid="Cristina" creationdate="20190523T094357Z">
+        <seg>- Esta tabla le permite consultar los pagos que ha realizado con Tiques E.Leclerc durante las últimas 4 semanas.&lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -112,16 +112,16 @@
       <tuv lang="FR-FR">
         <seg>- Les « Tickets E.Leclerc cumulés » sont les bons d’achat que vous avez cumulés sur votre Carte depuis le début de l’année.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T091918Z" creationid="Cristina" creationdate="20190523T090452Z">
-        <seg>- Los "Tickets E.Leclerc acumulados" son los bonos de compra que puedes acumular en su Tarjeta desde principios de año.</seg>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T205150Z" creationid="Cristina" creationdate="20190523T090452Z">
+        <seg>- Los "Tiques E.Leclerc acumulados" son los bonos de compra que puedes acumular en su Tarjeta desde principios de año.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="FR-FR">
         <seg>- Les « bons d’achat utilisés » sont les bons d’achat que l’on vous a donnés lors de votre passage en caisse selon les produits présents sur votre ticket.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T091530Z" creationid="Cristina" creationdate="20190523T091530Z">
-        <seg>- Los « bonos de compra utilizados » son los bonos de compra que recibió durante su paso por caja según los productos de su ticket.</seg>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T205129Z" creationid="Cristina" creationdate="20190523T091530Z">
+        <seg>- Los « bonos de compra utilizados » son los bonos de compra que recibió durante su paso por caja según los productos de su tique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -320,8 +320,8 @@
       <tuv lang="FR-FR">
         <seg>-« Offre E Leclerc : 50EUR sur votre ticket de caisse profitez-en »</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T111413Z" creationid="Cristina" creationdate="20190515T111413Z">
-        <seg>-“E Leclerc ofrece: 50EUR en su ticket de compra”</seg>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T205051Z" creationid="Cristina" creationdate="20190515T111413Z">
+        <seg>-“E Leclerc ofrece: 50EUR en su tique de compra”</seg>
       </tuv>
     </tu>
     <tu>
@@ -664,8 +664,8 @@
       <tuv lang="FR-FR">
         <seg>Ce solde est automatiquement alimenté à chacun de vos passages en caisse, lorsque vous bénéficiez de Tickets E.Leclerc.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T090826Z" creationid="Cristina" creationdate="20190523T090826Z">
-        <seg>Este  saldo se financia de forma automática cada vez que pase por caja, mientras se beneficia de Tickets E.Leclerc.</seg>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T205140Z" creationid="Cristina" creationdate="20190523T090826Z">
+        <seg>Este  saldo se financia de forma automática cada vez que pase por caja, mientras se beneficia de Tiques E.Leclerc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1432,8 +1432,8 @@
       <tuv lang="FR-FR">
         <seg>Le message « Aucun décagnottage cette semaine » s’affiche si vous n’avez effectué aucun paiement en Tickets E.Leclerc sur la semaine en cours.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T205040Z" creationid="Cristina" creationdate="20190523T094630Z">
-        <seg>El mesaje "Sin bote premiado esta semana" se muestra si no ha realizado ningún pago con la Tarjeta E.Leclerc en esa semana.</seg>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T205115Z" creationid="Cristina" creationdate="20190523T094630Z">
+        <seg>El mesaje "Sin bote premiado esta semana" se muestra si no ha realizado ningún pago con los Tiques E.Leclerc en esa semana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1800,8 +1800,8 @@
       <tuv lang="FR-FR">
         <seg>Nous échangeons ou remboursons en "Ticket E.Leclerc" ou en espèces de tout produit (hors produits frais) acheté dans votre centre E.Leclerc dans les 15 jours après l’achat et dans le centre E.Leclerc de l’achat, sur présentation du ticket de caisse, à condition que le produit soit restitué dans son état et emballage d’origine non ouvert.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T170708Z" creationid="Sarita" creationdate="20190602T170708Z">
-        <seg>Cambiamos o reembolsamos en "Ticket E.Leclerc" o en efectivo de cualquier producto (excluidos los productos frescos) comprado en su centro E.Leclerc dentro de los 15 días siguientes a la compra y en el centro E.Leclerc de la compra, previa presentación del recibo de la compra, siempre que el producto se devuelva en su estado y embalaje original sin abrir.</seg>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T205102Z" creationid="Sarita" creationdate="20190602T170708Z">
+        <seg>Cambiamos o reembolsamos en "Tique E.Leclerc" o en efectivo de cualquier producto (excluidos los productos frescos) comprado en su centro E.Leclerc dentro de los 15 días siguientes a la compra y en el centro E.Leclerc de la compra, previa presentación del recibo de la compra, siempre que el producto se devuelva en su estado y embalaje original sin abrir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2208,8 +2208,8 @@
       <tuv lang="FR-FR">
         <seg>Retourner à l'accueil du magasin avec le produit et le ticket de caisse.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T141426Z" creationid="Cristina" creationdate="20190523T141426Z">
-        <seg>Regresar a la recepción de la tienda con el producto y el ticket.</seg>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T205054Z" creationid="Cristina" creationdate="20190523T141426Z">
+        <seg>Regresar a la recepción de la tienda con el producto y el tique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2600,8 +2600,8 @@
       <tuv lang="FR-FR">
         <seg>Vous pouvez utiliser vos Tickets E.Leclerc dès le lendemain de leur acquisition.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T091257Z" creationid="Cristina" creationdate="20190523T091257Z">
-        <seg>Puede utilizar sus Tickets E.Leclerc desde el siguiente día del que los adquiere.</seg>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T205136Z" creationid="Cristina" creationdate="20190523T091257Z">
+        <seg>Puede utilizar sus Tiques E.Leclerc desde el siguiente día del que los adquiere.</seg>
       </tuv>
     </tu>
     <tu>
