@@ -710,6 +710,22 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Communications frauduleuses</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T184528Z" creationid="Sarita" creationdate="20190603T184528Z">
+        <seg>Comunicaciones fraudulentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Communications frauduleuses - Retrouvez toute l'offre de votre magasin E.Leclerc.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T184447Z" creationid="Sarita" creationdate="20190603T184447Z">
+        <seg>Comunicaciones fraudulentas - Encuentre todas las ofertas de su tienda E.Leclerc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Compléter notre formulaire de contact "Envoyez-nous un message", en bas de la page FAQ.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T115858Z" creationid="Sarita" creationdate="20190508T115858Z">
@@ -1034,6 +1050,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T103523Z" creationid="Cristina" creationdate="20190523T103523Z">
         <seg>Se pueden utilizar a partir de su próxima compra y permanecerán válidos durante 30 días a partir de la fecha de descarga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Infos pratiques d'accès, horaires, promotions de votre hypermarché E.Leclerc.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T184522Z" creationid="Sarita" creationdate="20190603T184522Z">
+        <seg>Información práctica de acceso, horarios, promociones de su hipermercado E.Leclerc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1902,6 +1926,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Recherche</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T184647Z" creationid="Sarita" creationdate="20190603T184647Z">
+        <seg>Búsqueda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Reglo mobile</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T110921Z" creationid="Cristina" creationdate="20190523T110921Z">
@@ -2050,6 +2082,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="alumno" changedate="20190508T120037Z" creationid="alumno" creationdate="20190508T120037Z">
         <seg>Deporte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Suggestions de mots clés</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T184715Z" creationid="Sarita" creationdate="20190603T184715Z">
+        <seg>Sugerencias de palabras clave</seg>
       </tuv>
     </tu>
     <tu>
