@@ -472,8 +472,8 @@
       <tuv lang="FR-FR">
         <seg>&lt;s0&gt;La sécurité de vos données est notre priorité. &lt;/s0&gt; &lt;s1&gt;Votre Carte contient des données personnelles et peut constituer un moyen de paiement grâce aux Tickets E. Leclerc que vous cumulez régulièrement.&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T191751Z" creationid="Sarita" creationdate="20190603T191717Z">
-        <seg>&lt;s0&gt;La seguridad de sus datos es nuestra prioridad. &lt;/s0&gt; &lt;s1&gt;Su Tarjeta contiene datos personales y puede usarse como medio de pago a través de los tickets de E. Leclerc que acumula regularmente.&lt;/s1&gt;</seg>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T204534Z" creationid="Sarita" creationdate="20190603T191717Z">
+        <seg>&lt;s0&gt;La seguridad de sus datos es nuestra prioridad. &lt;/s0&gt; &lt;s1&gt;Su Tarjeta contiene datos personales y puede usarse como medio de pago a través de los tiques de E. Leclerc que acumula regularmente.&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2370,6 +2370,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T171039Z" creationid="Sarita" creationdate="20190602T171039Z">
         <seg>Seleccione el objeto de su solicitud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Tickets E.Leclerc</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T204547Z" creationid="Sarita" creationdate="20190603T204547Z">
+        <seg>Tiques E.Leclerc</seg>
       </tuv>
     </tu>
     <tu>
