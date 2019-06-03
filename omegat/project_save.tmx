@@ -750,6 +750,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Conditionnement : &lt;s8&gt;&lt;/s8&gt; &lt;br9/&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T190314Z" creationid="Sarita" creationdate="20190603T190314Z">
+        <seg>Envasado: &lt;s8&gt;&lt;/s8&gt; &lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Conformément à la loi « informatique et libertés », vous disposez d’un droit d’accès et de rectification aux données vous concernant qui seront conservées pendant 6 mois.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T172803Z" creationid="Sarita" creationdate="20190602T172252Z">
@@ -978,6 +986,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T115341Z" creationid="Sarita" creationdate="20190508T115341Z">
         <seg>Informar de un problema en las tiendas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Fournisseur : &lt;s4&gt;&lt;/s4&gt; &lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T185954Z" creationid="Sarita" creationdate="20190603T185954Z">
+        <seg>Proveedor: &lt;s4&gt;&lt;/s4&gt; &lt;br5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
