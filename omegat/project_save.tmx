@@ -1120,8 +1120,8 @@
       <tuv lang="FR-FR">
         <seg>Le Service Après-Vente E.LECLERC.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T140249Z" creationid="Sarita" creationdate="20190603T140249Z">
-        <seg>El Servicio Postventa E.LECLERC.</seg>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T142234Z" creationid="Sarita" creationdate="20190603T140249Z">
+        <seg>El Servicio Postventade  E.LECLERC.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1458,6 +1458,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T112246Z" creationid="Cristina" creationdate="20190523T112246Z">
         <seg>Nuestros catálogos también están disponibles online en la página de su tienda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Nos marques</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T142252Z" creationid="Sarita" creationdate="20190603T142252Z">
+        <seg>Nuestras marcas</seg>
       </tuv>
     </tu>
     <tu>
