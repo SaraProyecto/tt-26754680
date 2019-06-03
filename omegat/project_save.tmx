@@ -1238,6 +1238,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Il peut y avoir plusieurs types d'appel.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T215713Z" creationid="Sarita" creationdate="20190603T215713Z">
+        <seg>Puede haber varios tipos de llamadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Il sera automatiquement désactivé.&lt;br0&gt;</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T100304Z" creationid="Cristina" creationdate="20190523T100304Z">
@@ -1768,8 +1776,8 @@
       <tuv lang="FR-FR">
         <seg>Même si l'interlocuteur prétend travailler pour l'enseigne, cela ne signifie pas que le mouvement E.Leclerc soit lié à cette personne.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T213954Z" creationid="Sarita" creationdate="20190603T213954Z">
-        <seg>Incluso si el interlocutor pretende trabajar para la firma, esto no significa que el movimiento E.Leclerc esté vinculado a esta persona.</seg>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T215621Z" creationid="Sarita" creationdate="20190603T213954Z">
+        <seg>Incluso si el interlocutor pretende trabajar para la marca, esto no significa que el movimiento E.Leclerc esté vinculado a esta persona.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2866,6 +2874,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T111223Z" creationid="Cristina" creationdate="20190515T111223Z">
         <seg>•&lt;s0&gt; &lt;/s0&gt;&lt;s1&gt;Preste atención al asunto del correo &lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>•Soyez attentifs au contenu de l'appel</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T215645Z" creationid="Sarita" creationdate="20190603T215645Z">
+        <seg>•Preste atención al contenido de la convocatoria</seg>
       </tuv>
     </tu>
     <tu>
