@@ -208,8 +208,16 @@
       <tuv lang="FR-FR">
         <seg>- on vous annonce que vous avez remporté un jeu concours,</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T210142Z" creationid="Sarita" creationdate="20190603T210142Z">
-        <seg>- le dicen que ha ganado un concurso,</seg>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T210155Z" creationid="Sarita" creationdate="20190603T210142Z">
+        <seg>- le anuncian que ha ganado un concurso,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>- on vous demande de souscrire à un abonnement,</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T210428Z" creationid="Sarita" creationdate="20190603T210428Z">
+        <seg>- se le pide que se suscriba a una suscripción,</seg>
       </tuv>
     </tu>
     <tu>
