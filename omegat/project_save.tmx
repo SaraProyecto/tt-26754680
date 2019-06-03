@@ -798,6 +798,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Comment identifier une tentative d'escroquerie téléphonique ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T212033Z" creationid="Sarita" creationdate="20190603T212033Z">
+        <seg>¿C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Comment lire le graphique par mois ?</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T100716Z" creationid="Cristina" creationdate="20190523T100716Z">
