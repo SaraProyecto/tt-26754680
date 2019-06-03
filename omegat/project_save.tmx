@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Ce site peut-être amené à consulter les cookies stockés sur votre terminal pour améliorer votre expérience utilisateur.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T190842Z" creationid="Sarita" creationdate="20190603T190842Z">
+        <seg>Este sitio puede necesitar consultar las cookies almacenadas en el dispositivo para mejorar su experiencia de usuario.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Ce solde est automatiquement alimenté à chacun de vos passages en caisse, lorsque vous bénéficiez de Tickets E.Leclerc.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T090826Z" creationid="Cristina" creationdate="20190523T090826Z">
@@ -626,6 +634,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T140430Z" creationid="Cristina" creationdate="20190523T140430Z">
         <seg>Haga clic para consultar los detalles de estas garantías, así como las tiendas que las proponen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Code emballeur : &lt;s16&gt;&lt;/s16&gt; &lt;br17/&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T190644Z" creationid="Sarita" creationdate="20190603T190644Z">
+        <seg>Código de empaquetador: &lt;s16&gt;&lt;/s16&gt; &lt;br17/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -834,6 +850,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T113059Z" creationid="Cristina" creationdate="20190515T113059Z">
         <seg>En cualquier caso, estás invitado a hacer clic en un enlace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Date d’achat : Entre le &lt;s18&gt;&lt;/s18&gt; et le</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T190710Z" creationid="Sarita" creationdate="20190603T190710Z">
+        <seg>Fecha de compra: Entre el &lt;s18&gt;&lt;/s18&gt; y el</seg>
       </tuv>
     </tu>
     <tu>
@@ -2282,6 +2306,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="alumno" changedate="20190508T115843Z" creationid="alumno" creationdate="20190508T115843Z">
         <seg>Una hora para ti mismo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Utilisation des cookies</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T190741Z" creationid="Sarita" creationdate="20190603T190741Z">
+        <seg>Uso de cookies</seg>
       </tuv>
     </tu>
     <tu>
