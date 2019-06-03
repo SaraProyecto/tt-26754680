@@ -216,8 +216,8 @@
       <tuv lang="FR-FR">
         <seg>- on vous annonce que vous avez remporté un bon d'achat et que pour valider ce bon vous devez appeler un numéro de téléphone en précisant un code qu'on vous aura préalablement indiqués.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T221553Z" creationid="Sarita" creationdate="20190603T221553Z">
-        <seg>- se le anuncia que ha ganado un vale de compra y que para validarlo debe llamar a un número de teléfono precisando un código que se le haya indicado previamente.</seg>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T221715Z" creationid="Sarita" creationdate="20190603T221553Z">
+        <seg>- se le anuncia que ha ganado un vale de compra y que para validarlo debe llamar a un número de teléfono especificando un código que se le haya indicado previamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -352,8 +352,8 @@
       <tuv lang="FR-FR">
         <seg>-on vous annonce que à la suite d'un tirage au sort vous avez remporté un bon d'achat et que pour valider ce bon vous devez appeler un numéro de téléphone en précisant un code qu'on vous aura préalablement indiqués.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T221128Z" creationid="Sarita" creationdate="20190603T220009Z">
-        <seg>- se le anuncia que tras un sorteo ha ganado un vale de compra y que para validar este bono debe llamar a un número de teléfono precisando un código que se le haya indicado previamente.</seg>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T221601Z" creationid="Sarita" creationdate="20190603T220009Z">
+        <seg>- se le anuncia que tras un sorteo ha ganado un vale de compra y que para validarlo debe llamar a un número de teléfono precisando un código que se le haya indicado previamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1194,6 +1194,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T135606Z" creationid="Cristina" creationdate="20190523T135606Z">
         <seg>Finalmente, para un pedido realizado en uno de nuestros sitios web, puede encontrar posibles formas de contacto en estos sitios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Ensuite, on vous demande d'aller sur le site portail &lt;a0&gt;www.e-leclerc.com&lt;/a0&gt; et de sélectionner les articles qui vous intéressent.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T221829Z" creationid="Sarita" creationdate="20190603T221829Z">
+        <seg>A continuación, le pedimos que visite el portal &lt;a0&gt;www.e-leclerc.com&lt;/a0&gt; y seleccione los artículos que le interesen.</seg>
       </tuv>
     </tu>
     <tu>
