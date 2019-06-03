@@ -1670,6 +1670,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Pour vous faciliter la vie au maximum, E.LECLERC s'engage.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T140150Z" creationid="Sarita" creationdate="20190603T140150Z">
+        <seg>-Para hacer su vida lo más fácil posible, E.LECLERC se compromete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Pourquoi certains bons ont-ils un magasin associé ?</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T105153Z" creationid="Cristina" creationdate="20190523T105153Z">
