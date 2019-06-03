@@ -1470,6 +1470,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Marque : &lt;s2&gt;&lt;/s2&gt; &lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T185919Z" creationid="Sarita" creationdate="20190603T185919Z">
+        <seg>Marca : &lt;s2&gt;&lt;/s2&gt; &lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Mes produits</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190510T140241Z" creationid="Cristina" creationdate="20190510T140241Z">
