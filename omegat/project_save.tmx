@@ -718,6 +718,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Bons de réduction</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T223559Z" creationid="Sarita" creationdate="20190603T223559Z">
+        <seg>Cupones de descuento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Brico</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="alumno" changedate="20190508T115942Z" creationid="alumno" creationdate="20190508T115942Z">
@@ -730,6 +738,22 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T095038Z" creationid="Cristina" creationdate="20190523T095038Z">
         <seg>Es por eso que, para tener un resumen específico de sus compras, es importante presertar su Tarjeta al pasa por caja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Carte E.Leclerc</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T223531Z" creationid="Sarita" creationdate="20190603T223531Z">
+        <seg>Tarjeta E.Leclerc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Carte cadeau</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T223752Z" creationid="Sarita" creationdate="20190603T223752Z">
+        <seg>Tarjeta regalo</seg>
       </tuv>
     </tu>
     <tu>
@@ -1478,6 +1502,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>La Borne électrique</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T223852Z" creationid="Sarita" creationdate="20190603T223852Z">
+        <seg>La recarga eléctrica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>La disponibilité des produits et leurs prix sont indiqués en magasin, nous vous invitons donc à vous renseigner au Point Accueil de votre centre E.LECLERC.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T132045Z" creationid="Sarita" creationdate="20190508T132045Z">
@@ -1782,6 +1814,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Les ventes privées E.Leclerc</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T223716Z" creationid="Sarita" creationdate="20190603T223716Z">
+        <seg>Las ventanas privadas E.Leclerc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Lire les engagements E.Leclerc</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T140231Z" creationid="Sarita" creationdate="20190603T140231Z">
@@ -2074,6 +2114,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190510T140315Z" creationid="Cristina" creationdate="20190510T140315Z">
         <seg>¿Podemos cambiar un producto en un centro de E.LECLERC?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Place des parents - mes avantages</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T223700Z" creationid="Sarita" creationdate="20190603T223700Z">
+        <seg>Espacio de los padres - mis ventajas</seg>
       </tuv>
     </tu>
     <tu>
@@ -2450,6 +2498,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T134706Z" creationid="Cristina" creationdate="20190523T134706Z">
         <seg>Servicio post-venta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Services</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T223720Z" creationid="Sarita" creationdate="20190603T223720Z">
+        <seg>Servicios</seg>
       </tuv>
     </tu>
     <tu>
