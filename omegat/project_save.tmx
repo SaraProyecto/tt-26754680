@@ -1278,6 +1278,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Extension de garantie</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T224100Z" creationid="Sarita" creationdate="20190603T224047Z">
+        <seg>Extensión de la garantía</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>FAQ</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T191456Z" creationid="Sarita" creationdate="20190603T191456Z">
@@ -1974,6 +1982,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Nous connaître</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T224121Z" creationid="Sarita" creationdate="20190603T224121Z">
+        <seg>Contacto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Nous constatons plus particulièrement une recrudescence de tentatives de phishing par emails.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190515T111055Z" creationid="Cristina" creationdate="20190515T111055Z">
@@ -2470,6 +2486,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>RÉGLO finance</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T223909Z" creationid="Sarita" creationdate="20190603T223909Z">
+        <seg>RÉGLO finanzas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>SAV</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T134959Z" creationid="Cristina" creationdate="20190523T134959Z">
@@ -2586,6 +2610,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T135540Z" creationid="Cristina" creationdate="20190523T135540Z">
         <seg>De lo contrario, puede contactar directamente con su tienda (yendo al mostrador de servicio o a la recepción de la tienda).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Soldes Tickets E.Leclerc</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T224028Z" creationid="Sarita" creationdate="20190603T224022Z">
+        <seg>Tiques descuento E.Leclerc</seg>
       </tuv>
     </tu>
     <tu>
