@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>- «25 euros remboursés dans votre supermarché E.Leclerc»</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T194252Z" creationid="Sarita" creationdate="20190603T194252Z">
+        <seg>- "25 euros reembolsados en su supermercado E.Leclerc"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>- «&lt;s0&gt; Vous avez téléchargé tous les bons.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T105802Z" creationid="Cristina" creationdate="20190523T105802Z">
@@ -224,8 +232,8 @@
       <tuv lang="FR-FR">
         <seg>- «Remportez un bon d’achat de 1000 euros»</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T194220Z" creationid="Sarita" creationdate="20190603T194220Z">
-        <seg>- "Obtenga un vale de compra de 1000"</seg>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T194225Z" creationid="Sarita" creationdate="20190603T194220Z">
+        <seg>- "Obtenga un vale de compra de 1000 euros"</seg>
       </tuv>
     </tu>
     <tu>
