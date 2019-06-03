@@ -384,8 +384,8 @@
       <tuv lang="FR-FR">
         <seg>-signalez le cas d’escroquerie présumée au service client de E. Leclerc.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Sarita" changedate="20190510T142842Z" creationid="Sarita" creationdate="20190510T142842Z">
-        <seg>-denuncie el supuesto E. Leclerc.</seg>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T222041Z" creationid="Sarita" creationdate="20190510T142842Z">
+        <seg>-denuncie el supuesto fraude al servicio al cliente de E. Leclerc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2190,6 +2190,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Que faire si vous êtes confronté à une tentative d'escroquerie par mail ou par téléphone ?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T221855Z" creationid="Sarita" creationdate="20190603T221855Z">
+        <seg>¿Qué hacer si se enfrenta a un intento de estafa por correo o por teléfono?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Que signifie le message « Cette fonctionnalité n’est pas disponible actuellement, veuillez réessayer ultérieurement !</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T100907Z" creationid="Cristina" creationdate="20190523T100907Z">
@@ -2738,6 +2746,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T172916Z" creationid="Sarita" creationdate="20190602T172741Z">
         <seg>También puede establecer pautas para la conservación, el borrado y la comunicación de sus datos personales tras su fallecimiento en las condiciones establecidas en el Artículo 40-1 de la Ley de Protección de Datos modificada.&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Vous pouvez également signaler le mail sur le site Signal-spam : &lt;a0&gt;http://www.signal-spam.fr&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T222153Z" creationid="Sarita" creationdate="20190603T222153Z">
+        <seg>También puede informar por correo electrónico en el sitio Signal-spam: &lt;a0&gt;http://www.signal-spam.fr&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
