@@ -782,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Des solutions tout de suite.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T141754Z" creationid="Sarita" creationdate="20190603T141754Z">
+        <seg>Soluciones de inmediato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Drive</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T110330Z" creationid="Cristina" creationdate="20190523T110330Z">
@@ -1102,6 +1110,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Le Service Après-Vente E.LECLERC.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T140249Z" creationid="Sarita" creationdate="20190603T140249Z">
+        <seg>El Servicio Postventa E.LECLERC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Le bien acheté est impropre à l’usage habituellement attendu d’un bien semblable, ce défaut doit exister lors de l'achat du bien en question.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T155759Z" creationid="Sarita" creationdate="20190602T155759Z">
@@ -1322,6 +1338,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T110602Z" creationid="Cristina" creationdate="20190523T110602Z">
         <seg>Ventas privadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Lire les engagements E.Leclerc</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T140231Z" creationid="Sarita" creationdate="20190603T140231Z">
+        <seg>Lea los compromisos de E.Leclerc</seg>
       </tuv>
     </tu>
     <tu>
