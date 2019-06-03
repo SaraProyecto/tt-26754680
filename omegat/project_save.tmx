@@ -536,8 +536,8 @@
       <tuv lang="FR-FR">
         <seg>&lt;s7&gt;&lt;e8&gt;* Dans le centre E.Leclerc de l’achat, sur présentation du ticket de caisse, à condition que le produit soit restitué dans son état et emballage d’origine non ouvert hors produits frais.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Cristina" changedate="20190510T141440Z" creationid="Cristina" creationdate="20190510T141244Z">
-        <seg>&lt;s7&gt;&lt;e8&gt;*En el centro E.Leclerc de la compra, en la presentación del recibo, siempre que el producto se devuelva en su estado original sin abrir el envasado, excepto los productos frescos.</seg>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T205007Z" creationid="Cristina" creationdate="20190510T141244Z">
+        <seg>&lt;s7&gt;&lt;e8&gt;*En el centro E.Leclerc de la compra, en la presentación del tique, siempre que el producto se devuelva en su estado original sin abrir el envasado, excepto los productos frescos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1432,8 +1432,8 @@
       <tuv lang="FR-FR">
         <seg>Le message « Aucun décagnottage cette semaine » s’affiche si vous n’avez effectué aucun paiement en Tickets E.Leclerc sur la semaine en cours.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T094630Z" creationid="Cristina" creationdate="20190523T094630Z">
-        <seg>El mesaje "Sin bote premiado esta semana" se muestra si no ha realizado ningún pago con la Tarjeta E.Leclerc en esa semana</seg>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T205040Z" creationid="Cristina" creationdate="20190523T094630Z">
+        <seg>El mesaje "Sin bote premiado esta semana" se muestra si no ha realizado ningún pago con la Tarjeta E.Leclerc en esa semana.</seg>
       </tuv>
     </tu>
     <tu>
