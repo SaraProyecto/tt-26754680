@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>&lt;s0&gt;E.Leclerc vous alerte sur les communications frauduleuses.&lt;/s0&gt; &lt;a1&gt; &lt;/a1&gt; &lt;a2&gt; &lt;/a2&gt; &lt;a3&gt; En savoir plus &lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T142948Z" creationid="Sarita" creationdate="20190603T142948Z">
+        <seg>&lt;s0&gt;E.Leclerc le alerta sobre comunicaciones fraudulentas.&lt;/s0&gt; &lt;a1&gt; &lt;/a1&gt; &lt;a2&gt; &lt;/a2&gt; &lt;a3&gt;Más información &lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>&lt;s0&gt;L'enseigne E.LECLERC est un mouvement d'indépendants, c'est pourquoi chaque magasin met en œuvre sa propre politique commerciale en terme de produits et de services pour mieux répondre aux besoins de sa clientèle.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T112450Z" creationid="Cristina" creationdate="20190523T112450Z">
