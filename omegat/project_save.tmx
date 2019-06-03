@@ -888,8 +888,8 @@
       <tuv lang="FR-FR">
         <seg>En savoir + sur le SAV E.Leclerc</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T142228Z" creationid="Sarita" creationdate="20190603T142228Z">
-        <seg>Para saber + del servicio postventa de E.Leclerc</seg>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T143117Z" creationid="Sarita" creationdate="20190603T142228Z">
+        <seg>Para + información del servicio postventa de E.Leclerc</seg>
       </tuv>
     </tu>
     <tu>
@@ -1656,8 +1656,8 @@
       <tuv lang="FR-FR">
         <seg>Pour en savoir plus, cliquez ici</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Cristina" changedate="20190522T122142Z" creationid="Cristina" creationdate="20190522T122142Z">
-        <seg>Para saber más, haga clic aquí</seg>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T143041Z" creationid="Cristina" creationdate="20190522T122142Z">
+        <seg>Para más información, haga clic aquí</seg>
       </tuv>
     </tu>
     <tu>
@@ -2376,8 +2376,8 @@
       <tuv lang="FR-FR">
         <seg>pour en savoir plus, cliquez ici</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Sarita" changedate="20190522T122821Z" creationid="Sarita" creationdate="20190522T122821Z">
-        <seg>Para saber más, haga clic aquí</seg>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T143032Z" creationid="Sarita" creationdate="20190522T122821Z">
+        <seg>Para más información, haga clic aquí</seg>
       </tuv>
     </tu>
     <tu>
