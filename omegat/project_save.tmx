@@ -800,8 +800,8 @@
       <tuv lang="FR-FR">
         <seg>Comment identifier une tentative d'escroquerie téléphonique ?</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T212033Z" creationid="Sarita" creationdate="20190603T212033Z">
-        <seg>¿C</seg>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T212104Z" creationid="Sarita" creationdate="20190603T212033Z">
+        <seg>¿Cómo identificar un intento de estafa telefónica?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1570,6 +1570,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T193322Z" creationid="Cristina" creationdate="20190515T111119Z">
         <seg>Los correos electrónicos pueden ser muy realistas porque reproducen la marca y/o el logotipo de E. Leclerc con la misma identidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Les escroqueries téléphoniques peuvent paraitre réalistes car les interlocuteurs se présentent comme appartenant à des entités de l'enseigne E.Leclerc.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T213328Z" creationid="Sarita" creationdate="20190603T213328Z">
+        <seg>Las estafas telefónicas pueden parecer realistas porque los interlocutores se presentan como pertenecientes a entidades de la marca E.Leclerc.</seg>
       </tuv>
     </tu>
     <tu>
