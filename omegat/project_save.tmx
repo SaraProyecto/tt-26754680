@@ -3110,14 +3110,6 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
-        <seg>fr</seg>
-      </tuv>
-      <tuv lang="ES-ES" changeid="Sarita" changedate="20190604T100230Z" creationid="Sarita" creationdate="20190604T100230Z">
-        <seg>tfr</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="FR-FR">
         <seg>livraison</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T110342Z" creationid="Cristina" creationdate="20190523T110342Z">
