@@ -3110,6 +3110,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>fr</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190604T100230Z" creationid="Sarita" creationdate="20190604T100230Z">
+        <seg>tfr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>livraison</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T110342Z" creationid="Cristina" creationdate="20190523T110342Z">
@@ -3122,6 +3130,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="alumno" changedate="20190508T120204Z" creationid="alumno" creationdate="20190508T120204Z">
         <seg>Alquiler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>manège à bijoux</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="alumno" changedate="20190508T120324Z" creationid="alumno" creationdate="20190508T115614Z">
+        <seg>paseo de joya</seg>
       </tuv>
     </tu>
     <tu>
