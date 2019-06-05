@@ -670,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Alliances Locales</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190605T144017Z" creationid="Sarita" creationdate="20190605T144017Z">
+        <seg>Alianzas Locales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Applications mobiles E.Leclerc</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T223320Z" creationid="Sarita" creationdate="20190603T223320Z">
@@ -722,6 +730,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T112414Z" creationid="Cristina" creationdate="20190523T112342Z">
         <seg>Otros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Bijoux</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190605T143943Z" creationid="Sarita" creationdate="20190605T143943Z">
+        <seg>Joyería</seg>
       </tuv>
     </tu>
     <tu>
@@ -1086,6 +1102,22 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Cookie Notice</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190605T143833Z" creationid="Sarita" creationdate="20190605T143833Z">
+        <seg>Cookie Nota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Culture</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190605T143932Z" creationid="Sarita" creationdate="20190605T143932Z">
+        <seg>Cultura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Dans ce cas, vos achats peuvent être affichés dans un délai d'une dizaine de jours au plus tard, le temps d'enregistrer et d'activer votre compte.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T101609Z" creationid="Cristina" creationdate="20190523T101609Z">
@@ -1258,6 +1290,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T190938Z" creationid="Sarita" creationdate="20190603T190938Z">
         <seg>Más información</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Energie</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190605T143929Z" creationid="Sarita" creationdate="20190605T143929Z">
+        <seg>Energía</seg>
       </tuv>
     </tu>
     <tu>
@@ -1878,6 +1918,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Loisirs</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190605T143946Z" creationid="Sarita" creationdate="20190605T143946Z">
+        <seg>Ocio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Lot : &lt;s12&gt;&lt;/s12&gt; &lt;br13/&gt;</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T190346Z" creationid="Sarita" creationdate="20190603T190346Z">
@@ -2114,6 +2162,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T225106Z" creationid="Sarita" creationdate="20190603T225106Z">
         <seg>Obtenga inmediatamente su&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Obtenez immédiatement votre&lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190605T144113Z" creationid="Sarita" creationdate="20190605T144113Z">
+        <seg>Obtenga inmediatamente su&lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2590,6 +2646,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Santé et médicaments</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190605T143940Z" creationid="Sarita" creationdate="20190605T143940Z">
+        <seg>Salud y medicamentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Se rapprocher du magasin qui prendra en charge votre appareil suivant les conditions de retour du fournisseur.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T140901Z" creationid="Cristina" creationdate="20190523T140901Z">
@@ -2774,6 +2838,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Transports</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190605T143949Z" creationid="Sarita" creationdate="20190605T143949Z">
+        <seg>Transporte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Travailler chez / avec E.Leclerc</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190510T144109Z" creationid="Sarita" creationdate="20190510T144109Z">
@@ -2858,6 +2930,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190602T164015Z" creationid="Sarita" creationdate="20190602T164015Z">
         <seg>Un defecto oculto es un defecto que no es evidente en el momento de la venta, lo que hace que el artículo no sea adecuado para el uso normal o reduce su uso tanto que el cliente no lo habría comprado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Une heure pour soi</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="alumno" changedate="20190508T115843Z" creationid="alumno" creationdate="20190508T115843Z">
+        <seg>Una hora para ti mismo</seg>
       </tuv>
     </tu>
     <tu>
