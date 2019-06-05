@@ -2278,6 +2278,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Photo</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190605T144530Z" creationid="Sarita" creationdate="20190605T144530Z">
+        <seg>Foto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Place des parents - mes avantages</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T223700Z" creationid="Sarita" creationdate="20190603T223700Z">
@@ -3158,6 +3166,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>auto</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190605T144553Z" creationid="Sarita" creationdate="20190605T144553Z">
+        <seg>coche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>beauté</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190605T144429Z" creationid="Sarita" creationdate="20190605T144429Z">
@@ -3198,6 +3214,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>jardi</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190605T144547Z" creationid="Sarita" creationdate="20190605T144537Z">
+        <seg>jardín</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>livraison</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190605T143625Z" creationid="Sarita" creationdate="20190605T143625Z">
@@ -3214,10 +3238,26 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>maison</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190605T144533Z" creationid="Sarita" creationdate="20190605T144533Z">
+        <seg>hogar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>manège à bijoux</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="alumno" changedate="20190508T120324Z" creationid="alumno" creationdate="20190508T115614Z">
         <seg>paseo de joya</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>mode</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190605T144556Z" creationid="Sarita" creationdate="20190605T144556Z">
+        <seg>moda</seg>
       </tuv>
     </tu>
     <tu>
