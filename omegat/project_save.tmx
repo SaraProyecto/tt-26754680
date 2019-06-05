@@ -2878,14 +2878,6 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
-        <seg>Une heure pour soi</seg>
-      </tuv>
-      <tuv lang="ES-ES" changeid="alumno" changedate="20190508T115843Z" creationid="alumno" creationdate="20190508T115843Z">
-        <seg>Una hora para ti mismo</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="FR-FR">
         <seg>Utilisation des cookies</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T190741Z" creationid="Sarita" creationdate="20190603T190741Z">
@@ -3144,8 +3136,8 @@
       <tuv lang="FR-FR">
         <seg>parapharmacie</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="alumno" changedate="20190508T115623Z" creationid="alumno" creationdate="20190508T115623Z">
-        <seg>parafarmacia</seg>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190605T143411Z" creationid="alumno" creationdate="20190508T115623Z">
+        <seg>parafarmacie</seg>
       </tuv>
     </tu>
     <tu>
