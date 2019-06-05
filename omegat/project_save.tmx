@@ -720,8 +720,8 @@
       <tuv lang="FR-FR">
         <seg>Auto</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="alumno" changedate="20190508T124007Z" creationid="alumno" creationdate="20190508T115645Z">
-        <seg>Automóbiles</seg>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190605T144809Z" creationid="alumno" creationdate="20190508T115645Z">
+        <seg>Automóviles</seg>
       </tuv>
     </tu>
     <tu>
@@ -752,8 +752,8 @@
       <tuv lang="FR-FR">
         <seg>Billetterie</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T191729Z" creationid="Sarita" creationdate="20190508T123832Z">
-        <seg>Billeterie</seg>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190605T144920Z" creationid="Sarita" creationdate="20190508T123832Z">
+        <seg>Taquilla</seg>
       </tuv>
     </tu>
     <tu>
@@ -3168,8 +3168,8 @@
       <tuv lang="FR-FR">
         <seg>auto</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Sarita" changedate="20190605T144553Z" creationid="Sarita" creationdate="20190605T144553Z">
-        <seg>coche</seg>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190605T144737Z" creationid="Sarita" creationdate="20190605T144553Z">
+        <seg>automóvil</seg>
       </tuv>
     </tu>
     <tu>
@@ -3246,14 +3246,6 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
-        <seg>manège à bijoux</seg>
-      </tuv>
-      <tuv lang="ES-ES" changeid="alumno" changedate="20190508T120324Z" creationid="alumno" creationdate="20190508T115614Z">
-        <seg>paseo de joya</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="FR-FR">
         <seg>mode</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190605T144556Z" creationid="Sarita" creationdate="20190605T144556Z">
@@ -3280,8 +3272,8 @@
       <tuv lang="FR-FR">
         <seg>parapharmacie</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Sarita" changedate="20190605T143411Z" creationid="alumno" creationdate="20190508T115623Z">
-        <seg>parafarmacie</seg>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190605T144813Z" creationid="alumno" creationdate="20190508T115623Z">
+        <seg>parafarmacia</seg>
       </tuv>
     </tu>
     <tu>
