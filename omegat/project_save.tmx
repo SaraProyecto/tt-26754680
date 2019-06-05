@@ -734,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>BILLETTERIE</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190605T144527Z" creationid="Sarita" creationdate="20190605T144527Z">
+        <seg>TAQUILLA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Bijoux</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190605T143943Z" creationid="Sarita" creationdate="20190605T143943Z">
@@ -762,6 +770,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="alumno" changedate="20190508T115942Z" creationid="alumno" creationdate="20190508T115942Z">
         <seg>Bricomanía</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>Bébé</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190605T144426Z" creationid="Sarita" creationdate="20190605T144426Z">
+        <seg>Bebé</seg>
       </tuv>
     </tu>
     <tu>
@@ -3142,10 +3158,26 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>beauté</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190605T144429Z" creationid="Sarita" creationdate="20190605T144429Z">
+        <seg>belleza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>bijoux</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T110841Z" creationid="Cristina" creationdate="20190523T110841Z">
         <seg>joyería</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>culture</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190605T144433Z" creationid="Sarita" creationdate="20190605T144433Z">
+        <seg>cultura</seg>
       </tuv>
     </tu>
     <tu>
@@ -3198,6 +3230,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>offres web</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190605T144417Z" creationid="Sarita" creationdate="20190605T144414Z">
+        <seg>ofertas web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>parapharmacie</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190605T143411Z" creationid="alumno" creationdate="20190508T115623Z">
@@ -3226,6 +3266,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190508T124558Z" creationid="Sarita" creationdate="20190508T124558Z">
         <seg>Sequencity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>vin</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190605T144422Z" creationid="Sarita" creationdate="20190605T144422Z">
+        <seg>vino</seg>
       </tuv>
     </tu>
     <tu>
