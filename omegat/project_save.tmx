@@ -1142,14 +1142,6 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
-        <seg>Drive</seg>
-      </tuv>
-      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T110330Z" creationid="Cristina" creationdate="20190523T110330Z">
-        <seg>Unidad</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="FR-FR">
         <seg>Durant cette période, le message qui s’affiche est : « Vous ne vous êtes pas encore servi de votre Carte E.Leclerc ? ».</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T103321Z" creationid="Cristina" creationdate="20190523T103321Z">
@@ -1362,14 +1354,6 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T190351Z" creationid="Sarita" creationdate="20190603T190351Z">
         <seg>Gencod: &lt;s6&gt;&lt;/s6&gt; &lt;br7/&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="FR-FR">
-        <seg>High-Tech</seg>
-      </tuv>
-      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T110427Z" creationid="Cristina" creationdate="20190523T110427Z">
-        <seg>Alta tecnología</seg>
       </tuv>
     </tu>
     <tu>
@@ -2718,14 +2702,6 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
-        <seg>Sport</seg>
-      </tuv>
-      <tuv lang="ES-ES" changeid="alumno" changedate="20190508T120037Z" creationid="alumno" creationdate="20190508T120037Z">
-        <seg>Deporte</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="FR-FR">
         <seg>Suggestions de mots clés</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T184715Z" creationid="Sarita" creationdate="20190603T184715Z">
@@ -3090,14 +3066,6 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T111052Z" creationid="Cristina" creationdate="20190523T111052Z">
         <seg>Correo electrónico</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="FR-FR">
-        <seg>livraison</seg>
-      </tuv>
-      <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T110342Z" creationid="Cristina" creationdate="20190523T110342Z">
-        <seg>Entrega</seg>
       </tuv>
     </tu>
     <tu>
