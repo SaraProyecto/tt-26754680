@@ -2158,6 +2158,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Parapharmacie</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190605T143618Z" creationid="Sarita" creationdate="20190605T143618Z">
+        <seg>Parafarmacia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Parce que toujours plus d'avantages, c'est un plus grand pouvoir d'achat !</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T090223Z" creationid="Cristina" creationdate="20190523T090223Z">
@@ -2702,6 +2710,14 @@
     </tu>
     <tu>
       <tuv lang="FR-FR">
+        <seg>Sport</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190605T143611Z" creationid="Sarita" creationdate="20190605T143611Z">
+        <seg>Deporte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
         <seg>Suggestions de mots clés</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Sarita" changedate="20190603T184715Z" creationid="Sarita" creationdate="20190603T184715Z">
@@ -3066,6 +3082,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Cristina" changedate="20190523T111052Z" creationid="Cristina" creationdate="20190523T111052Z">
         <seg>Correo electrónico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR-FR">
+        <seg>livraison</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Sarita" changedate="20190605T143625Z" creationid="Sarita" creationdate="20190605T143625Z">
+        <seg>Entrega</seg>
       </tuv>
     </tu>
     <tu>
